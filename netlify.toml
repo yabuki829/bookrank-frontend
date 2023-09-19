@@ -1,2 +1,4 @@
-[functions."test-function"]
-schedule = "@hourly"
+[build]
+  [functions."test-function"]
+  schedule = "@hourly"
+
