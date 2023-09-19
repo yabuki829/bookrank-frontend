@@ -1,4 +1,5 @@
 [build]
-  [functions."test-function"]
-  schedule = "@hourly"
 
+[[functions]]
+  name = "test-function"
+  schedule = "@hourly"
