@@ -1,6 +1,2 @@
-[functions."test-function"]
-schedule = "@hourly"
-
-
 [functions."get_book_rank"]
 schedule = "@hourly"

@@ -3,6 +3,7 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
+// やりたかったことができそうにない
 exports.handler = async function(event, context) {
   // ここで取得する
   //api通信を行う
@@ -11,7 +12,6 @@ exports.handler = async function(event, context) {
   console.log("API通信を行います")
   try {
     // APIからデータを取得する
-    // const response = await axios.get('http://127.0.0.1:8000/api/ranking');
     const response = await axios.get("https://bookrank-render.onrender.com/api/ranking");
     console.log("取得成功")
     const books = response.data;
