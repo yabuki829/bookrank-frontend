@@ -1,2 +1,2 @@
-[functions."get_book_rank"]
+[functions."test-function"]
 schedule = "@hourly"
