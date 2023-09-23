@@ -5,10 +5,8 @@ exports.handler = async function(event, context) {
   //api通信を行う
   // books.jsとして取得したデータをjson形式にして保存する
 
-  console.log("テスト")
-  print("テスト")
-
   
+
   return {
       statusCode: 200,
   };
