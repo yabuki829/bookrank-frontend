@@ -9,14 +9,13 @@ exports.handler = async function(event, context) {
   // books.jsとして取得したデータをjson形式にして保存する
 
   console.log("API通信を行います")
-  print("API通信を行います")
   try {
     // APIからデータを取得する
     // const response = await axios.get('http://127.0.0.1:8000/api/ranking');
     const response = await axios.get("https://bookrank-render.onrender.com/api/ranking");
     
     const books = response.data;
-
+    
     // 取得したデータを親ディレクトリのbooks.jsに保存する
     fs.writeFileSync(path.join(__dirname, '..', 'books.js'), JSON.stringify(books, null, 2));
     console.log("取得に成功しました")
