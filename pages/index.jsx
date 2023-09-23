@@ -4,32 +4,35 @@ import InfiniteScroll from 'react-infinite-scroll-component';
 import books from '../books';
 import Header from '../components/layouts/Header';
 
-const fetchBooks = async ({ queryKey }) => {
 
-  const [start, limit] = queryKey;
+
+const fetchBooks = async ({ queryKey }) => {
+  // あんまり理解できてない
+  const [, start, limit] = queryKey;
   const result = books.slice(start, start + limit);
   console.log("Fetched books:", result);
   return result;
 }
 
+
 export default function Home() {
   const [page, setPage] = useState(1);
   const [allData, setAllData] = useState([]);
-  // あんまり理解してないから今後調べる
+ 
   const { data } = useQuery(
     ['books', (page - 1) * 30, 30],
+
     fetchBooks,
     {
       keepPreviousData: true
     }
   );
-
+  
   useEffect(() => {
     if (data) {
       setAllData(prev => [...prev, ...data]);
     }
   }, [data]);
-
   const hasMore = allData.length < books.length;
 
   console.log("Can fetch more?", hasMore);
