@@ -41,7 +41,7 @@ export default function Home() {
       
       <div className='py-3  md:text-center'>
         <p >ブックランクではYoutube上で紹介されている本を集計してランキングを作成したものです。</p>
-        <p>現在の本の冊数: {books_data.total_books}冊</p>
+        <p>書籍数: {books_data.total_books}冊</p>
        
       </div>
       <p className='bg-blue-400 text-white p-2'>今後の機能追加予定</p>
