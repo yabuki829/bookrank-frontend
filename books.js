@@ -1,4 +1,6 @@
-const books = [
+const books = {
+  "total_books": 3144,
+  "books": [
   {
   "title": "早わかり日本史",
   "views": 11,
@@ -147,7 +149,7 @@ const books = [
   {
   "title": "エッセンシャル思考 最少の時間で成果を最大にする",
   "views": 9,
-  "isbn": "9784761270438",
+  "isbn": "B00QQKCV6E",
   "data": [
   {
   "title": "【実践レベルの完全版】残業150時間超えだった私が「ぬくぬく」できるようになったのは、絶対この本のおかげです。",
@@ -190,7 +192,7 @@ const books = [
   {
   "title": "改訂版 金持ち父さん 貧乏父さん:アメリカの金持ちが教えてくれるお金の哲学 (単行本)",
   "views": 9,
-  "isbn": "9784480864246",
+  "isbn": "4480864245",
   "data": [
   {
   "title": "【名著を解説】金持ち父さん貧乏父さん｜「家」と「車」がビンボーを量産",
@@ -432,7 +434,7 @@ const books = [
   {
   "title": "嫌われる勇気 自己啓発の源流「アドラー」の教え",
   "views": 7,
-  "isbn": "9784478025819",
+  "isbn": "4478025819",
   "data": [
   {
   "title": "【究極】人生の意味の心理学｜アドラー　疲れた心に効く、アドラー直伝の教え",
@@ -502,7 +504,7 @@ const books = [
   {
   "title": "完訳 7つの習慣 人格主義の回復",
   "views": 7,
-  "isbn": "9784863940246",
+  "isbn": "B00KFB5DJC",
   "data": [
   {
   "title": "【伝説の名著】7つの習慣｜King of 自己啓発",
@@ -572,7 +574,7 @@ const books = [
   {
   "title": "マンガでわかる源氏物語 (池田書店のマンガでわかるシリーズ)",
   "views": 7,
-  "isbn": "9784262154084",
+  "isbn": "4262154084",
   "data": [
   {
   "title": "【源氏物語⑧】世界最古の切ない恋物語、ついに最終回",
@@ -605,9 +607,44 @@ const books = [
   ]
   },
   {
+  "title": "向日葵の咲かない夏（新潮文庫）",
+  "views": 7,
+  "isbn": "B0096PE4CU",
+  "data": [
+  {
+  "title": "イヤな気持ちになるミステリ3選 #short",
+  "url": "https://www.youtube.com/watch?v=_aYsuRqYnF0"
+  },
+  {
+  "title": "思わず再読したミステリ3選【理由付き】",
+  "url": "https://www.youtube.com/watch?v=tUxG-d8L8i0"
+  },
+  {
+  "title": "大人気企画！最近読んだ本を80人の前で紹介してみた",
+  "url": "https://www.youtube.com/watch?v=3xWqBM5GLOQ"
+  },
+  {
+  "title": "今の我々を作った作品たちを紹介します",
+  "url": "https://www.youtube.com/watch?v=VYZNtkV4o1Y"
+  },
+  {
+  "title": "【結果発表】第1回帯文選手権",
+  "url": "https://www.youtube.com/watch?v=4288dEYhP4I"
+  },
+  {
+  "title": "未解決ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=qxmOhgeyksE"
+  },
+  {
+  "title": "ミステリマニアが選ぶイヤミス3選",
+  "url": "https://www.youtube.com/watch?v=zb67cZQKiv8"
+  }
+  ]
+  },
+  {
   "title": "自分の中に毒を持て<新装版> (青春文庫)",
   "views": 6,
-  "isbn": "9784413096843",
+  "isbn": "4413096843",
   "data": [
   {
   "title": "もっと恋愛しろ！SEXしろ！本を読め！人間であれ！　『自分の中に毒を持て　岡本太郎/著』2/2。　ただ好き。だからやる。仕事も恋愛もそれが全て。「アートな生き方」をしろ！",
@@ -731,7 +768,7 @@ const books = [
   {
   "title": "あやうく一生懸命生きるところだった",
   "views": 5,
-  "isbn": "9784478108659",
+  "isbn": "447810865X",
   "data": [
   {
   "title": "8冊一挙紹介！最近読んだエッセイ・詩・実用書・漫画・絵本を語るよ〜",
@@ -783,6 +820,33 @@ const books = [
   ]
   },
   {
+  "title": "かがみの孤城",
+  "views": 5,
+  "isbn": "4591153320",
+  "data": [
+  {
+  "title": "【ネタバレ注意】“かがみの孤城\"に隠された謎！【本の紹介・レビュー】",
+  "url": "https://www.youtube.com/watch?v=rwvABkAX-2I"
+  },
+  {
+  "title": "【書評】本屋大賞受賞！かがみの孤城/辻村深月をレビュー【本の感想・紹介】",
+  "url": "https://www.youtube.com/watch?v=H4HdFE8qJlc"
+  },
+  {
+  "title": "【2018年上半期】面白おすすめ本ランキング16！【本の紹介/書評】",
+  "url": "https://www.youtube.com/watch?v=uPOa7eoRSas"
+  },
+  {
+  "title": "中学生におすすめの本を3冊紹介します！ _ Change check _ Django site admin",
+  "url": "https://www.youtube.com/watch?v=1r-oWBw5SiU"
+  },
+  {
+  "title": "思わず涙が出る本を紹介します",
+  "url": "https://www.youtube.com/watch?v=vt0rozLB71M"
+  }
+  ]
+  },
+  {
   "title": "漫画 君たちはどう生きるか",
   "views": 5,
   "isbn": "4838729472",
@@ -812,7 +876,7 @@ const books = [
   {
   "title": "新訳 引き寄せの法則　エイブラハムとの対話",
   "views": 5,
-  "isbn": "9784815615253",
+  "isbn": "481561525X",
   "data": [
   {
   "title": "『”新訳”引き寄せの法則：エイブラハムとの対話』　世界的なベストセラー！伝説の引き寄せ本📗",
@@ -839,7 +903,7 @@ const books = [
   {
   "title": "人を動かす 文庫版",
   "views": 5,
-  "isbn": "9784422100982",
+  "isbn": "442210098X",
   "data": [
   {
   "title": "人を動かす！人に好かれる！人たらしの話し方・伝え方。【人を動かす　デール・カーネギー】の本解説要約。オーディオブック、ビジネス書レビュー、自己啓発本オーディブル、朗読。",
@@ -893,7 +957,7 @@ const books = [
   {
   "title": "世界一シンプルで科学的に証明された究極の食事",
   "views": 5,
-  "isbn": "9784492046241",
+  "isbn": "4492046240",
   "data": [
   {
   "title": "【ベストセラー】「ごちゃごちゃ考えずコレを食え！安くてコスパ最強の「極上の食べ物」３選」を世界一わかりやすく要約してみた【本要約】",
@@ -920,7 +984,7 @@ const books = [
   {
   "title": "不老長寿メソッド 死ぬまで若いは武器になる",
   "views": 5,
-  "isbn": "9784761275303",
+  "isbn": "4761275308",
   "data": [
   {
   "title": "【ベストセラー】「寝る前に一錠アレを飲め！快眠確定！炎症激減の神サプリ」を世界一わかりやすく要約してみた【本要約】",
@@ -947,7 +1011,7 @@ const books = [
   {
   "title": "月10万円で より豊かに暮らす ミニマリスト生活",
   "views": 5,
-  "isbn": "9784295404101",
+  "isbn": "4295404101",
   "data": [
   {
   "title": "【ベストセラー】「モノを極限まで捨てることのヤバいメリット５選」を世界一わかりやすく要約してみた【本要約】",
@@ -974,7 +1038,7 @@ const books = [
   {
   "title": "金持ちフリーランス 貧乏サラリーマン",
   "views": 5,
-  "isbn": "9784046050397",
+  "isbn": "404605039X",
   "data": [
   {
   "title": "【ベストセラー】「金持ちフリーランス 貧乏サラリーマン」を世界一わかりやすく要約してみた【本要約】",
@@ -1028,7 +1092,7 @@ const books = [
   {
   "title": "習慣が10割",
   "views": 5,
-  "isbn": "9784799107591",
+  "isbn": "4799107593",
   "data": [
   {
   "title": "【習慣化】『習慣が10割』 ｜人生がうまくいく最も強力でシンプルな方法【本要約】",
@@ -1082,7 +1146,7 @@ const books = [
   {
   "title": "反応しない練習 あらゆる悩みが消えていくブッダの超・合理的な「考え方」",
   "views": 5,
-  "isbn": "9784041030400",
+  "isbn": "4041030404",
   "data": [
   {
   "title": "【一撃で悩みをゼロに】超ベストセラー『反応しない練習』を日本一ホットに解説してやろう。",
@@ -1107,9 +1171,36 @@ const books = [
   ]
   },
   {
+  "title": "人は話し方が9割",
+  "views": 5,
+  "isbn": "4799108425",
+  "data": [
+  {
+  "title": "【驚異の85万部】人は話し方が9割｜しゃべくりの神になりたいあなたへ",
+  "url": "https://www.youtube.com/watch?v=C_Chh3mdKW4"
+  },
+  {
+  "title": "【人は話し方が9割②】自己紹介と悩み相談でもう悩まない（Nine Out of Ten, Your Words Change Your Life）",
+  "url": "https://www.youtube.com/watch?v=DLtXJmX0joE"
+  },
+  {
+  "title": "【人は話し方が9割①】100％好かれる話し方がある（Nine Out of Ten, Your Words Change Your Life）",
+  "url": "https://www.youtube.com/watch?v=3E2omi55sa0"
+  },
+  {
+  "title": "【要約】人は話し方が9割【松永茂久】",
+  "url": "https://www.youtube.com/watch?v=1COYM9bcAUw"
+  },
+  {
+  "title": "読書好きが最近読んだ本【2022年4月】",
+  "url": "https://www.youtube.com/watch?v=rW_Um3JBLRg"
+  }
+  ]
+  },
+  {
   "title": "最高の体調 ACTIVE HEALTH",
   "views": 5,
-  "isbn": "9784295402121",
+  "isbn": "4295402125",
   "data": [
   {
   "title": "【衝撃の結論】最高の体調｜あなたは悪くない。ぜんぶ、時代のせいだった。",
@@ -1136,7 +1227,7 @@ const books = [
   {
   "title": "伝え方が9割",
   "views": 5,
-  "isbn": "9784478017210",
+  "isbn": "4478017212",
   "data": [
   {
   "title": "【書籍 解説】伝え方が9割｜才能ではない。技術なんだ。",
@@ -1163,7 +1254,7 @@ const books = [
   {
   "title": "眠れなくなるほど面白い 図解 糖質の話",
   "views": 5,
-  "isbn": "9784537216479",
+  "isbn": "4537216476",
   "data": [
   {
   "title": "【糖質と肥満②】健康と体型のために食べてはいけないものとどう食べるか（Sugar and Obesity）",
@@ -1190,7 +1281,7 @@ const books = [
   {
   "title": "眠れなくなるほど面白い 図解 自律神経の話: 自律神経のギモンを専門医がすべて解説!",
   "views": 5,
-  "isbn": "9784537217766",
+  "isbn": "4537217766",
   "data": [
   {
   "title": "【自律神経②】健康のカギは腸とウォーキング（Balancing Your Autonomic Nervous System）",
@@ -1217,7 +1308,7 @@ const books = [
   {
   "title": "日本仏教史―思想史としてのアプローチ (新潮文庫)",
   "views": 5,
-  "isbn": "9784101489117",
+  "isbn": "4101489114",
   "data": [
   {
   "title": "【禅の心③】どの時代どの国の人でも禅に魅了される理由とは？",
@@ -1244,7 +1335,7 @@ const books = [
   {
   "title": "池上彰の世界の見方 東南アジア: ASEANの国々",
   "views": 5,
-  "isbn": "9784093886871",
+  "isbn": "B07RGPHVFV",
   "data": [
   {
   "title": "【東南アジア⑥】カンボジア＆ミャンマーの歴史",
@@ -1296,9 +1387,113 @@ const books = [
   ]
   },
   {
+  "title": "すべてがＦになる　THE PERFECT INSIDER Ｓ＆Ｍシリーズ (講談社文庫)",
+  "views": 5,
+  "isbn": "B009GXMFHI",
+  "data": [
+  {
+  "title": "理系がすすめる理系ミステリ【3冊】#shorts",
+  "url": "https://www.youtube.com/watch?v=HNxhpHzyejg"
+  },
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  },
+  {
+  "title": "最高なコンビが出てくる小説6選",
+  "url": "https://www.youtube.com/watch?v=RBbot8c7v1w"
+  },
+  {
+  "title": "心に響いた小説の一文6選",
+  "url": "https://www.youtube.com/watch?v=acV90OyJYeE"
+  },
+  {
+  "title": "集まれ数学オタク！『理系ミステリ小説 √9選！』",
+  "url": "https://www.youtube.com/watch?v=3gn6F7cWpFM"
+  }
+  ]
+  },
+  {
+  "title": "名探偵コナン（１） (少年サンデーコミックス)",
+  "views": 5,
+  "isbn": "B009JZHVMW",
+  "data": [
+  {
+  "title": "名探偵コナンをまた読み進めたくなる授業",
+  "url": "https://www.youtube.com/watch?v=HZ1-te0s1-A"
+  },
+  {
+  "title": "この漫画、面白いよ！【3選】【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=mB9Xbrl8rlU"
+  },
+  {
+  "title": "ヨビノリたくみが壊れました",
+  "url": "https://www.youtube.com/watch?v=y4Q1X0JkAg4"
+  },
+  {
+  "title": "色々な推理漫画を表にして授業してみた",
+  "url": "https://www.youtube.com/watch?v=h-1y3PUP8B8"
+  },
+  {
+  "title": "「名探偵コナン」今さら聞けないキャラクター相関図",
+  "url": "https://www.youtube.com/watch?v=T-Vk1ieBqFM"
+  }
+  ]
+  },
+  {
+  "title": "方舟",
+  "views": 5,
+  "isbn": "B0BC8HZZZN",
+  "data": [
+  {
+  "title": "好きなタイトルデザイン【フォント好き集まれ】",
+  "url": "https://www.youtube.com/watch?v=A_0-5LJIXtE"
+  },
+  {
+  "title": "話題のミステリ『方舟』のオチを読む人を観察しました",
+  "url": "https://www.youtube.com/watch?v=AkHJY57GF6Q"
+  },
+  {
+  "title": "【LIVE】第４回ほんタメ文学賞（2022年下半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=0Z_6XAg2sgQ"
+  },
+  {
+  "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
+  },
+  {
+  "title": "【全6冊】本屋で何を買うか悩んでいるあなたへ【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=pMwKz8feksc"
+  }
+  ]
+  },
+  {
+  "title": "汝、星のごとく",
+  "views": 4,
+  "isbn": "4065281490",
+  "data": [
+  {
+  "title": "【生配信】今日こそ『汝、星のごとく』を読み切る！",
+  "url": "https://www.youtube.com/watch?v=S5IFKhiSrwc"
+  },
+  {
+  "title": "【生配信】本屋大賞受賞作『汝、星のごとく』をひたすら読む！",
+  "url": "https://www.youtube.com/watch?v=j6MbjnZG8tI"
+  },
+  {
+  "title": "本屋大賞ノミネート作『汝、星のごとく』紹介します #shorts",
+  "url": "https://www.youtube.com/watch?v=XqjSdamSi_4"
+  },
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
   "title": "オルタネート",
   "views": 4,
-  "isbn": "9784103537311",
+  "isbn": "4101040230",
   "data": [
   {
   "title": "高校生直木賞受賞作『オルタネート』『雲を紡ぐ』を書評します！",
@@ -1319,9 +1514,32 @@ const books = [
   ]
   },
   {
+  "title": "犬がいた季節",
+  "views": 4,
+  "isbn": "4575243256",
+  "data": [
+  {
+  "title": "本屋大賞2021ノミネート10作を読破したので紹介&大賞予想します！",
+  "url": "https://www.youtube.com/watch?v=OwmsOpAg_q0"
+  },
+  {
+  "title": "READING VLOG : 読書好きの春休みを大公開するよ！",
+  "url": "https://www.youtube.com/watch?v=-_lqcapW0Z4"
+  },
+  {
+  "title": "【全10冊】本屋大賞2021のノミネート作を一緒に見よう！",
+  "url": "https://www.youtube.com/watch?v=zGuWxwJd3N4"
+  },
+  {
+  "title": "【2021年本屋大賞】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=ccl8e8LQjOc"
+  }
+  ]
+  },
+  {
   "title": "推し、燃ゆ",
   "views": 4,
-  "isbn": "9784309029160",
+  "isbn": "4309029167",
   "data": [
   {
   "title": "本屋大賞2021ノミネート10作を読破したので紹介&大賞予想します！",
@@ -1342,9 +1560,32 @@ const books = [
   ]
   },
   {
+  "title": "ライオンのおやつ",
+  "views": 4,
+  "isbn": "4591160025",
+  "data": [
+  {
+  "title": "号泣必至の感動小説！『ライオンのおやつ』を書評します！",
+  "url": "https://www.youtube.com/watch?v=JsYmlaQRJoY"
+  },
+  {
+  "title": "本屋大賞2020ノミネート10作一挙紹介！大賞もランキング予想します！",
+  "url": "https://www.youtube.com/watch?v=fx2Kf8W-CdI"
+  },
+  {
+  "title": "絶対に泣いてしまう本3選 #Shorts",
+  "url": "https://www.youtube.com/watch?v=fXL2XEJqKSo"
+  },
+  {
+  "title": "小説1000冊読んだ私が選ぶ「涙腺崩壊」ベスト３",
+  "url": "https://www.youtube.com/watch?v=8WDqaR5wz0U"
+  }
+  ]
+  },
+  {
   "title": "李陵・山月記 (新潮文庫)",
   "views": 4,
-  "isbn": "9784101077017",
+  "isbn": "4101077010",
   "data": [
   {
   "title": "本を1万円分買ったから紹介するよ！【6月】",
@@ -1367,7 +1608,7 @@ const books = [
   {
   "title": "ぼくはイエローでホワイトで、ちょっとブルー",
   "views": 4,
-  "isbn": "9784103526810",
+  "isbn": "4101017522",
   "data": [
   {
   "title": "話題の『ぼくはイエローでホワイトで、ちょっとブルー』を書評します！",
@@ -1390,7 +1631,7 @@ const books = [
   {
   "title": "YouTube革命 メディアを変える挑戦者たち",
   "views": 4,
-  "isbn": "9784163908113",
+  "isbn": "4163908110",
   "data": [
   {
   "title": "今の仕事がなくなる…？10年後の仕事図鑑/堀江貴文,落合陽一【ビジネス書評】",
@@ -1411,32 +1652,32 @@ const books = [
   ]
   },
   {
-  "title": "かがみの孤城",
+  "title": "改良 (河出文庫)",
   "views": 4,
-  "isbn": "9784591153321",
+  "isbn": "B09P4WHKS5",
   "data": [
   {
-  "title": "【ネタバレ注意】“かがみの孤城\"に隠された謎！【本の紹介・レビュー】",
-  "url": "https://www.youtube.com/watch?v=rwvABkAX-2I"
+  "title": "芥川賞受賞作も！最近読んだ小説9冊を語ります！",
+  "url": "https://www.youtube.com/watch?v=10KJOhDgDcw"
   },
   {
-  "title": "【書評】本屋大賞受賞！かがみの孤城/辻村深月をレビュー【本の感想・紹介】",
-  "url": "https://www.youtube.com/watch?v=H4HdFE8qJlc"
+  "title": "『文藝賞』とは何かを解説します！【推し文学賞】",
+  "url": "https://www.youtube.com/watch?v=CIsbX_jn43M"
   },
   {
-  "title": "【2018年上半期】面白おすすめ本ランキング16！【本の紹介/書評】",
-  "url": "https://www.youtube.com/watch?v=uPOa7eoRSas"
+  "title": "好きなタイトルデザイン【フォント好き集まれ】",
+  "url": "https://www.youtube.com/watch?v=A_0-5LJIXtE"
   },
   {
-  "title": "中学生におすすめの本を3冊紹介します！ _ Change check _ Django site admin",
-  "url": "https://www.youtube.com/watch?v=1r-oWBw5SiU"
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
   }
   ]
   },
   {
   "title": "エロティシズム (ちくま学芸文庫)",
   "views": 4,
-  "isbn": "9784480087997",
+  "isbn": "4480087990",
   "data": [
   {
   "title": "エロのメカニズムを学ぶ！　『エロティシズム　バタイユ/著』2/2。　エロは現代の必修科目。　何がエロさを生むのか？　エロは、社会や人生、ビジネスで、どういった位置づけなのか？",
@@ -1459,7 +1700,7 @@ const books = [
   {
   "title": "自分の中に毒を持て<新装版>",
   "views": 4,
-  "isbn": "9784413096843",
+  "isbn": "4413096843",
   "data": [
   {
   "title": "エロのメカニズムを学ぶ！　『エロティシズム　バタイユ/著』2/2。　エロは現代の必修科目。　何がエロさを生むのか？　エロは、社会や人生、ビジネスで、どういった位置づけなのか？",
@@ -1482,7 +1723,7 @@ const books = [
   {
   "title": "自分の運命に楯を突け (青春文庫)",
   "views": 4,
-  "isbn": "9784413096430",
+  "isbn": "4413096436",
   "data": [
   {
   "title": "もっと恋愛しろ！SEXしろ！本を読め！人間であれ！　『自分の中に毒を持て　岡本太郎/著』2/2。　ただ好き。だからやる。仕事も恋愛もそれが全て。「アートな生き方」をしろ！",
@@ -1505,7 +1746,7 @@ const books = [
   {
   "title": "なぜか話しかけたくなる人、ならない人",
   "views": 4,
-  "isbn": "9784569847535",
+  "isbn": "4569847536",
   "data": [
   {
   "title": "【好印象を与える3原則】　『なぜか話しかけたくなる人,ならない人　有川真由美/著』　この3つだけ押さえとけばコミュ力が爆上がりして、自然に人が集まってくる！　人たらしの極意。",
@@ -1551,7 +1792,7 @@ const books = [
   {
   "title": "脳を鍛えるには運動しかない！最新科学でわかった脳細胞の増やし方",
   "views": 4,
-  "isbn": "9784140813539",
+  "isbn": "4140813539",
   "data": [
   {
   "title": "脳を鍛えるには運動しかない！　【頭が良くなる＆メンタルが強くなる方法】　「脳を鍛えるには運動しかない　ジョン J. レイティ著」の要約。",
@@ -1574,7 +1815,7 @@ const books = [
   {
   "title": "50歳から花開く人、50歳で止まる人",
   "views": 4,
-  "isbn": "9784569851976",
+  "isbn": "4569851975",
   "data": [
   {
   "title": "【ベストセラー】「50歳から花開く人、50歳で止まる人」を世界一わかりやすく要約してみた【本要約】",
@@ -1597,7 +1838,7 @@ const books = [
   {
   "title": "４０歳からは食べてはいけない　病気になる食べもの",
   "views": 4,
-  "isbn": "9784046011282",
+  "isbn": "4046011289",
   "data": [
   {
   "title": "【ベストセラー】「40歳からは食べてはいけない病気になる食べもの」を世界一わかりやすく要約してみた【本要約】",
@@ -1620,7 +1861,7 @@ const books = [
   {
   "title": "自分を操る超集中力",
   "views": 4,
-  "isbn": "9784761271763",
+  "isbn": "4761271760",
   "data": [
   {
   "title": "【ベストセラー】「あなたの人生を幸福に導く最強習慣３選」を世界一わかりやすく要約してみた【本要約】",
@@ -1643,7 +1884,7 @@ const books = [
   {
   "title": "眠れなくなるほど面白い 図解 体脂肪の話: 体脂肪の原因から対処法まで 医師がすべて解説!",
   "views": 4,
-  "isbn": "9784537217155",
+  "isbn": "4537217154",
   "data": [
   {
   "title": "【ベストセラー】「眠れなくなるほど面白い 図解 体脂肪の話」を世界一わかりやすく要約してみた【本要約】",
@@ -1666,7 +1907,7 @@ const books = [
   {
   "title": "「後回し」にしない技術",
   "views": 4,
-  "isbn": "9784866513331",
+  "isbn": "4866513330",
   "data": [
   {
   "title": "【ベストセラー】「「後回し」にしない技術」を世界一分かりやすく要約してみた",
@@ -1689,7 +1930,7 @@ const books = [
   {
   "title": "時間術大全――人生が本当に変わる「８７の時間ワザ」",
   "views": 4,
-  "isbn": "None",
+  "isbn": "4478106118",
   "data": [
   {
   "title": "【ベストセラー】「時間術大全」を世界一わかりやすく要約してみた【本要約】",
@@ -1712,7 +1953,7 @@ const books = [
   {
   "title": "雑談の一流、二流、三流",
   "views": 4,
-  "isbn": "None",
+  "isbn": "4756920780",
   "data": [
   {
   "title": "【11分で解説】「雑談の一流、二流、三流」【本要約】",
@@ -1735,7 +1976,7 @@ const books = [
   {
   "title": "ひろゆきのシン・未来予測",
   "views": 4,
-  "isbn": "None",
+  "isbn": "483873168X",
   "data": [
   {
   "title": "【最新刊】「ひろゆきのシン・未来予測」｜ひろゆきが語る日本と世界の“これから\"【本要約】",
@@ -1781,7 +2022,7 @@ const books = [
   {
   "title": "ブレイン メンタル 強化大全",
   "views": 4,
-  "isbn": "9784801400801",
+  "isbn": "4801400809",
   "data": [
   {
   "title": "【樺沢紫苑】『ブレイン メンタル強化大全』 | 心と脳のパフォーマンスをあげる習慣100【本要約】",
@@ -1804,7 +2045,7 @@ const books = [
   {
   "title": "サイコロジー・オブ・マネー――一生お金に困らない「富」のマインドセット",
   "views": 4,
-  "isbn": "9784478114131",
+  "isbn": "4478114137",
   "data": [
   {
   "title": "【厳選ベスト５】書籍解説YouTuberサラタメが読んでみて、激おもしろかった本ランキング【2022】",
@@ -1821,29 +2062,6 @@ const books = [
   {
   "title": "【要約】サイコロジー・オブ・マネー――一生お金に困らない「富」のマインドセット【モーガン・ハウセル】",
   "url": "https://www.youtube.com/watch?v=xW29zOyhwMg"
-  }
-  ]
-  },
-  {
-  "title": "人は話し方が9割",
-  "views": 4,
-  "isbn": "9784799108420",
-  "data": [
-  {
-  "title": "【驚異の85万部】人は話し方が9割｜しゃべくりの神になりたいあなたへ",
-  "url": "https://www.youtube.com/watch?v=C_Chh3mdKW4"
-  },
-  {
-  "title": "【人は話し方が9割②】自己紹介と悩み相談でもう悩まない（Nine Out of Ten, Your Words Change Your Life）",
-  "url": "https://www.youtube.com/watch?v=DLtXJmX0joE"
-  },
-  {
-  "title": "【人は話し方が9割①】100％好かれる話し方がある（Nine Out of Ten, Your Words Change Your Life）",
-  "url": "https://www.youtube.com/watch?v=3E2omi55sa0"
-  },
-  {
-  "title": "【要約】人は話し方が9割【松永茂久】",
-  "url": "https://www.youtube.com/watch?v=1COYM9bcAUw"
   }
   ]
   },
@@ -1873,7 +2091,7 @@ const books = [
   {
   "title": "20代にしておきたい17のこと (だいわ文庫)",
   "views": 4,
-  "isbn": "9784479302834",
+  "isbn": "4479302832",
   "data": [
   {
   "title": "【おすすめ本】20代にしておきたい17のこと｜30代になった私の後悔を添えて解説します。",
@@ -1896,7 +2114,7 @@ const books = [
   {
   "title": "2040年の未来予測",
   "views": 4,
-  "isbn": "9784822288907",
+  "isbn": "4822288900",
   "data": [
   {
   "title": "【ヤバ過ぎるニッポン】2040年の未来｜コロナ後、確実に訪れる悲劇",
@@ -1919,7 +2137,7 @@ const books = [
   {
   "title": "科学がつきとめた「運のいい人」 (サンマーク文庫)",
   "views": 4,
-  "isbn": "9784763161116",
+  "isbn": "4763161113",
   "data": [
   {
   "title": "【書籍解説】科学がつきとめた「運のいい人」｜運の正体が判明しました。",
@@ -1965,7 +2183,7 @@ const books = [
   {
   "title": "シン・ニホン AI×データ時代における日本の再生と人材育成 (NewsPicksパブリッシング)",
   "views": 4,
-  "isbn": "9784910063041",
+  "isbn": "4910063048",
   "data": [
   {
   "title": "【21分で解説】シン・ニホン by 安宅和人｜オワコン日本に残された唯一の道",
@@ -2011,7 +2229,7 @@ const books = [
   {
   "title": "バビロンの大富豪 「繁栄と富と幸福」はいかにして築かれるのか",
   "views": 4,
-  "isbn": "9784901423274",
+  "isbn": "4901423274",
   "data": [
   {
   "title": "【18分で解説】バビロンの大富豪｜100年読み継がれる元祖マネー本",
@@ -2034,7 +2252,7 @@ const books = [
   {
   "title": "漫画 バビロン大富豪の教え 「お金」と「幸せ」を生み出す五つの黄金法則",
   "views": 4,
-  "isbn": "9784866511245",
+  "isbn": "4866511249",
   "data": [
   {
   "title": "【18分で解説】バビロンの大富豪｜100年読み継がれる元祖マネー本",
@@ -2080,7 +2298,7 @@ const books = [
   {
   "title": "金持ち父さんのキャッシュフロー・クワドラント : 経済的自由があなたのものになる (単行本)",
   "views": 4,
-  "isbn": "9784480864253",
+  "isbn": "4480864253",
   "data": [
   {
   "title": "【15分で解説】金持ち父さんのキャッシュフロー・クワドラント｜お金持ちになる現実的戦略",
@@ -2103,7 +2321,7 @@ const books = [
   {
   "title": "LOVE理論",
   "views": 4,
-  "isbn": "None",
+  "isbn": "4905073057",
   "data": [
   {
   "title": "【童貞必見‼】LOVE理論 by水野愛也先生｜トム・クルーズよりモテる方法",
@@ -2126,7 +2344,7 @@ const books = [
   {
   "title": "影響力の武器[第三版]: なぜ、人は動かされるのか",
   "views": 4,
-  "isbn": "9784414304220",
+  "isbn": "4414304229",
   "data": [
   {
   "title": "【悪用厳禁の名著】影響力の武器｜情弱ビジネスの裏側を教えちゃいます。",
@@ -2193,6 +2411,29 @@ const books = [
   ]
   },
   {
+  "title": "やる気に頼らず「すぐやる人」になる37のコツ",
+  "views": 4,
+  "isbn": "4761276673",
+  "data": [
+  {
+  "title": "最初に１０秒だけ〇〇やれば、すぐに行動できるようになるんです！！！　『やる気に頼らず「すぐやる人」になる37のコツ』",
+  "url": "https://www.youtube.com/watch?v=c4Hy40b3vLE"
+  },
+  {
+  "title": "【17分で解説】やる気に頼らず「すぐやる人」になる37のコツ",
+  "url": "https://www.youtube.com/watch?v=j0upMAbf9ks"
+  },
+  {
+  "title": "【要約】やる気に頼らず「すぐやる人」になる37のコツ【大平信孝】",
+  "url": "https://www.youtube.com/watch?v=pPuykuvUlO4"
+  },
+  {
+  "title": "【全6作品】読書好きの終着点が見えてしまいました【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=xuTezMhlTsA"
+  }
+  ]
+  },
+  {
   "title": "がんばらない戦略 99%のムダな努力を捨てて、大切な1%に集中する方法",
   "views": 4,
   "isbn": "B08YYJ7PS6",
@@ -2241,7 +2482,7 @@ const books = [
   {
   "title": "ウクライナ戦争は世界をどう変えたか 「独裁者の論理」と試される「日本の論理」",
   "views": 4,
-  "isbn": "9784046059314",
+  "isbn": "4046059311",
   "data": [
   {
   "title": "【台湾有事②】アメリカと日本も関わる中国台湾戦争の基本的シナリオとは？",
@@ -2264,7 +2505,7 @@ const books = [
   {
   "title": "超ストレス解消法 イライラが一瞬で消える100の科学的メソッド",
   "views": 4,
-  "isbn": "9784865371260",
+  "isbn": "4865371265",
   "data": [
   {
   "title": "【超ストレス解消法②】ストレス対策はひろゆきさんの論破術で一人逆転裁判（Super Practical Steps to Reducing Stress）",
@@ -2287,7 +2528,7 @@ const books = [
   {
   "title": "年収90万円でハッピーライフ (ちくま文庫)",
   "views": 4,
-  "isbn": "9784480436078",
+  "isbn": "4778315308",
   "data": [
   {
   "title": "【年収90万円で東京ハッピーライフ②】やりたくない事さえしなければ優勝（Living Happily on 900000 JPY a Year in Tokyo）",
@@ -2333,7 +2574,7 @@ const books = [
   {
   "title": "マンガでわかる三国志 (池田書店のマンガでわかるシリーズ)",
   "views": 4,
-  "isbn": "9784262155593",
+  "isbn": "4262155595",
   "data": [
   {
   "title": "【三国志④】三国の壮大な戦いを制したのは誰だ！？",
@@ -2356,7 +2597,7 @@ const books = [
   {
   "title": "眠れなくなるほど面白い 図解 三国志",
   "views": 4,
-  "isbn": "9784537217100",
+  "isbn": "4537217103",
   "data": [
   {
   "title": "【三国志④】三国の壮大な戦いを制したのは誰だ！？",
@@ -2379,7 +2620,7 @@ const books = [
   {
   "title": "マンガで教養 やさしい三国志 (マンガで教養シリーズ)",
   "views": 4,
-  "isbn": "9784023332850",
+  "isbn": "4023332852",
   "data": [
   {
   "title": "【三国志④】三国の壮大な戦いを制したのは誰だ！？",
@@ -2402,7 +2643,7 @@ const books = [
   {
   "title": "いちばんやさしい古事記の本",
   "views": 4,
-  "isbn": "9784801301207",
+  "isbn": "4801301207",
   "data": [
   {
   "title": "【古事記④】日本の神話 最終話 〜日本人が知らない空白の歴史に迫る！〜",
@@ -2425,7 +2666,7 @@ const books = [
   {
   "title": "マンガ 面白いほどよくわかる! 古事記",
   "views": 4,
-  "isbn": "9784791625260",
+  "isbn": "4791625269",
   "data": [
   {
   "title": "【古事記④】日本の神話 最終話 〜日本人が知らない空白の歴史に迫る！〜",
@@ -2448,7 +2689,7 @@ const books = [
   {
   "title": "池上彰の世界の見方 中東: 混迷の本当の理由",
   "views": 4,
-  "isbn": "9784093885553",
+  "isbn": "4093885559",
   "data": [
   {
   "title": "【宗教史②】聖地エルサレムを巡るパレスチナ問題",
@@ -2471,7 +2712,7 @@ const books = [
   {
   "title": "君たちの日本国憲法",
   "views": 4,
-  "isbn": "9784087443400",
+  "isbn": "408744340X",
   "data": [
   {
   "title": "【原発問題②】国家や大企業の利権が絡む原発の真相",
@@ -2494,7 +2735,7 @@ const books = [
   {
   "title": "やり抜く人の9つの習慣 コロンビア大学の成功の科学 (コロンビア大学モチベーション心理学シリーズ)",
   "views": 4,
-  "isbn": "9784799321133",
+  "isbn": "4799321137",
   "data": [
   {
   "title": "〇日続ければ習慣になる。　人は単なる習慣の塊にすぎない。　つまり、、",
@@ -2538,9 +2779,193 @@ const books = [
   ]
   },
   {
+  "title": "眼球堂の殺人　～Ｔｈｅ　Ｂｏｏｋ～ 堂シリーズ (講談社文庫)",
+  "views": 4,
+  "isbn": "B01M01HWT3",
+  "data": [
+  {
+  "title": "理系がすすめる理系ミステリ【3冊】#shorts",
+  "url": "https://www.youtube.com/watch?v=HNxhpHzyejg"
+  },
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  },
+  {
+  "title": "あなたもきっと閉じ込められたくなる恐怖の3選",
+  "url": "https://www.youtube.com/watch?v=-vo7r_1BQGA"
+  },
+  {
+  "title": "集まれ数学オタク！『理系ミステリ小説 √9選！』",
+  "url": "https://www.youtube.com/watch?v=3gn6F7cWpFM"
+  }
+  ]
+  },
+  {
+  "title": "ある愛の寓話 (文春e-book)",
+  "views": 4,
+  "isbn": "B0BQYBQWS5",
+  "data": [
+  {
+  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
+  },
+  {
+  "title": "2023年上半期のBest3を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=AJo2-_K84aI"
+  },
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  },
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "授乳 (講談社文庫)",
+  "views": 4,
+  "isbn": "B00JEZZ1O2",
+  "data": [
+  {
+  "title": "読書好きが何度も読み返した本3選",
+  "url": "https://www.youtube.com/watch?v=dr5m2LpuycI"
+  },
+  {
+  "title": "読むと苦しくなるのに読んでほしい本 #shorts",
+  "url": "https://www.youtube.com/watch?v=ozE6RWLQGAU"
+  },
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  },
+  {
+  "title": "大好きな村田沙耶香作品を紹介します",
+  "url": "https://www.youtube.com/watch?v=GkzHcq5O3-M"
+  }
+  ]
+  },
+  {
+  "title": "殺人出産 (講談社文庫)",
+  "views": 4,
+  "isbn": "B01JYUTHX2",
+  "data": [
+  {
+  "title": "疲れているときにこそ読んでほしい小説【3選】",
+  "url": "https://www.youtube.com/watch?v=R0zWNUKZz8M"
+  },
+  {
+  "title": "こんな未来が来るかもしれない...ディストピア小説【3選】#Shorts",
+  "url": "https://www.youtube.com/watch?v=ZN7VADP00N0"
+  },
+  {
+  "title": "めちゃくちゃ短い！掌編小説6選",
+  "url": "https://www.youtube.com/watch?v=YrNsUBeB3P8"
+  },
+  {
+  "title": "絶対読みたくなるディストピア3選",
+  "url": "https://www.youtube.com/watch?v=BjZ1PCua6CM"
+  }
+  ]
+  },
+  {
+  "title": "音楽が鳴りやんだら (文春e-book)",
+  "views": 4,
+  "isbn": "B0B8H3P3FY",
+  "data": [
+  {
+  "title": "【LIVE】第４回ほんタメ文学賞（2022年下半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=0Z_6XAg2sgQ"
+  },
+  {
+  "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
+  },
+  {
+  "title": "書き出しの名文を紹介します【6選】",
+  "url": "https://www.youtube.com/watch?v=S1IKAvZvnjA"
+  },
+  {
+  "title": "大人気企画！最近読んだ本を80人の前で紹介してみた",
+  "url": "https://www.youtube.com/watch?v=3xWqBM5GLOQ"
+  }
+  ]
+  },
+  {
+  "title": "俺ではない炎上",
+  "views": 4,
+  "isbn": "B0B18GR2DD",
+  "data": [
+  {
+  "title": "これは\"今\"読まないともったいないと思います",
+  "url": "https://www.youtube.com/watch?v=GjGY6yJ71QY"
+  },
+  {
+  "title": "小説とお笑いは意外と近い！？たくみ大興奮回",
+  "url": "https://www.youtube.com/watch?v=flb3Juc2VPA"
+  },
+  {
+  "title": "【LIVE】ほんタメ文学賞2022年上半期【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=fSiexcNa9qA"
+  },
+  {
+  "title": "本好きが選んだ2022年上半期で一番面白かった小説を発表します",
+  "url": "https://www.youtube.com/watch?v=gC8NBN3QI18"
+  }
+  ]
+  },
+  {
+  "title": "爆弾",
+  "views": 4,
+  "isbn": "B09XMLNDTF",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  },
+  {
+  "title": "【LIVE】ほんタメ文学賞2022年上半期【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=fSiexcNa9qA"
+  },
+  {
+  "title": "本好きが選んだ2022年上半期で一番面白かった小説を発表します",
+  "url": "https://www.youtube.com/watch?v=gC8NBN3QI18"
+  },
+  {
+  "title": "【本屋で謎解き】全ての謎を解き明かし、チャンネルを救え",
+  "url": "https://www.youtube.com/watch?v=rocPDQtQE8g"
+  }
+  ]
+  },
+  {
+  "title": "鋼の錬金術師 1巻 (デジタル版ガンガンコミックス)",
+  "views": 4,
+  "isbn": "B009T8RYF8",
+  "data": [
+  {
+  "title": "ヨビノリたくみが壊れました",
+  "url": "https://www.youtube.com/watch?v=y4Q1X0JkAg4"
+  },
+  {
+  "title": "鋼の錬金術師クイズで奇跡が起きました",
+  "url": "https://www.youtube.com/watch?v=g-W4Nrf8C9I"
+  },
+  {
+  "title": "漫画の名言6選",
+  "url": "https://www.youtube.com/watch?v=Mcz2-R7Nfn0"
+  },
+  {
+  "title": "『鋼の錬金術師』読者の黒歴史あるある",
+  "url": "https://www.youtube.com/watch?v=ZkRI4PG-BSk"
+  }
+  ]
+  },
+  {
   "title": "絶望名人カフカの人生論 (新潮文庫)",
   "views": 3,
-  "isbn": "9784102071052",
+  "isbn": "4102071059",
   "data": [
   {
   "title": "【本屋大賞・芥川賞】最近読んだ7冊を紹介＆感想語りします！",
@@ -2559,7 +2984,7 @@ const books = [
   {
   "title": "【2021年本屋大賞 翻訳小説部門 第1位】ザリガニの鳴くところ",
   "views": 3,
-  "isbn": "9784152099198",
+  "isbn": "B0859CYBKY",
   "data": [
   {
   "title": "【全5冊】最近読んだおすすめ本を紹介します！",
@@ -2578,7 +3003,7 @@ const books = [
   {
   "title": "ツバキ文具店 (幻冬舎文庫)",
   "views": 3,
-  "isbn": "9784344427617",
+  "isbn": "4344427629",
   "data": [
   {
   "title": "読みやすくて癒し系のオススメ小説は？#shorts",
@@ -2591,6 +3016,63 @@ const books = [
   {
   "title": "心温まる鎌倉ファンタジー！ツバキ文具店/キラキラ共和国【書評】",
   "url": "https://www.youtube.com/watch?v=Du2JvTL7LVI"
+  }
+  ]
+  },
+  {
+  "title": "かか (河出文庫)",
+  "views": 3,
+  "isbn": "B0CCF1STC2",
+  "data": [
+  {
+  "title": "愛憎まみれる母娘関係を描いた傑作「かか」を紹介します！【書評】",
+  "url": "https://www.youtube.com/watch?v=6DLj_D-vjbE"
+  },
+  {
+  "title": "『文藝賞』とは何かを解説します！【推し文学賞】",
+  "url": "https://www.youtube.com/watch?v=CIsbX_jn43M"
+  },
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  }
+  ]
+  },
+  {
+  "title": "硝子の塔の殺人",
+  "views": 3,
+  "isbn": "440853787X",
+  "data": [
+  {
+  "title": "【全3冊】今一番アツいミステリーを語ります！本屋大賞2022候補作レビュー！",
+  "url": "https://www.youtube.com/watch?v=trMj9pvsnGQ"
+  },
+  {
+  "title": "変わった刺激がほしいあなたへ【メタミステリ3選】",
+  "url": "https://www.youtube.com/watch?v=XLMRgtSeNTY"
+  },
+  {
+  "title": "【結果発表】第1回帯文選手権",
+  "url": "https://www.youtube.com/watch?v=4288dEYhP4I"
+  }
+  ]
+  },
+  {
+  "title": "スモールワールズ",
+  "views": 3,
+  "isbn": "B08YD9C8GK",
+  "data": [
+  {
+  "title": "【全3冊】今一番アツい短編集を語ります！2022年本屋大賞候補作レビュー！",
+  "url": "https://www.youtube.com/watch?v=x4v4fXK-uXg"
+  },
+  {
+  "title": "時間がないあなたへ　短編ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=1_7m3cgGQ0c"
+  },
+  {
+  "title": "【第165回】直木賞候補作を全て読んで紹介します【全5冊】",
+  "url": "https://www.youtube.com/watch?v=ee3x4jrXIpw"
   }
   ]
   },
@@ -2616,7 +3098,7 @@ const books = [
   {
   "title": "人生の短さについて　他2篇 (光文社古典新訳文庫)",
   "views": 3,
-  "isbn": "9784334753504",
+  "isbn": "4334753507",
   "data": [
   {
   "title": "【全8冊】本を1万円分購入したから紹介するよ！注目の新刊も！",
@@ -2633,9 +3115,28 @@ const books = [
   ]
   },
   {
+  "title": "本心",
+  "views": 3,
+  "isbn": "4163913734",
+  "data": [
+  {
+  "title": "【全5冊】最近読んだ小説を紹介します！愛と知性をぐるぐる考える",
+  "url": "https://www.youtube.com/watch?v=7dls2_-BoRE"
+  },
+  {
+  "title": "平野啓一郎さんと新刊『本心』を通して対談しました！",
+  "url": "https://www.youtube.com/watch?v=wE7-S2_3KO4"
+  },
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
   "title": "山椒大夫・高瀬舟 (新潮文庫)",
   "views": 3,
-  "isbn": "9784101020051",
+  "isbn": "4101020051",
   "data": [
   {
   "title": "森鴎外『高瀬舟』をもう一度読んでみた！【あらすじ・考察】",
@@ -2652,21 +3153,40 @@ const books = [
   ]
   },
   {
-  "title": "犬がいた季節",
+  "title": "お探し物は図書室まで",
   "views": 3,
-  "isbn": "9784575243253",
+  "isbn": "4591176010",
   "data": [
   {
   "title": "本屋大賞2021ノミネート10作を読破したので紹介&大賞予想します！",
   "url": "https://www.youtube.com/watch?v=OwmsOpAg_q0"
   },
   {
-  "title": "READING VLOG : 読書好きの春休みを大公開するよ！",
-  "url": "https://www.youtube.com/watch?v=-_lqcapW0Z4"
+  "title": "【全10冊】本屋大賞2021のノミネート作を一緒に見よう！",
+  "url": "https://www.youtube.com/watch?v=zGuWxwJd3N4"
+  },
+  {
+  "title": "【2021年本屋大賞】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=ccl8e8LQjOc"
+  }
+  ]
+  },
+  {
+  "title": "逆ソクラテス (集英社文芸単行本)",
+  "views": 3,
+  "isbn": "B0C89PTLQY",
+  "data": [
+  {
+  "title": "本屋大賞2021ノミネート10作を読破したので紹介&大賞予想します！",
+  "url": "https://www.youtube.com/watch?v=OwmsOpAg_q0"
   },
   {
   "title": "【全10冊】本屋大賞2021のノミネート作を一緒に見よう！",
   "url": "https://www.youtube.com/watch?v=zGuWxwJd3N4"
+  },
+  {
+  "title": "【2021年本屋大賞】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=ccl8e8LQjOc"
   }
   ]
   },
@@ -2730,7 +3250,7 @@ const books = [
   {
   "title": "新編 銀河鉄道の夜 (新潮文庫)",
   "views": 3,
-  "isbn": "9784041040034",
+  "isbn": "4101092052",
   "data": [
   {
   "title": "本を1万円分買ったから紹介するよ！【6月】",
@@ -2749,7 +3269,7 @@ const books = [
   {
   "title": "学びを結果に変えるアウトプット大全 (サンクチュアリ出版)",
   "views": 3,
-  "isbn": "9784801400559",
+  "isbn": "4801400558",
   "data": [
   {
   "title": "アウトプット大全を書評&実践してみたよ！",
@@ -2787,7 +3307,7 @@ const books = [
   {
   "title": "おカネの教室 僕らがおかしなクラブで学んだ秘密 (しごとのわ)",
   "views": 3,
-  "isbn": "9784295003380",
+  "isbn": "4295003387",
   "data": [
   {
   "title": "「おカネの教室」作者の特別講義を受けてみた！【作家対談】",
@@ -2806,7 +3326,7 @@ const books = [
   {
   "title": "10年後の仕事図鑑",
   "views": 3,
-  "isbn": "9784797394573",
+  "isbn": "4797394579",
   "data": [
   {
   "title": "【生配信】あなたは何問正解できる？10年後の仕事図鑑クイズ！",
@@ -2825,7 +3345,7 @@ const books = [
   {
   "title": "成功の実現",
   "views": 3,
-  "isbn": "9784930838544",
+  "isbn": "4930838541",
   "data": [
   {
   "title": "『中村天風 めげない ひるまない 立ちどまらない』どんな状況でも人生をハツラツと楽しむ35の教え　池田光/著",
@@ -2844,7 +3364,7 @@ const books = [
   {
   "title": "ＬＩＦＥ　ＳＨＩＦＴ（ライフ・シフト）―１００年時代の人生戦略 LIFE SHIFT",
   "views": 3,
-  "isbn": "9784492533871",
+  "isbn": "4492533877",
   "data": [
   {
   "title": "今の仕事を楽しむコツ　『楽しくなければ仕事じゃない』干場弓子/著　～今やっていることがどんどん好きで得意になる働き方の教科書～",
@@ -2863,7 +3383,7 @@ const books = [
   {
   "title": "ニュー・アース",
   "views": 3,
-  "isbn": "9784763198723",
+  "isbn": "4763198726",
   "data": [
   {
   "title": "「使命」を知る方法🪐　『無意識リライト　ヨンソ/著』　あなたの使命は何ですか？　使命を知るにはコツがある！",
@@ -2882,7 +3402,7 @@ const books = [
   {
   "title": "反応しない練習　あらゆる悩みが消えていくブッダの超・合理的な「考え方」",
   "views": 3,
-  "isbn": "9784041030400",
+  "isbn": "4041030404",
   "data": [
   {
   "title": "社会がしんどかった私だからこそ、今しんどい人に聞いてほしい👼　『反応しない練習　草薙龍瞬/著』改1/2。　　2500年前から効果を上げ続けているブッダの教え。",
@@ -2901,7 +3421,7 @@ const books = [
   {
   "title": "世界中の億万長者がたどりつく「心」の授業",
   "views": 3,
-  "isbn": "9784799107706",
+  "isbn": "4799107704",
   "data": [
   {
   "title": "【心を磨く時、避けては通れない5つのステージ】　『世界のエリートが実践する、心を磨く11のレッスン』Nami Barden＆河合克仁/著　　仏教思想・スピリチュアル・ヨガ・引き寄せ・瞑想などのお話。",
@@ -2977,7 +3497,7 @@ const books = [
   {
   "title": "マインドフルネスストレス低減法",
   "views": 3,
-  "isbn": "9784762825842",
+  "isbn": "4762825840",
   "data": [
   {
   "title": "【ボディスキャン瞑想】で「自分を愛する」！　全身の存在を感じるだけでリラックスでき、自分に「自信」が持てるようになる！ 『マインドフルネス　ストレス低減法　ジョンカバットジン／著』の本解説その③。",
@@ -2996,7 +3516,7 @@ const books = [
   {
   "title": "ゴエンカ氏のヴィパッサナー瞑想入門: 豊かな人生の技法",
   "views": 3,
-  "isbn": "9784393132845",
+  "isbn": "439313284X",
   "data": [
   {
   "title": "最強瞑想ヴィパッサナーのやり方（ブッダの瞑想法）『ゴエンカ氏のヴィパッサナー瞑想入門』の本解説要約その③。体の感覚に集中することで全ての苦しみが消える！　悟り、解脱、マインドフルネス。",
@@ -3015,7 +3535,7 @@ const books = [
   {
   "title": "始めよう。瞑想～１５分でできるココロとアタマのストレッチ～ (光文社知恵の森文庫)",
   "views": 3,
-  "isbn": "9784334784850",
+  "isbn": "4334784852",
   "data": [
   {
   "title": "【ボディスキャン瞑想】で「自分を愛する」！　全身の存在を感じるだけでリラックスでき、自分に「自信」が持てるようになる！ 『マインドフルネス　ストレス低減法　ジョンカバットジン／著』の本解説その③。",
@@ -3034,7 +3554,7 @@ const books = [
   {
   "title": "パワーか、フォースか 改訂版 ― 人間の行動様式の隠された決定要因 (覚醒ブックス)",
   "views": 3,
-  "isbn": "9784864512725",
+  "isbn": "4864512728",
   "data": [
   {
   "title": "世界の【見方・捉え方】のレベルを上げよ！　自分の【意識レベルを反映する物事】しか、人は経験できない！　スピリチュアル本『パワーかフォースか　デヴィッドホーキンズ著』の本解説その③。",
@@ -3053,7 +3573,7 @@ const books = [
   {
   "title": "パワーか、フォースか―人間のレベルを測る科学",
   "views": 3,
-  "isbn": "9784883203000",
+  "isbn": "488320300X",
   "data": [
   {
   "title": "世界の【見方・捉え方】のレベルを上げよ！　自分の【意識レベルを反映する物事】しか、人は経験できない！　スピリチュアル本『パワーかフォースか　デヴィッドホーキンズ著』の本解説その③。",
@@ -3129,7 +3649,7 @@ const books = [
   {
   "title": "モモ (岩波少年文庫(127))",
   "views": 3,
-  "isbn": "9784001141276",
+  "isbn": "4001141272",
   "data": [
   {
   "title": "【名著】モモ｜エンデ　多忙・疲労・孤独…。シンド過ぎるループから抜け出し、豊かな時間を手に入れよう",
@@ -3148,7 +3668,7 @@ const books = [
   {
   "title": "ハムレット (新潮文庫)",
   "views": 3,
-  "isbn": "9784102020036",
+  "isbn": "4042106145",
   "data": [
   {
   "title": "【不朽の名著】人間・この劇的なるもの｜福田恆存  生きがいを見出せない人生を変える、劇的な方法",
@@ -3205,7 +3725,7 @@ const books = [
   {
   "title": "時間術大全 人生が本当に変わる「87の時間ワザ」",
   "views": 3,
-  "isbn": "9784478106112",
+  "isbn": "4478106118",
   "data": [
   {
   "title": "【26分解説】時間術大全｜ジェイク・ナップ＆ジョン・ゼラツキー　～人生が変わる！新時代の最強時間術～",
@@ -3357,7 +3877,7 @@ const books = [
   {
   "title": "医師が教える最強の間食術",
   "views": 3,
-  "isbn": "9784776211938",
+  "isbn": "4776211939",
   "data": [
   {
   "title": "【ベストセラー】「バクバク食べても糖尿病にならない秘密のおやつ３選」を世界一わかりやすく要約してみた【本要約】",
@@ -3395,7 +3915,7 @@ const books = [
   {
   "title": "LIFESPAN(ライフスパン): 老いなき世界",
   "views": 3,
-  "isbn": "9784492046746",
+  "isbn": "4492046747",
   "data": [
   {
   "title": "【ベストセラー】「実年齢より見た目が老ける５つの最悪な習慣」を世界一わかりやすく要約してみた【本要約】",
@@ -3471,7 +3991,7 @@ const books = [
   {
   "title": "長生きしたけりゃ 小麦は食べるな",
   "views": 3,
-  "isbn": "9784776211068",
+  "isbn": "4776211068",
   "data": [
   {
   "title": "【ベストセラー】「パンを食べ続けると、身体はどうなる？？」を世界一わかりやすく要約してみた【本要約】",
@@ -3490,7 +4010,7 @@ const books = [
   {
   "title": "やせたい人はカロリー制限をやめなさい 年間5万人を健康指導する医者が20年間実践してきた食べながらやせるダイエット法",
   "views": 3,
-  "isbn": "9784478114162",
+  "isbn": "4478114161",
   "data": [
   {
   "title": "【ベストセラー】「激太り激老化する人の最悪すぎる特徴」を世界一わかりやすく要約してみた【本要約】",
@@ -3528,7 +4048,7 @@ const books = [
   {
   "title": "ハーバード医学教授が教える 健康の正解",
   "views": 3,
-  "isbn": "9784478069370",
+  "isbn": "4478069379",
   "data": [
   {
   "title": "【ベストセラー】「老化を遠ざける最強のサプリ３選」を世界一わかりやすく要約してみた【本要約】",
@@ -3547,7 +4067,7 @@ const books = [
   {
   "title": "「後回し」にしない技術 「すぐやる人」になる20の方法",
   "views": 3,
-  "isbn": "9784866513331",
+  "isbn": "4866513330",
   "data": [
   {
   "title": "【ベストセラー】「あなたの人生を幸福に導く最強習慣３選」を世界一わかりやすく要約してみた【本要約】",
@@ -3566,7 +4086,7 @@ const books = [
   {
   "title": "長生きでも脳が老けない人の習慣",
   "views": 3,
-  "isbn": "None",
+  "isbn": "477621122X",
   "data": [
   {
   "title": "【ベストセラー】「絶対やめて！将来認知症になる危険な習慣５選」を世界一わかりやすく要約してみた【本要約】",
@@ -3585,7 +4105,7 @@ const books = [
   {
   "title": "101の科学的根拠と92％の成功率からわかった 満腹食べても太らない体",
   "views": 3,
-  "isbn": "9784815612306",
+  "isbn": "4815612307",
   "data": [
   {
   "title": "【ベストセラー】「101の科学的根拠と92％の成功率からわかった 満腹食べても太らない体」を世界一わかりやすく要約してみた【本要約】",
@@ -3604,7 +4124,7 @@ const books = [
   {
   "title": "神メンタル 「心が強い人」の人生は思い通り",
   "views": 3,
-  "isbn": "9784046023759",
+  "isbn": "4046023759",
   "data": [
   {
   "title": "【ベストセラー】「神メンタル 「心が強い人」の人生は思い通り」を世界一わかりやすく要約してみた【本要約】",
@@ -3623,7 +4143,7 @@ const books = [
   {
   "title": "脳が目覚めるたった1つの習慣",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4761272236",
   "data": [
   {
   "title": "【ベストセラー】「脳が目覚めるたった１つの習慣」を世界一わかりやすく要約してみた【本要約】",
@@ -3642,7 +4162,7 @@ const books = [
   {
   "title": "幸せな孤独 「幸福学博士」が教える「孤独」を幸せに変える方法",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4776211858",
   "data": [
   {
   "title": "【ベストセラー】「幸せな孤独 「幸福学博士」が教える「孤独」を幸せに変える方法」を世界一わかりやすく要約してみた【本要約】",
@@ -3661,7 +4181,7 @@ const books = [
   {
   "title": "99.9％は幸せの素人",
   "views": 3,
-  "isbn": "9784046050076",
+  "isbn": "4046050071",
   "data": [
   {
   "title": "【ベストセラー】「99.9％は幸せの素人」を世界一わかりやすく要約してみた【本要約】",
@@ -3680,7 +4200,7 @@ const books = [
   {
   "title": "精神科医Tomyが教える 運を良くするたったひとつの正しい方法",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4537218762",
   "data": [
   {
   "title": "【ベストセラー】「精神科医Tomyが教える 運を良くするたったひとつの正しい方法」を世界一わかりやすく要約してみた【本要約】",
@@ -3699,7 +4219,7 @@ const books = [
   {
   "title": "より少ない生き方 ものを手放して豊かになる",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4761272279",
   "data": [
   {
   "title": "【ベストセラー】「モノを極限まで捨てることのヤバいメリット５選」を世界一わかりやすく要約してみた【本要約】",
@@ -3737,7 +4257,7 @@ const books = [
   {
   "title": "プロセスエコノミー　あなたの物語が価値になる (幻冬舎単行本)",
   "views": 3,
-  "isbn": "9784344038332",
+  "isbn": "4344038339",
   "data": [
   {
   "title": "【10分で解説！】「プロセスエコノミー」｜ あなたの物語が価値になる【本要約】",
@@ -3775,7 +4295,7 @@ const books = [
   {
   "title": "世界のお金持ちが実践するお金の増やし方",
   "views": 3,
-  "isbn": "9784761275075",
+  "isbn": "4761275073",
   "data": [
   {
   "title": "【お金】投資で利益を出す5つの原則とは？｜「世界のお金持ちが実践するお金の増やし方」【本要約】",
@@ -3794,7 +4314,7 @@ const books = [
   {
   "title": "世界の「頭のいい人」がやっていることを1冊にまとめてみた",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4776211645",
   "data": [
   {
   "title": "【脳科学】「世界の「頭のいい人」がやっていることを1冊にまとめてみた」【本要約】",
@@ -3813,7 +4333,7 @@ const books = [
   {
   "title": "無（最高の状態）",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4295405809",
   "data": [
   {
   "title": "【最強のストレス対策】「無（最高の状態）」｜不安、ストレス、怒り、孤独、虚無、自責から自らを解放する科学的メソッド【本要約】",
@@ -3832,7 +4352,7 @@ const books = [
   {
   "title": "2025年、人は「買い物」をしなくなる",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4295403431",
   "data": [
   {
   "title": "【買い物に革命を】「2025年、人は「買い物」をしなくなる」【本要約】",
@@ -3870,7 +4390,7 @@ const books = [
   {
   "title": "AI分析でわかった トップ5％社員の習慣 トップ5%シリーズ",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4799326082",
   "data": [
   {
   "title": "【ベストセラー】「AI分析でわかった トップ5%社員の習慣 」｜AIが出した働き方の結論とは？【本要約】",
@@ -3889,7 +4409,7 @@ const books = [
   {
   "title": "「すぐやる人」と「やれない人」の習慣",
   "views": 3,
-  "isbn": "None",
+  "isbn": "475691876X",
   "data": [
   {
   "title": "【先延ばし】『「すぐやる人」と「やれない人」の習慣』｜仕組みが全て【本要約】",
@@ -3927,7 +4447,7 @@ const books = [
   {
   "title": "面倒くさがりの自分がおもしろいほどやる気になる本 (アスカビジネス)",
   "views": 3,
-  "isbn": "9784756921178",
+  "isbn": "4756921175",
   "data": [
   {
   "title": "【心理学】『面倒くさがりの自分がおもしろいほどやる気になる本』｜面倒くさがりな人必見！【本要約】",
@@ -3946,7 +4466,7 @@ const books = [
   {
   "title": "スタンフォード式 疲れない体",
   "views": 3,
-  "isbn": "9784763136879",
+  "isbn": "4763136879",
   "data": [
   {
   "title": "【健康】『スタンフォード式 疲れない体』｜疲れと無縁になる方法【本要約】",
@@ -3965,7 +4485,7 @@ const books = [
   {
   "title": "頭を「からっぽ」にするレッスン 10分間瞑想でマインドフルに生きる",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4777826708",
   "data": [
   {
   "title": "【10分間瞑想】『頭を「からっぽ」にするレッスン　10分間瞑想でマインドフルに生きる』【本要約】",
@@ -3984,7 +4504,7 @@ const books = [
   {
   "title": "「育ちがいい人」だけが知っていること",
   "views": 3,
-  "isbn": "9784478110133",
+  "isbn": "4478110131",
   "data": [
   {
   "title": "【マナー・礼儀】育ちがいい人だけが知っていること【本要約】",
@@ -4003,7 +4523,7 @@ const books = [
   {
   "title": "精神科医が教える ストレスフリー超大全――人生のあらゆる「悩み・不安・疲れ」をなくすためのリスト",
   "views": 3,
-  "isbn": "9784478107324",
+  "isbn": "4478107327",
   "data": [
   {
   "title": "【ストレス】樺沢紫苑『ストレスフリー超大全 』|  ◯◯疲れを完全解決！！【本要約】",
@@ -4022,7 +4542,7 @@ const books = [
   {
   "title": "30代を無駄に生きるな",
   "views": 3,
-  "isbn": "9784866630939",
+  "isbn": "4866630930",
   "data": [
   {
   "title": "【30代の結論】絶対やっておくべきこと【ベスト4】",
@@ -4041,7 +4561,7 @@ const books = [
   {
   "title": "30代にしておきたい17のこと (だいわ文庫)",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4479303669",
   "data": [
   {
   "title": "【30代の結論】絶対やっておくべきこと【ベスト4】",
@@ -4060,7 +4580,7 @@ const books = [
   {
   "title": "君に友だちはいらない",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4062176203",
   "data": [
   {
   "title": "【絶交で成功】名著『君に友だちはいらない』を読んでみたら『俺に友だちは必要』だった話",
@@ -4098,7 +4618,7 @@ const books = [
   {
   "title": "1億円貯める方法をお金持ち1371人に聞きました",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4866511125",
   "data": [
   {
   "title": "【意外すぎた億万長者の実態】ベストセラー『1億円貯める方法をお金持ち1371人に聞きました』をザックリ解説してみた",
@@ -4136,7 +4656,7 @@ const books = [
   {
   "title": "22世紀の民主主義 選挙はアルゴリズムになり、政治家はネコになる (SB新書)",
   "views": 3,
-  "isbn": "9784815615604",
+  "isbn": "B0B2JB33TN",
   "data": [
   {
   "title": "【天才過ぎワロタ】成田悠輔さん著『 22世紀の民主主義』で、日本をブッ壊してみた。",
@@ -4155,7 +4675,7 @@ const books = [
   {
   "title": "メタバースとWeb3",
   "views": 3,
-  "isbn": "9784295202813",
+  "isbn": "4295202819",
   "data": [
   {
   "title": "【アニメで解説】Web3.0とは？DAOとは？そして、逆に私がWeb3の波に乗らない理由(参考書籍：メタバースとWeb3)",
@@ -4174,7 +4694,7 @@ const books = [
   {
   "title": "脳のバグらせ方 脳がわかれば恋は作れる",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4046048689",
   "data": [
   {
   "title": "【悪用厳禁】脳のバグらせ方｜“モテ”にも“仕事”にもフル活用したらリア充確定やん。",
@@ -4191,9 +4711,28 @@ const books = [
   ]
   },
   {
+  "title": "佐久間宣行のずるい仕事術――僕はこうして会社で消耗せずにやりたいことをやってきた",
+  "views": 3,
+  "isbn": "B09RWN3VF6",
+  "data": [
+  {
+  "title": "【新刊】佐久間宣行のずるい仕事術｜おもしろ神企画は「怒り」から生み出すんです。",
+  "url": "https://www.youtube.com/watch?v=_aSO4ExYPsc"
+  },
+  {
+  "title": "【15分で解説】佐久間宣行のずるい仕事術　僕はこうして会社で消耗せずにやりたいことをやってきた",
+  "url": "https://www.youtube.com/watch?v=njGh7o6NQgY"
+  },
+  {
+  "title": "大人気企画！最近読んだ本を80人の前で紹介してみた",
+  "url": "https://www.youtube.com/watch?v=3xWqBM5GLOQ"
+  }
+  ]
+  },
+  {
   "title": "エフォートレス思考 努力を最小化して成果を最大化する",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4761275812",
   "data": [
   {
   "title": "【あの「エッセンシャル思考」の第２弾】エフォートレス思考｜あえて“頑張らない”で、圧倒的に勝つ方法",
@@ -4212,7 +4751,7 @@ const books = [
   {
   "title": "人生を変えるモーニングメソッド",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4479795723",
   "data": [
   {
   "title": "【ベストセラー本】人生を変えるモーニングメソッド｜ズボラ朝弱族でもできる「6分ルーティン」",
@@ -4231,7 +4770,7 @@ const books = [
   {
   "title": "ユダヤの商法(新装版) (ワニの本)",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4584139008",
   "data": [
   {
   "title": "【お金の名著】ユダヤの商法｜孫正義にも影響を与えた商売の鉄則",
@@ -4250,7 +4789,7 @@ const books = [
   {
   "title": "2030年：すべてが「加速」する世界に備えよ (NewsPicksパブリッシング)",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4910063137",
   "data": [
   {
   "title": "【想像以上の未来】2030年：すべてが「加速」する世界に備えよ｜ドラえもん過ぎる未来",
@@ -4269,7 +4808,7 @@ const books = [
   {
   "title": "スマホ脳（新潮新書）",
   "views": 3,
-  "isbn": "None",
+  "isbn": "4106108828",
   "data": [
   {
   "title": "【話題の本】スマホ脳｜ギャンブル依存より怖いスマホ中毒!?",
@@ -4362,6 +4901,25 @@ const books = [
   ]
   },
   {
+  "title": "手ぶらで生きる。見栄と財布を捨てて、自由になる50の方法",
+  "views": 3,
+  "isbn": "None",
+  "data": [
+  {
+  "title": "【ベストセラー】物が無い生活、マジで最高すぎたｗｗｗ『手ぶらで生きる。見栄と財布を捨てて、自由になる50の方法』",
+  "url": "https://www.youtube.com/watch?v=1gasJRihhnA"
+  },
+  {
+  "title": "【要約】手ぶらで生きる。見栄と財布を捨てて、自由になる50の方法【ミニマリストしぶ】",
+  "url": "https://www.youtube.com/watch?v=ct4PjzmeyMI"
+  },
+  {
+  "title": "20代で読むべき本5選【ヨビノリたくみ選書】",
+  "url": "https://www.youtube.com/watch?v=qaVZhshfe4U"
+  }
+  ]
+  },
+  {
   "title": "超効率耳勉強法",
   "views": 3,
   "isbn": "4054066895",
@@ -4434,25 +4992,6 @@ const books = [
   {
   "title": "【お金の生み出し方①】稼げるようになるために押さえるべきポイントと、ありがちな思い込みとは！？",
   "url": "https://www.youtube.com/watch?v=2x66qiOxWcc"
-  }
-  ]
-  },
-  {
-  "title": "やる気に頼らず「すぐやる人」になる37のコツ",
-  "views": 3,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "最初に１０秒だけ〇〇やれば、すぐに行動できるようになるんです！！！　『やる気に頼らず「すぐやる人」になる37のコツ』",
-  "url": "https://www.youtube.com/watch?v=c4Hy40b3vLE"
-  },
-  {
-  "title": "【17分で解説】やる気に頼らず「すぐやる人」になる37のコツ",
-  "url": "https://www.youtube.com/watch?v=j0upMAbf9ks"
-  },
-  {
-  "title": "【要約】やる気に頼らず「すぐやる人」になる37のコツ【大平信孝】",
-  "url": "https://www.youtube.com/watch?v=pPuykuvUlO4"
   }
   ]
   },
@@ -5673,17 +6212,382 @@ const books = [
   ]
   },
   {
-  "title": "汝、星のごとく",
-  "views": 2,
-  "isbn": "9784065281499",
+  "title": "夜は短し歩けよ乙女 (角川文庫)",
+  "views": 3,
+  "isbn": "B0093GEBJS",
   "data": [
   {
-  "title": "【生配信】今日こそ『汝、星のごとく』を読み切る！",
-  "url": "https://www.youtube.com/watch?v=S5IFKhiSrwc"
+  "title": "お酒が飲みたくなる本3選",
+  "url": "https://www.youtube.com/watch?v=PlZIRcHpF9Y"
   },
   {
-  "title": "【生配信】本屋大賞受賞作『汝、星のごとく』をひたすら読む！",
-  "url": "https://www.youtube.com/watch?v=j6MbjnZG8tI"
+  "title": "読書で得られるキュンがあります",
+  "url": "https://www.youtube.com/watch?v=RDrqug8cF2o"
+  },
+  {
+  "title": "読書感想文にピッタリな本を６冊紹介します",
+  "url": "https://www.youtube.com/watch?v=urVmfbkAnPg"
+  }
+  ]
+  },
+  {
+  "title": "恋と禁忌の述語論理 (講談社文庫)",
+  "views": 3,
+  "isbn": "B07L4C49TJ",
+  "data": [
+  {
+  "title": "理系がすすめる理系ミステリ【3冊】#shorts",
+  "url": "https://www.youtube.com/watch?v=HNxhpHzyejg"
+  },
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  },
+  {
+  "title": "集まれ数学オタク！『理系ミステリ小説 √9選！』",
+  "url": "https://www.youtube.com/watch?v=3gn6F7cWpFM"
+  }
+  ]
+  },
+  {
+  "title": "ミシン　missin’ (小学館文庫)",
+  "views": 3,
+  "isbn": "B00ETN5RQG",
+  "data": [
+  {
+  "title": "書き出しが最高な小説3冊 #shorts",
+  "url": "https://www.youtube.com/watch?v=UoNGeuPBEcM"
+  },
+  {
+  "title": "【小説紹介】つい止めたくなってしまう恋愛ってあるよね",
+  "url": "https://www.youtube.com/watch?v=BJ4rTwwqGw8"
+  },
+  {
+  "title": "最高すぎる小説の書き出し6選",
+  "url": "https://www.youtube.com/watch?v=CfdyYSNavMk"
+  }
+  ]
+  },
+  {
+  "title": "わたしの結び目 (幻冬舎単行本)",
+  "views": 3,
+  "isbn": "B0BZRMTMWR",
+  "data": [
+  {
+  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
+  },
+  {
+  "title": "2023年上半期のBest3を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=AJo2-_K84aI"
+  },
+  {
+  "title": "好きなタイトルデザイン【フォント好き集まれ】",
+  "url": "https://www.youtube.com/watch?v=A_0-5LJIXtE"
+  }
+  ]
+  },
+  {
+  "title": "あわのまにまに【電子版特典付き】 (角川書店単行本)",
+  "views": 3,
+  "isbn": "B0BV5R182M",
+  "data": [
+  {
+  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
+  },
+  {
+  "title": "最近読んだ本を6冊紹介！【2023年8月】",
+  "url": "https://www.youtube.com/watch?v=eBigJqpDzvo"
+  },
+  {
+  "title": "2023年上半期のBest3を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=AJo2-_K84aI"
+  }
+  ]
+  },
+  {
+  "title": "地球星人（新潮文庫）",
+  "views": 3,
+  "isbn": "B08XX82JV1",
+  "data": [
+  {
+  "title": "主人公がヤバい小説3選 #shorts",
+  "url": "https://www.youtube.com/watch?v=c7X8V0bBqI0"
+  },
+  {
+  "title": "大好きな村田沙耶香作品を紹介します",
+  "url": "https://www.youtube.com/watch?v=GkzHcq5O3-M"
+  },
+  {
+  "title": "主人公がヤバい小説6選",
+  "url": "https://www.youtube.com/watch?v=xQp7HeGv9Ag"
+  }
+  ]
+  },
+  {
+  "title": "シブヤで目覚めて",
+  "views": 3,
+  "isbn": "9784309208268",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "「ほんタメ文学賞2021年上半期」候補作発表！！",
+  "url": "https://www.youtube.com/watch?v=YJl2jj4RY_o"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "日本ＳＦの臨界点　中井紀夫　山の上の交響楽 (ハヤカワ文庫JA)",
+  "views": 3,
+  "isbn": "B096ZV6D8M",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "あらすじを聞くだけでワクワクしちゃいます【短編SF3選】",
+  "url": "https://www.youtube.com/watch?v=mfl37BHw3UM"
+  },
+  {
+  "title": "最近読んだ小説を一気に紹介します【2021年11月】",
+  "url": "https://www.youtube.com/watch?v=pNc2ILCxvgo"
+  }
+  ]
+  },
+  {
+  "title": "道化むさぼる揚羽の夢の",
+  "views": 3,
+  "isbn": "B098Q6FJY4",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "書き出しの名文を紹介します【6選】",
+  "url": "https://www.youtube.com/watch?v=S1IKAvZvnjA"
+  },
+  {
+  "title": "最近読んだ小説を一気に紹介します【2021年11月】",
+  "url": "https://www.youtube.com/watch?v=pNc2ILCxvgo"
+  }
+  ]
+  },
+  {
+  "title": "ハーモニー (ハヤカワ文庫JA)",
+  "views": 3,
+  "isbn": "B009DEMA1Q",
+  "data": [
+  {
+  "title": "こんな未来が来るかもしれない...ディストピア小説【3選】#Shorts",
+  "url": "https://www.youtube.com/watch?v=ZN7VADP00N0"
+  },
+  {
+  "title": "書き出しの名文を紹介します【6選】",
+  "url": "https://www.youtube.com/watch?v=S1IKAvZvnjA"
+  },
+  {
+  "title": "絶対読みたくなるディストピア3選",
+  "url": "https://www.youtube.com/watch?v=BjZ1PCua6CM"
+  }
+  ]
+  },
+  {
+  "title": "名探偵のいけにえ―人民教会殺人事件―",
+  "views": 3,
+  "isbn": "B0B8RF6Q79",
+  "data": [
+  {
+  "title": "複雑＆緻密な構成はどのように生まれたのか【名探偵のいけにえ】",
+  "url": "https://www.youtube.com/watch?v=PaLM03-U0sg"
+  },
+  {
+  "title": "【LIVE】第４回ほんタメ文学賞（2022年下半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=0Z_6XAg2sgQ"
+  },
+  {
+  "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
+  }
+  ]
+  },
+  {
+  "title": "カラスは言った",
+  "views": 3,
+  "isbn": "B0BMLKLZHN",
+  "data": [
+  {
+  "title": "なぜ犬ではダメだったのか？著者自身がズバズバ回答します【カラスは言った】",
+  "url": "https://www.youtube.com/watch?v=GA63HfyO8p0"
+  },
+  {
+  "title": "【LIVE】第４回ほんタメ文学賞（2022年下半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=0Z_6XAg2sgQ"
+  },
+  {
+  "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
+  }
+  ]
+  },
+  {
+  "title": "そして五人がいなくなる　名探偵夢水清志郎事件ノート",
+  "views": 3,
+  "isbn": "B00I397BAC",
+  "data": [
+  {
+  "title": "山本祥彰の人生を変えた本3選【QK×ほんタメ】",
+  "url": "https://www.youtube.com/watch?v=kQmL-vJZv2Y"
+  },
+  {
+  "title": "今の我々を作った作品たちを紹介します",
+  "url": "https://www.youtube.com/watch?v=VYZNtkV4o1Y"
+  },
+  {
+  "title": "子供の頃に影響を受けた本",
+  "url": "https://www.youtube.com/watch?v=LfZs-dsrWFc"
+  }
+  ]
+  },
+  {
+  "title": "＃真相をお話しします",
+  "views": 3,
+  "isbn": "B09YCWT5NF",
+  "data": [
+  {
+  "title": "これは\"今\"読まないともったいないと思います",
+  "url": "https://www.youtube.com/watch?v=GjGY6yJ71QY"
+  },
+  {
+  "title": "【LIVE】ほんタメ文学賞2022年上半期【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=fSiexcNa9qA"
+  },
+  {
+  "title": "本好きが選んだ2022年上半期で一番面白かった小説を発表します",
+  "url": "https://www.youtube.com/watch?v=gC8NBN3QI18"
+  }
+  ]
+  },
+  {
+  "title": "旅書簡集　ゆきあってしあさって",
+  "views": 3,
+  "isbn": "B09L4GQMYD",
+  "data": [
+  {
+  "title": "あかりんがブッ刺さった小説の著者が来てくれました",
+  "url": "https://www.youtube.com/watch?v=sk7Bb7jrvRo"
+  },
+  {
+  "title": "【LIVE】ほんタメ文学賞2022年上半期【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=fSiexcNa9qA"
+  },
+  {
+  "title": "本好きが選んだ2022年上半期で一番面白かった小説を発表します",
+  "url": "https://www.youtube.com/watch?v=gC8NBN3QI18"
+  }
+  ]
+  },
+  {
+  "title": "Dr.STONE 1 (ジャンプコミックスDIGITAL)",
+  "views": 3,
+  "isbn": "B071VV14SF",
+  "data": [
+  {
+  "title": "読み忘れてる王道漫画ないですか？？？",
+  "url": "https://www.youtube.com/watch?v=AtWsfet5XBU"
+  },
+  {
+  "title": "短時間で漫画の魅力を伝えられるのはどっち！？",
+  "url": "https://www.youtube.com/watch?v=9qZn1mtg7JY"
+  },
+  {
+  "title": "ガチ理系が『Dr.STONE』の魅力を解説します",
+  "url": "https://www.youtube.com/watch?v=uO0pgvTF0PI"
+  }
+  ]
+  },
+  {
+  "title": "ダレン・シャン１　奇怪なサーカス",
+  "views": 3,
+  "isbn": "B009HPEAR8",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  },
+  {
+  "title": "今の我々を作った作品たちを紹介します",
+  "url": "https://www.youtube.com/watch?v=VYZNtkV4o1Y"
+  },
+  {
+  "title": "子供の頃に影響を受けた本",
+  "url": "https://www.youtube.com/watch?v=LfZs-dsrWFc"
+  }
+  ]
+  },
+  {
+  "title": "テスカトリポカ (角川書店単行本)",
+  "views": 3,
+  "isbn": "B08VWBX3G7",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  },
+  {
+  "title": "【第165回】直木賞候補作を全て読んで紹介します【全5冊】",
+  "url": "https://www.youtube.com/watch?v=ee3x4jrXIpw"
+  },
+  {
+  "title": "【全5冊】最近読んでいる本を紹介します【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=9ijM8y7G5JQ"
+  }
+  ]
+  },
+  {
+  "title": "ないもの、あります (ちくま文庫)",
+  "views": 3,
+  "isbn": "9784480425713",
+  "data": [
+  {
+  "title": "読書狂が最近読んだ本【2022年7月】",
+  "url": "https://www.youtube.com/watch?v=wAKqeWWYu-w"
+  },
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  },
+  {
+  "title": "【結果発表】第1回帯文選手権",
+  "url": "https://www.youtube.com/watch?v=4288dEYhP4I"
+  }
+  ]
+  },
+  {
+  "title": "黒子のバスケ モノクロ版 1 (ジャンプコミックスDIGITAL)",
+  "views": 3,
+  "isbn": "B009GB6TOA",
+  "data": [
+  {
+  "title": "個人的におすすめなスポーツ漫画6選",
+  "url": "https://www.youtube.com/watch?v=kpBxUY9tqKw"
+  },
+  {
+  "title": "漫画のベストマッチ6選",
+  "url": "https://www.youtube.com/watch?v=foIq5gCq2wA"
+  },
+  {
+  "title": "【検証】『黒子のバスケ』全巻読み終わるまで何時間かかるのか？",
+  "url": "https://www.youtube.com/watch?v=h3s5ViItyLg"
   }
   ]
   },
@@ -5733,21 +6637,6 @@ const books = [
   ]
   },
   {
-  "title": "かか (河出文庫)",
-  "views": 2,
-  "isbn": "9784309418803",
-  "data": [
-  {
-  "title": "愛憎まみれる母娘関係を描いた傑作「かか」を紹介します！【書評】",
-  "url": "https://www.youtube.com/watch?v=6DLj_D-vjbE"
-  },
-  {
-  "title": "『文藝賞』とは何かを解説します！【推し文学賞】",
-  "url": "https://www.youtube.com/watch?v=CIsbX_jn43M"
-  }
-  ]
-  },
-  {
   "title": "同志少女よ、敵を撃て",
   "views": 2,
   "isbn": "9784152100641",
@@ -5763,17 +6652,17 @@ const books = [
   ]
   },
   {
-  "title": "硝子の塔の殺人",
+  "title": "残月記",
   "views": 2,
-  "isbn": "9784408537870",
+  "isbn": "9784575244649",
   "data": [
   {
-  "title": "【全3冊】今一番アツいミステリーを語ります！本屋大賞2022候補作レビュー！",
-  "url": "https://www.youtube.com/watch?v=trMj9pvsnGQ"
+  "title": "【全3冊】今一番アツい短編集を語ります！2022年本屋大賞候補作レビュー！",
+  "url": "https://www.youtube.com/watch?v=x4v4fXK-uXg"
   },
   {
-  "title": "変わった刺激がほしいあなたへ【メタミステリ3選】",
-  "url": "https://www.youtube.com/watch?v=XLMRgtSeNTY"
+  "title": "読書好きが最近読んだ本【2022年4月】",
+  "url": "https://www.youtube.com/watch?v=rW_Um3JBLRg"
   }
   ]
   },
@@ -5808,6 +6697,36 @@ const books = [
   ]
   },
   {
+  "title": "火のないところに煙は（新潮文庫）",
+  "views": 2,
+  "isbn": "9784101014326",
+  "data": [
+  {
+  "title": "夏にピッタリ！最近読んだゾクゾクする本を3冊紹介するよ！",
+  "url": "https://www.youtube.com/watch?v=I3X5LNcwJ4Y"
+  },
+  {
+  "title": "思わず読みたくなるタイトル6選",
+  "url": "https://www.youtube.com/watch?v=nnjTN0qrQpw"
+  }
+  ]
+  },
+  {
+  "title": "ぼぎわんが、来る 比嘉姉妹シリーズ (角川ホラー文庫)",
+  "views": 2,
+  "isbn": "B079XX7HBC",
+  "data": [
+  {
+  "title": "夏にピッタリ！最近読んだゾクゾクする本を3冊紹介するよ！",
+  "url": "https://www.youtube.com/watch?v=I3X5LNcwJ4Y"
+  },
+  {
+  "title": "この夏に読んでほしいホラー小説3選【ゾクゾクするやつ】",
+  "url": "https://www.youtube.com/watch?v=dFRYp4FN9vw"
+  }
+  ]
+  },
+  {
   "title": "マスク スペイン風邪をめぐる小説集 (文春文庫)",
   "views": 2,
   "isbn": "9784167916138",
@@ -5819,51 +6738,6 @@ const books = [
   {
   "title": "本を1万円分購入したので紹介します！【全10冊】",
   "url": "https://www.youtube.com/watch?v=u0b_FyqKrQs"
-  }
-  ]
-  },
-  {
-  "title": "本心",
-  "views": 2,
-  "isbn": "9784163913735",
-  "data": [
-  {
-  "title": "【全5冊】最近読んだ小説を紹介します！愛と知性をぐるぐる考える",
-  "url": "https://www.youtube.com/watch?v=7dls2_-BoRE"
-  },
-  {
-  "title": "平野啓一郎さんと新刊『本心』を通して対談しました！",
-  "url": "https://www.youtube.com/watch?v=wE7-S2_3KO4"
-  }
-  ]
-  },
-  {
-  "title": "お探し物は図書室まで",
-  "views": 2,
-  "isbn": "9784591167984",
-  "data": [
-  {
-  "title": "本屋大賞2021ノミネート10作を読破したので紹介&大賞予想します！",
-  "url": "https://www.youtube.com/watch?v=OwmsOpAg_q0"
-  },
-  {
-  "title": "【全10冊】本屋大賞2021のノミネート作を一緒に見よう！",
-  "url": "https://www.youtube.com/watch?v=zGuWxwJd3N4"
-  }
-  ]
-  },
-  {
-  "title": "逆ソクラテス (集英社文芸単行本)",
-  "views": 2,
-  "isbn": "B0C89PTLQY",
-  "data": [
-  {
-  "title": "本屋大賞2021ノミネート10作を読破したので紹介&大賞予想します！",
-  "url": "https://www.youtube.com/watch?v=OwmsOpAg_q0"
-  },
-  {
-  "title": "【全10冊】本屋大賞2021のノミネート作を一緒に見よう！",
-  "url": "https://www.youtube.com/watch?v=zGuWxwJd3N4"
   }
   ]
   },
@@ -5988,6 +6862,21 @@ const books = [
   ]
   },
   {
+  "title": "ルビンの壺が割れた（新潮文庫）",
+  "views": 2,
+  "isbn": "None",
+  "data": [
+  {
+  "title": "9冊一挙紹介！最近読んだ小説について語るよ〜【7月】",
+  "url": "https://www.youtube.com/watch?v=PUFKVkmg-tI"
+  },
+  {
+  "title": "大の本好きが最近読んだ本6選【2022年2月】",
+  "url": "https://www.youtube.com/watch?v=t4vtxD1UOxk"
+  }
+  ]
+  },
+  {
   "title": "壁 (新潮文庫)",
   "views": 2,
   "isbn": "9784101121024",
@@ -5999,21 +6888,6 @@ const books = [
   {
   "title": "本を1万円分買ったから紹介するよ！【6月】",
   "url": "https://www.youtube.com/watch?v=83n5DmWP5qo"
-  }
-  ]
-  },
-  {
-  "title": "ライオンのおやつ",
-  "views": 2,
-  "isbn": "9784591175064",
-  "data": [
-  {
-  "title": "号泣必至の感動小説！『ライオンのおやつ』を書評します！",
-  "url": "https://www.youtube.com/watch?v=JsYmlaQRJoY"
-  },
-  {
-  "title": "本屋大賞2020ノミネート10作一挙紹介！大賞もランキング予想します！",
-  "url": "https://www.youtube.com/watch?v=fx2Kf8W-CdI"
   }
   ]
   },
@@ -6434,21 +7308,6 @@ const books = [
   {
   "title": "芥川賞受賞作『破局』を面白く読む3つのポイントを教えます！【書評】",
   "url": "https://www.youtube.com/watch?v=rIYFvvy5G3U"
-  }
-  ]
-  },
-  {
-  "title": "改良 (河出文庫)",
-  "views": 2,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "芥川賞受賞作も！最近読んだ小説9冊を語ります！",
-  "url": "https://www.youtube.com/watch?v=10KJOhDgDcw"
-  },
-  {
-  "title": "『文藝賞』とは何かを解説します！【推し文学賞】",
-  "url": "https://www.youtube.com/watch?v=CIsbX_jn43M"
   }
   ]
   },
@@ -8538,21 +9397,6 @@ const books = [
   ]
   },
   {
-  "title": "佐久間宣行のずるい仕事術――僕はこうして会社で消耗せずにやりたいことをやってきた",
-  "views": 2,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "【新刊】佐久間宣行のずるい仕事術｜おもしろ神企画は「怒り」から生み出すんです。",
-  "url": "https://www.youtube.com/watch?v=_aSO4ExYPsc"
-  },
-  {
-  "title": "【15分で解説】佐久間宣行のずるい仕事術　僕はこうして会社で消耗せずにやりたいことをやってきた",
-  "url": "https://www.youtube.com/watch?v=njGh7o6NQgY"
-  }
-  ]
-  },
-  {
   "title": "売上最小化、利益最大化の法則――利益率29％経営の秘密",
   "views": 2,
   "isbn": "None",
@@ -8939,21 +9783,6 @@ const books = [
   {
   "title": "【要約】50歳からは「これ」しかやらない １万人に聞いてわかった「会社人生」の上手な終わらせ方【大塚寿】",
   "url": "https://www.youtube.com/watch?v=_yKOaKtdY-s"
-  }
-  ]
-  },
-  {
-  "title": "手ぶらで生きる。見栄と財布を捨てて、自由になる50の方法",
-  "views": 2,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "【ベストセラー】物が無い生活、マジで最高すぎたｗｗｗ『手ぶらで生きる。見栄と財布を捨てて、自由になる50の方法』",
-  "url": "https://www.youtube.com/watch?v=1gasJRihhnA"
-  },
-  {
-  "title": "【要約】手ぶらで生きる。見栄と財布を捨てて、自由になる50の方法【ミニマリストしぶ】",
-  "url": "https://www.youtube.com/watch?v=ct4PjzmeyMI"
   }
   ]
   },
@@ -13473,6 +14302,21 @@ const books = [
   ]
   },
   {
+  "title": "バナナの魅力を100文字で伝えてください 誰でも身につく36の伝わる法則",
+  "views": 2,
+  "isbn": "B09NRKRC9Q",
+  "data": [
+  {
+  "title": "【要約】バナナの魅力を100文字で伝えてください 誰でも身につく36の伝わる法則【柿内尚文】",
+  "url": "https://www.youtube.com/watch?v=Fj5c2ZqCFRs"
+  },
+  {
+  "title": "【全6作品】本を超えた何か(!)も紹介します【2023年2月】",
+  "url": "https://www.youtube.com/watch?v=F3HagR6ldNk"
+  }
+  ]
+  },
+  {
   "title": "幸福になりたいなら幸福になろうとしてはいけない: マインドフルネスから生まれた心理療法ACT入門 (単行本)",
   "views": 2,
   "isbn": "9784480843074",
@@ -13574,6 +14418,1536 @@ const books = [
   {
   "title": "【漫画】人はなぜ生きるのか？【マンガ動画】",
   "url": "https://www.youtube.com/watch?v=-QW4MkQIM6A"
+  }
+  ]
+  },
+  {
+  "title": "容疑者Xの献身 (文春文庫)",
+  "views": 2,
+  "isbn": "B086WV9GBT",
+  "data": [
+  {
+  "title": "天才vs天才 最高の頭脳戦【3冊】#shorts",
+  "url": "https://www.youtube.com/watch?v=oDb1bszQP3A"
+  },
+  {
+  "title": "天才vs天才 頭脳戦ミステリ3選！",
+  "url": "https://www.youtube.com/watch?v=gjcnGNBYEjs"
+  }
+  ]
+  },
+  {
+  "title": "その可能性はすでに考えた (講談社文庫)",
+  "views": 2,
+  "isbn": "B079L4QPFX",
+  "data": [
+  {
+  "title": "天才vs天才 最高の頭脳戦【3冊】#shorts",
+  "url": "https://www.youtube.com/watch?v=oDb1bszQP3A"
+  },
+  {
+  "title": "天才vs天才 頭脳戦ミステリ3選！",
+  "url": "https://www.youtube.com/watch?v=gjcnGNBYEjs"
+  }
+  ]
+  },
+  {
+  "title": "扉は閉ざされたまま (祥伝社文庫)",
+  "views": 2,
+  "isbn": "B0732NXDT9",
+  "data": [
+  {
+  "title": "天才vs天才 最高の頭脳戦【3冊】#shorts",
+  "url": "https://www.youtube.com/watch?v=oDb1bszQP3A"
+  },
+  {
+  "title": "天才vs天才 頭脳戦ミステリ3選！",
+  "url": "https://www.youtube.com/watch?v=gjcnGNBYEjs"
+  }
+  ]
+  },
+  {
+  "title": "遮光 (新潮文庫)",
+  "views": 2,
+  "isbn": "9784101289533",
+  "data": [
+  {
+  "title": "本気の恋愛小説を３冊紹介します #shorts",
+  "url": "https://www.youtube.com/watch?v=PBOfx4PLI2Y"
+  },
+  {
+  "title": "恋愛小説3選【閲覧注意】",
+  "url": "https://www.youtube.com/watch?v=pq64IKbLCYE"
+  }
+  ]
+  },
+  {
+  "title": "私の男 (文春文庫)",
+  "views": 2,
+  "isbn": "B009A48ZDQ",
+  "data": [
+  {
+  "title": "本気の恋愛小説を３冊紹介します #shorts",
+  "url": "https://www.youtube.com/watch?v=PBOfx4PLI2Y"
+  },
+  {
+  "title": "恋愛小説3選【閲覧注意】",
+  "url": "https://www.youtube.com/watch?v=pq64IKbLCYE"
+  }
+  ]
+  },
+  {
+  "title": "純潔",
+  "views": 2,
+  "isbn": "B082PK57BX",
+  "data": [
+  {
+  "title": "本気の恋愛小説を３冊紹介します #shorts",
+  "url": "https://www.youtube.com/watch?v=PBOfx4PLI2Y"
+  },
+  {
+  "title": "恋愛小説3選【閲覧注意】",
+  "url": "https://www.youtube.com/watch?v=pq64IKbLCYE"
+  }
+  ]
+  },
+  {
+  "title": "銀河の片隅で科学夜話",
+  "views": 2,
+  "isbn": "B086GX4WH6",
+  "data": [
+  {
+  "title": "夜に眠れないあなたへおすすめの本6選",
+  "url": "https://www.youtube.com/watch?v=TLK7QyE13bM"
+  },
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "アンドロイドは電気羊の夢を見るか？",
+  "views": 2,
+  "isbn": "B009DELIO6",
+  "data": [
+  {
+  "title": "ハヤカワ文庫のおすすめ本を語る回",
+  "url": "https://www.youtube.com/watch?v=p3tKXgRbRII"
+  },
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  }
+  ]
+  },
+  {
+  "title": "なめらかな世界と、その敵 (ハヤカワ文庫JA)",
+  "views": 2,
+  "isbn": "B09XV1NSS4",
+  "data": [
+  {
+  "title": "ハヤカワ文庫のおすすめ本を語る回",
+  "url": "https://www.youtube.com/watch?v=p3tKXgRbRII"
+  },
+  {
+  "title": "あらすじを聞くだけでワクワクしちゃいます【短編SF3選】",
+  "url": "https://www.youtube.com/watch?v=mfl37BHw3UM"
+  }
+  ]
+  },
+  {
+  "title": "文字渦（新潮文庫）",
+  "views": 2,
+  "isbn": "B08SHNPPWH",
+  "data": [
+  {
+  "title": "【閲覧注意】3冊紹介  #小説 #本 #紹介 #shorts",
+  "url": "https://www.youtube.com/watch?v=xLZ9mvjd24Q"
+  },
+  {
+  "title": "閲覧注意本3選【奇書候補】",
+  "url": "https://www.youtube.com/watch?v=CV146xrYaYk"
+  }
+  ]
+  },
+  {
+  "title": "僕は美しいひとを食べた",
+  "views": 2,
+  "isbn": "B09XDW6BGL",
+  "data": [
+  {
+  "title": "【閲覧注意】3冊紹介  #小説 #本 #紹介 #shorts",
+  "url": "https://www.youtube.com/watch?v=xLZ9mvjd24Q"
+  },
+  {
+  "title": "閲覧注意本3選【奇書候補】",
+  "url": "https://www.youtube.com/watch?v=CV146xrYaYk"
+  }
+  ]
+  },
+  {
+  "title": "ゴーレム 100 (未来の文学)",
+  "views": 2,
+  "isbn": "9784336047373",
+  "data": [
+  {
+  "title": "【閲覧注意】3冊紹介  #小説 #本 #紹介 #shorts",
+  "url": "https://www.youtube.com/watch?v=xLZ9mvjd24Q"
+  },
+  {
+  "title": "閲覧注意本3選【奇書候補】",
+  "url": "https://www.youtube.com/watch?v=CV146xrYaYk"
+  }
+  ]
+  },
+  {
+  "title": "九マイルは遠すぎる (ハヤカワ・ミステリ文庫 19-2)",
+  "views": 2,
+  "isbn": "9784150711023",
+  "data": [
+  {
+  "title": "読書家の最近読んだ10冊【2023年9月】",
+  "url": "https://www.youtube.com/watch?v=L-H98oGaodQ"
+  },
+  {
+  "title": "海外ミステリのおすすめ3選！",
+  "url": "https://www.youtube.com/watch?v=JB-scTOoE44"
+  }
+  ]
+  },
+  {
+  "title": "重力ピエロ（新潮文庫）",
+  "views": 2,
+  "isbn": "B0096PE3MQ",
+  "data": [
+  {
+  "title": "書き出しが最高な小説3冊 #shorts",
+  "url": "https://www.youtube.com/watch?v=UoNGeuPBEcM"
+  },
+  {
+  "title": "最高すぎる小説の書き出し6選",
+  "url": "https://www.youtube.com/watch?v=CfdyYSNavMk"
+  }
+  ]
+  },
+  {
+  "title": "私の消滅 (文春文庫)",
+  "views": 2,
+  "isbn": "9784167913083",
+  "data": [
+  {
+  "title": "書き出しが最高な小説3冊 #shorts",
+  "url": "https://www.youtube.com/watch?v=UoNGeuPBEcM"
+  },
+  {
+  "title": "最高すぎる小説の書き出し6選",
+  "url": "https://www.youtube.com/watch?v=CfdyYSNavMk"
+  }
+  ]
+  },
+  {
+  "title": "世界でいちばん透きとおった物語 (新潮文庫 す 31-2)",
+  "views": 2,
+  "isbn": "9784101802626",
+  "data": [
+  {
+  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
+  },
+  {
+  "title": "2023年上半期のBest3を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=AJo2-_K84aI"
+  }
+  ]
+  },
+  {
+  "title": "アリアドネの声 (幻冬舎単行本)",
+  "views": 2,
+  "isbn": "B0C68Z595W",
+  "data": [
+  {
+  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
+  },
+  {
+  "title": "2023年上半期のBest3を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=AJo2-_K84aI"
+  }
+  ]
+  },
+  {
+  "title": "ガーンズバック変換",
+  "views": 2,
+  "isbn": "B0BVQPM3Y7",
+  "data": [
+  {
+  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
+  },
+  {
+  "title": "2023年上半期のBest3を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=AJo2-_K84aI"
+  }
+  ]
+  },
+  {
+  "title": "ＮＯ推理、ＮＯ探偵？ (講談社ノベルス)",
+  "views": 2,
+  "isbn": "B0759JRC2P",
+  "data": [
+  {
+  "title": "変わった刺激がほしいあなたへ【メタミステリ3選】",
+  "url": "https://www.youtube.com/watch?v=XLMRgtSeNTY"
+  },
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  }
+  ]
+  },
+  {
+  "title": "4TEEN（新潮文庫）",
+  "views": 2,
+  "isbn": "B015VXQAWM",
+  "data": [
+  {
+  "title": "10代で読むべき小説3選",
+  "url": "https://www.youtube.com/watch?v=twuvHHSEFZI"
+  },
+  {
+  "title": "10代で読むべき小説3選【齋藤明里選書】",
+  "url": "https://www.youtube.com/watch?v=Kc-bnDHi-pc"
+  }
+  ]
+  },
+  {
+  "title": "荒野 (文春文庫)",
+  "views": 2,
+  "isbn": "B07171F259",
+  "data": [
+  {
+  "title": "10代で読むべき小説3選",
+  "url": "https://www.youtube.com/watch?v=twuvHHSEFZI"
+  },
+  {
+  "title": "10代で読むべき小説3選【齋藤明里選書】",
+  "url": "https://www.youtube.com/watch?v=Kc-bnDHi-pc"
+  }
+  ]
+  },
+  {
+  "title": "ぬいぐるみとしゃべる人はやさしい (河出文庫)",
+  "views": 2,
+  "isbn": "B0BR5F6MDH",
+  "data": [
+  {
+  "title": "10代で読むべき小説3選",
+  "url": "https://www.youtube.com/watch?v=twuvHHSEFZI"
+  },
+  {
+  "title": "10代で読むべき小説3選【齋藤明里選書】",
+  "url": "https://www.youtube.com/watch?v=Kc-bnDHi-pc"
+  }
+  ]
+  },
+  {
+  "title": "ワールドトリガー 1 (ジャンプコミックスDIGITAL)",
+  "views": 2,
+  "isbn": "B00FB9HF6M",
+  "data": [
+  {
+  "title": "最近読んだ漫画6冊紹介！【2023年8月】",
+  "url": "https://www.youtube.com/watch?v=Y_x9VRxsmiA"
+  },
+  {
+  "title": "この漫画、面白いよ！【3選】【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=mB9Xbrl8rlU"
+  }
+  ]
+  },
+  {
+  "title": "白い衝動 (講談社文庫)",
+  "views": 2,
+  "isbn": "B07VTNWSYH",
+  "data": [
+  {
+  "title": "書き出しが良すぎるミステリ3冊 #shorts",
+  "url": "https://www.youtube.com/watch?v=0v5mxvi8wso"
+  },
+  {
+  "title": "最高すぎる小説の書き出し6選",
+  "url": "https://www.youtube.com/watch?v=CfdyYSNavMk"
+  }
+  ]
+  },
+  {
+  "title": "キャットフード (講談社文庫)",
+  "views": 2,
+  "isbn": "B00FOKKRYA",
+  "data": [
+  {
+  "title": "書き出しが良すぎるミステリ3冊 #shorts",
+  "url": "https://www.youtube.com/watch?v=0v5mxvi8wso"
+  },
+  {
+  "title": "最高すぎる小説の書き出し6選",
+  "url": "https://www.youtube.com/watch?v=CfdyYSNavMk"
+  }
+  ]
+  },
+  {
+  "title": "虚無回廊",
+  "views": 2,
+  "isbn": "B01B1G8CKG",
+  "data": [
+  {
+  "title": "書き出しが良すぎるミステリ3冊 #shorts",
+  "url": "https://www.youtube.com/watch?v=0v5mxvi8wso"
+  },
+  {
+  "title": "最高すぎる小説の書き出し6選",
+  "url": "https://www.youtube.com/watch?v=CfdyYSNavMk"
+  }
+  ]
+  },
+  {
+  "title": "星くずの殺人",
+  "views": 2,
+  "isbn": "B0BVM4478Z",
+  "data": [
+  {
+  "title": "最近読んだ本を6冊紹介！【2023年8月】",
+  "url": "https://www.youtube.com/watch?v=eBigJqpDzvo"
+  },
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  }
+  ]
+  },
+  {
+  "title": "汚れた手をそこで拭かない (文春e-book)",
+  "views": 2,
+  "isbn": "B08K3WRFDV",
+  "data": [
+  {
+  "title": "イヤな気持ちになるミステリ3選 #short",
+  "url": "https://www.youtube.com/watch?v=_aYsuRqYnF0"
+  },
+  {
+  "title": "ミステリマニアが選ぶイヤミス3選",
+  "url": "https://www.youtube.com/watch?v=zb67cZQKiv8"
+  }
+  ]
+  },
+  {
+  "title": "新装版　殺戮にいたる病 (講談社文庫)",
+  "views": 2,
+  "isbn": "B076Z8GN9X",
+  "data": [
+  {
+  "title": "イヤな気持ちになるミステリ3選 #short",
+  "url": "https://www.youtube.com/watch?v=_aYsuRqYnF0"
+  },
+  {
+  "title": "ミステリマニアが選ぶイヤミス3選",
+  "url": "https://www.youtube.com/watch?v=zb67cZQKiv8"
+  }
+  ]
+  },
+  {
+  "title": "美しい本屋さんの間取り (美しい店舗の間取り 1)",
+  "views": 2,
+  "isbn": "9784767830957",
+  "data": [
+  {
+  "title": "【誰か実現して】理想の本屋さんをプレゼンします",
+  "url": "https://www.youtube.com/watch?v=q3SG-WxBcBo"
+  },
+  {
+  "title": "【全6作品】読書好きの終着点が見えてしまいました【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=xuTezMhlTsA"
+  }
+  ]
+  },
+  {
+  "title": "アメリカの夜 (講談社文庫)",
+  "views": 2,
+  "isbn": "B0811Y21V4",
+  "data": [
+  {
+  "title": "主人公がヤバい小説3選 #shorts",
+  "url": "https://www.youtube.com/watch?v=c7X8V0bBqI0"
+  },
+  {
+  "title": "主人公がヤバい小説6選",
+  "url": "https://www.youtube.com/watch?v=xQp7HeGv9Ag"
+  }
+  ]
+  },
+  {
+  "title": "回転草",
+  "views": 2,
+  "isbn": "B07G714PWH",
+  "data": [
+  {
+  "title": "主人公がヤバい小説3選 #shorts",
+  "url": "https://www.youtube.com/watch?v=c7X8V0bBqI0"
+  },
+  {
+  "title": "主人公がヤバい小説6選",
+  "url": "https://www.youtube.com/watch?v=xQp7HeGv9Ag"
+  }
+  ]
+  },
+  {
+  "title": "ミーツ・ザ・ワールド (集英社文芸単行本)",
+  "views": 2,
+  "isbn": "B09P4NZ3KM",
+  "data": [
+  {
+  "title": "好きなタイトルデザイン【フォント好き集まれ】",
+  "url": "https://www.youtube.com/watch?v=A_0-5LJIXtE"
+  },
+  {
+  "title": "読書狂が最近読んだ本【2022年7月】",
+  "url": "https://www.youtube.com/watch?v=wAKqeWWYu-w"
+  }
+  ]
+  },
+  {
+  "title": "フェルマーの最終定理（新潮文庫）",
+  "views": 2,
+  "isbn": "B01N6JBYJX",
+  "data": [
+  {
+  "title": "ノンフィクションなのに伏線回収？【フェルマーの最終定理】",
+  "url": "https://www.youtube.com/watch?v=pNtmUQhONxc"
+  },
+  {
+  "title": "ベストセラー『フェルマーの最終定理』がなぜ面白いのか解説します",
+  "url": "https://www.youtube.com/watch?v=rsmL3xr1iuk"
+  }
+  ]
+  },
+  {
+  "title": "＃柚莉愛とかくれんぼ (講談社文庫)",
+  "views": 2,
+  "isbn": "B09L7ZD4PD",
+  "data": [
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  },
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  }
+  ]
+  },
+  {
+  "title": "そして、バトンは渡された (文春文庫)",
+  "views": 2,
+  "isbn": "B08H1SKN8X",
+  "data": [
+  {
+  "title": "絶対に泣いてしまう本3選 #Shorts",
+  "url": "https://www.youtube.com/watch?v=fXL2XEJqKSo"
+  },
+  {
+  "title": "小説1000冊読んだ私が選ぶ「涙腺崩壊」ベスト３",
+  "url": "https://www.youtube.com/watch?v=8WDqaR5wz0U"
+  }
+  ]
+  },
+  {
+  "title": "東京ディストピア日記",
+  "views": 2,
+  "isbn": "B0936XWP35",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "蝉かえる サーチライトと誘蛾灯 (創元推理文庫)",
+  "views": 2,
+  "isbn": "B0BS8B381V",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "イデアの影　The shadow of Ideas (中公文庫)",
+  "views": 2,
+  "isbn": "B07KP8GYC3",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "NOVA 2021年夏号 (河出文庫)",
+  "views": 2,
+  "isbn": "9784309417998",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "世界の果て、彼女 (新しい韓国の文学)",
+  "views": 2,
+  "isbn": "9784904855218",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "もう死んでいる十二人の女たちと (エクス・リブリス)",
+  "views": 2,
+  "isbn": "9784560090664",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "空芯手帳",
+  "views": 2,
+  "isbn": "9784480804990",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "この場所であなたの名前を呼んだ (講談社文庫)",
+  "views": 2,
+  "isbn": "B0C7C4P1VJ",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "【全10冊】小説1000冊読んだ私が最近読んだ本【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=Iht_Px-oZNk"
+  }
+  ]
+  },
+  {
+  "title": "アルテミスの涙",
+  "views": 2,
+  "isbn": "B09FJT9NST",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説を一気に紹介します【2021年11月】",
+  "url": "https://www.youtube.com/watch?v=pNc2ILCxvgo"
+  }
+  ]
+  },
+  {
+  "title": "ロイヤルシアターの幽霊たち",
+  "views": 2,
+  "isbn": "B08KRG6LC6",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説を一気に紹介します【2021年11月】",
+  "url": "https://www.youtube.com/watch?v=pNc2ILCxvgo"
+  }
+  ]
+  },
+  {
+  "title": "死者にこそふさわしいその場所 (文春e-book)",
+  "views": 2,
+  "isbn": "B09DCF3TLW",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説を一気に紹介します【2021年11月】",
+  "url": "https://www.youtube.com/watch?v=pNc2ILCxvgo"
+  }
+  ]
+  },
+  {
+  "title": "星に仄めかされて (講談社文庫)",
+  "views": 2,
+  "isbn": "B0C3ZNNX7P",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説を一気に紹介します【2021年11月】",
+  "url": "https://www.youtube.com/watch?v=pNc2ILCxvgo"
+  }
+  ]
+  },
+  {
+  "title": "燃える息",
+  "views": 2,
+  "isbn": "B09GRNB4YT",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "あさひは失敗しない",
+  "views": 2,
+  "isbn": "B09J4W8D6P",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "かぞえきれない星の、その次の星 (角川書店単行本)",
+  "views": 2,
+  "isbn": "B09FDVRBDR",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "砂糖菓子の弾丸は撃ちぬけない　Ａ　Ｌｏｌｌｙｐｏｐ　ｏｒ　Ａ　Ｂｕｌｌｅｔ (角川文庫)",
+  "views": 2,
+  "isbn": "B009GPM8QO",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "花束は毒 (文春e-book)",
+  "views": 2,
+  "isbn": "B099W6F273",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "胃が合うふたり",
+  "views": 2,
+  "isbn": "B09GRPDL4Y",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "遠慮深いうたた寝",
+  "views": 2,
+  "isbn": "B09MVNSCBV",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "偽りの春　神倉駅前交番　狩野雷太の推理 (角川文庫)",
+  "views": 2,
+  "isbn": "B09FJ6859V",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "朝と夕の犯罪 (角川書店単行本)",
+  "views": 2,
+  "isbn": "B09G2BH3YC",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "ほんのこども",
+  "views": 2,
+  "isbn": "B09KRMVW8M",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  },
+  {
+  "title": "最近読んだ小説10選【2022年1月】",
+  "url": "https://www.youtube.com/watch?v=iWOslUq_Lig"
+  }
+  ]
+  },
+  {
+  "title": "十角館の殺人〈新装改訂版〉 ｢館｣シリーズ (講談社文庫)",
+  "views": 2,
+  "isbn": "B00CE3T6OC",
+  "data": [
+  {
+  "title": "どんでん返しがスゴいミステリ #shorts",
+  "url": "https://www.youtube.com/watch?v=yaDz90j9eDQ"
+  },
+  {
+  "title": "ミステリ1000冊読んだ男が選ぶどんでん返し3選！！",
+  "url": "https://www.youtube.com/watch?v=SUMi59DBm_I"
+  }
+  ]
+  },
+  {
+  "title": "シャドウ (創元推理文庫)",
+  "views": 2,
+  "isbn": "B007RI9LV2",
+  "data": [
+  {
+  "title": "どんでん返しがスゴいミステリ #shorts",
+  "url": "https://www.youtube.com/watch?v=yaDz90j9eDQ"
+  },
+  {
+  "title": "ミステリ1000冊読んだ男が選ぶどんでん返し3選！！",
+  "url": "https://www.youtube.com/watch?v=SUMi59DBm_I"
+  }
+  ]
+  },
+  {
+  "title": "葉桜の季節に君を想うということ (文春文庫)",
+  "views": 2,
+  "isbn": "B0785DML94",
+  "data": [
+  {
+  "title": "どんでん返しがスゴいミステリ #shorts",
+  "url": "https://www.youtube.com/watch?v=yaDz90j9eDQ"
+  },
+  {
+  "title": "ミステリ1000冊読んだ男が選ぶどんでん返し3選！！",
+  "url": "https://www.youtube.com/watch?v=SUMi59DBm_I"
+  }
+  ]
+  },
+  {
+  "title": "ロリヰタ。",
+  "views": 2,
+  "isbn": "B0099FLC68",
+  "data": [
+  {
+  "title": "読書好きが何度も読み返した本3選",
+  "url": "https://www.youtube.com/watch?v=dr5m2LpuycI"
+  },
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  }
+  ]
+  },
+  {
+  "title": "都会のトム＆ソーヤ(1) (YA! ENTERTAINMENT)",
+  "views": 2,
+  "isbn": "B00BJ09I4Y",
+  "data": [
+  {
+  "title": "読書好きが何度も読み返した本3選",
+  "url": "https://www.youtube.com/watch?v=dr5m2LpuycI"
+  },
+  {
+  "title": "最高なコンビが出てくる小説6選",
+  "url": "https://www.youtube.com/watch?v=RBbot8c7v1w"
+  }
+  ]
+  },
+  {
+  "title": "オリエント急行の殺人 (クリスティー文庫)",
+  "views": 2,
+  "isbn": "B009DEMNUY",
+  "data": [
+  {
+  "title": "学校や仕事の前の日には気を付けて #shorts",
+  "url": "https://www.youtube.com/watch?v=ezo1ZIqt7eE"
+  },
+  {
+  "title": "徹夜で読みたいミステリ3選【眠れない夜をあなたに】",
+  "url": "https://www.youtube.com/watch?v=XVNtOyMXqDY"
+  }
+  ]
+  },
+  {
+  "title": "クリムゾンの迷宮 (角川ホラー文庫)",
+  "views": 2,
+  "isbn": "B00BMM5OV0",
+  "data": [
+  {
+  "title": "学校や仕事の前の日には気を付けて #shorts",
+  "url": "https://www.youtube.com/watch?v=ezo1ZIqt7eE"
+  },
+  {
+  "title": "徹夜で読みたいミステリ3選【眠れない夜をあなたに】",
+  "url": "https://www.youtube.com/watch?v=XVNtOyMXqDY"
+  }
+  ]
+  },
+  {
+  "title": "自由研究には向かない殺人 (創元推理文庫)",
+  "views": 2,
+  "isbn": "B09BCV8C77",
+  "data": [
+  {
+  "title": "海外ミステリのおすすめ3選！",
+  "url": "https://www.youtube.com/watch?v=JB-scTOoE44"
+  },
+  {
+  "title": "タイトルが良すぎる小説6選",
+  "url": "https://www.youtube.com/watch?v=mq_r6LU-iJM"
+  }
+  ]
+  },
+  {
+  "title": "それいぬ正しい乙女になるために (文春文庫PLUS)",
+  "views": 2,
+  "isbn": "B009DED6KU",
+  "data": [
+  {
+  "title": "疲れているときにこそ読んでほしい小説【3選】",
+  "url": "https://www.youtube.com/watch?v=R0zWNUKZz8M"
+  },
+  {
+  "title": "好きなエッセイ本6選",
+  "url": "https://www.youtube.com/watch?v=VCFpggzf3wQ"
+  }
+  ]
+  },
+  {
+  "title": "きみを嫌いな奴はクズだよ 現代歌人シリーズ",
+  "views": 2,
+  "isbn": "B01FFRN6OE",
+  "data": [
+  {
+  "title": "疲れているときにこそ読んでほしい小説【3選】",
+  "url": "https://www.youtube.com/watch?v=R0zWNUKZz8M"
+  },
+  {
+  "title": "タイトルが良すぎる小説6選",
+  "url": "https://www.youtube.com/watch?v=mq_r6LU-iJM"
+  }
+  ]
+  },
+  {
+  "title": "阿津川辰海 読書日記～かくしてミステリー作家は語る〈新鋭奮闘編〉～",
+  "views": 2,
+  "isbn": "B0B9LV5VB7",
+  "data": [
+  {
+  "title": "【全6冊】本好きってどんな本読んでるの？【2023年6月】",
+  "url": "https://www.youtube.com/watch?v=4OvPphJwOzg"
+  },
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "生物学的に、しょうがない！",
+  "views": 2,
+  "isbn": "B0976S5QXB",
+  "data": [
+  {
+  "title": "【全6冊】本好きってどんな本読んでるの？【2023年6月】",
+  "url": "https://www.youtube.com/watch?v=4OvPphJwOzg"
+  },
+  {
+  "title": "営業終了間際の本屋を歩く【八重洲ブックセンター本店】",
+  "url": "https://www.youtube.com/watch?v=YNdJRoIdAbk"
+  }
+  ]
+  },
+  {
+  "title": "銃とチョコレート (講談社文庫)",
+  "views": 2,
+  "isbn": "B06Y12C1W2",
+  "data": [
+  {
+  "title": "タイトル買いして良かった本6選【ジャンルレス】",
+  "url": "https://www.youtube.com/watch?v=XKag1dk_Gto"
+  },
+  {
+  "title": "ミステリマニアが選ぶミステリ入門3選",
+  "url": "https://www.youtube.com/watch?v=KRIZo9ybZd4"
+  }
+  ]
+  },
+  {
+  "title": "るん（笑） (集英社文芸単行本)",
+  "views": 2,
+  "isbn": "B08P36J6XD",
+  "data": [
+  {
+  "title": "こんな未来が来るかもしれない...ディストピア小説【3選】#Shorts",
+  "url": "https://www.youtube.com/watch?v=ZN7VADP00N0"
+  },
+  {
+  "title": "絶対読みたくなるディストピア3選",
+  "url": "https://www.youtube.com/watch?v=BjZ1PCua6CM"
+  }
+  ]
+  },
+  {
+  "title": "名探偵のはらわた（新潮文庫）",
+  "views": 2,
+  "isbn": "B0BT4TNGKM",
+  "data": [
+  {
+  "title": "ミステリ×〇〇【3選】",
+  "url": "https://www.youtube.com/watch?v=1c2loxb5Atw"
+  },
+  {
+  "title": "複雑＆緻密な構成はどのように生まれたのか【名探偵のいけにえ】",
+  "url": "https://www.youtube.com/watch?v=PaLM03-U0sg"
+  }
+  ]
+  },
+  {
+  "title": "そして誰もいなくなった (クリスティー文庫)",
+  "views": 2,
+  "isbn": "B009DEMORQ",
+  "data": [
+  {
+  "title": "閉鎖空間で起こるミステリ3選【絶望】",
+  "url": "https://www.youtube.com/watch?v=BmBRD2J_SyI"
+  },
+  {
+  "title": "思わず読みたくなるタイトル6選",
+  "url": "https://www.youtube.com/watch?v=nnjTN0qrQpw"
+  }
+  ]
+  },
+  {
+  "title": "変な絵",
+  "views": 2,
+  "isbn": "B0BHDN5CVD",
+  "data": [
+  {
+  "title": "【LIVE】第４回ほんタメ文学賞（2022年下半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=0Z_6XAg2sgQ"
+  },
+  {
+  "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
+  }
+  ]
+  },
+  {
+  "title": "掌に眠る舞台 (集英社文芸単行本)",
+  "views": 2,
+  "isbn": "B0BCJWFF6M",
+  "data": [
+  {
+  "title": "【LIVE】第４回ほんタメ文学賞（2022年下半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=0Z_6XAg2sgQ"
+  },
+  {
+  "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
+  }
+  ]
+  },
+  {
+  "title": "新装版　七回死んだ男 (講談社文庫)",
+  "views": 2,
+  "isbn": "B0759L8YNV",
+  "data": [
+  {
+  "title": "時間が戻るミステリは面白い【3選】",
+  "url": "https://www.youtube.com/watch?v=xchGSK5U_3w"
+  },
+  {
+  "title": "ミステリマニアが選ぶ 伏線がすごい小説3選",
+  "url": "https://www.youtube.com/watch?v=ik-u57xU4zg"
+  }
+  ]
+  },
+  {
+  "title": "リピート (文春文庫)",
+  "views": 2,
+  "isbn": "B009DEDGIM",
+  "data": [
+  {
+  "title": "時間が戻るミステリは面白い【3選】",
+  "url": "https://www.youtube.com/watch?v=xchGSK5U_3w"
+  },
+  {
+  "title": "ミステリマニアが選ぶミステリ入門3選",
+  "url": "https://www.youtube.com/watch?v=KRIZo9ybZd4"
+  }
+  ]
+  },
+  {
+  "title": "あなたへの挑戦状",
+  "views": 2,
+  "isbn": "B0BFVMSZD8",
+  "data": [
+  {
+  "title": "【全6作品】本を超えた何か(!)も紹介します【2023年2月】",
+  "url": "https://www.youtube.com/watch?v=F3HagR6ldNk"
+  },
+  {
+  "title": "【全6冊】本屋で何を買うか悩んでいるあなたへ【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=pMwKz8feksc"
+  }
+  ]
+  },
+  {
+  "title": "終末のワルキューレ 1巻 (ゼノンコミックス)",
+  "views": 2,
+  "isbn": "B07CWPG8B3",
+  "data": [
+  {
+  "title": "最近読んだおすすめの漫画を紹介します【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=Tf_1Cw10tIc"
+  },
+  {
+  "title": "漫画のベストマッチ6選",
+  "url": "https://www.youtube.com/watch?v=foIq5gCq2wA"
+  }
+  ]
+  },
+  {
+  "title": "此の世の果ての殺人",
+  "views": 2,
+  "isbn": "B0B9FTK7NT",
+  "data": [
+  {
+  "title": "こんな状況でミステリ！？特殊設定ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=rMss6KjVMNU"
+  },
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
+  "title": "レペゼン母",
+  "views": 2,
+  "isbn": "B0B87F52FF",
+  "data": [
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  },
+  {
+  "title": "大人気企画！最近読んだ本を80人の前で紹介してみた",
+  "url": "https://www.youtube.com/watch?v=3xWqBM5GLOQ"
+  }
+  ]
+  },
+  {
+  "title": "ウィッチウォッチ 1 (ジャンプコミックスDIGITAL)",
+  "views": 2,
+  "isbn": "B093L3255F",
+  "data": [
+  {
+  "title": "おすすめラブコメ漫画3選！",
+  "url": "https://www.youtube.com/watch?v=aU1P_vA11sc"
+  },
+  {
+  "title": "読み忘れてる王道漫画ないですか？？？",
+  "url": "https://www.youtube.com/watch?v=AtWsfet5XBU"
+  }
+  ]
+  },
+  {
+  "title": "ジュリアン・バトラーの真実の生涯",
+  "views": 2,
+  "isbn": "B09GVN9H46",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  },
+  {
+  "title": "読書狂が最近読んだ本【2022年7月】",
+  "url": "https://www.youtube.com/watch?v=wAKqeWWYu-w"
+  }
+  ]
+  },
+  {
+  "title": "愛じゃないならこれは何 (ジャンプジェイブックスDIGITAL)",
+  "views": 2,
+  "isbn": "B09MQDSBCG",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  },
+  {
+  "title": "恋愛は健康に悪い！？恋愛は貰い事故！？",
+  "url": "https://www.youtube.com/watch?v=1dZAVyK1LXE"
+  }
+  ]
+  },
+  {
+  "title": "まっとうな人生",
+  "views": 2,
+  "isbn": "B0B1D1Z6KP",
+  "data": [
+  {
+  "title": "【LIVE】ほんタメ文学賞2022年上半期【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=fSiexcNa9qA"
+  },
+  {
+  "title": "本好きが選んだ2022年上半期で一番面白かった小説を発表します",
+  "url": "https://www.youtube.com/watch?v=gC8NBN3QI18"
+  }
+  ]
+  },
+  {
+  "title": "パパイヤ・ママイヤ",
+  "views": 2,
+  "isbn": "B09YT29LY1",
+  "data": [
+  {
+  "title": "【LIVE】ほんタメ文学賞2022年上半期【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=fSiexcNa9qA"
+  },
+  {
+  "title": "本好きが選んだ2022年上半期で一番面白かった小説を発表します",
+  "url": "https://www.youtube.com/watch?v=gC8NBN3QI18"
+  }
+  ]
+  },
+  {
+  "title": "ヒカリ文集",
+  "views": 2,
+  "isbn": "9784065267462",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本を紹介します【2022年8月】",
+  "url": "https://www.youtube.com/watch?v=-vCUq1X5HT0"
+  },
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  }
+  ]
+  },
+  {
+  "title": "GALS! 1 (りぼんマスコットコミックスDIGITAL)",
+  "views": 2,
+  "isbn": "B00IU6ULIM",
+  "data": [
+  {
+  "title": "短時間で漫画の魅力を伝えられるのはどっち！？",
+  "url": "https://www.youtube.com/watch?v=9qZn1mtg7JY"
+  },
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
+  }
+  ]
+  },
+  {
+  "title": "ドリフターズ（１） (ヤングキングコミックス)",
+  "views": 2,
+  "isbn": "B00CBEUBX4",
+  "data": [
+  {
+  "title": "短時間で漫画の魅力を伝えられるのはどっち！？",
+  "url": "https://www.youtube.com/watch?v=9qZn1mtg7JY"
+  },
+  {
+  "title": "漫画の名言6選",
+  "url": "https://www.youtube.com/watch?v=Mcz2-R7Nfn0"
+  }
+  ]
+  },
+  {
+  "title": "タコピーの原罪 上 (ジャンプコミックスDIGITAL)",
+  "views": 2,
+  "isbn": "B09R9YL6Q8",
+  "data": [
+  {
+  "title": "短時間で漫画の魅力を伝えられるのはどっち！？",
+  "url": "https://www.youtube.com/watch?v=9qZn1mtg7JY"
+  },
+  {
+  "title": "主人公がヤバい漫画6選",
+  "url": "https://www.youtube.com/watch?v=otLdrxtqwJw"
+  }
+  ]
+  },
+  {
+  "title": "寄生獣（１） (アフタヌーンコミックス)",
+  "views": 2,
+  "isbn": "B009KWUID8",
+  "data": [
+  {
+  "title": "短時間で漫画の魅力を伝えられるのはどっち！？",
+  "url": "https://www.youtube.com/watch?v=9qZn1mtg7JY"
+  },
+  {
+  "title": "漫画の名言6選",
+  "url": "https://www.youtube.com/watch?v=Mcz2-R7Nfn0"
+  }
+  ]
+  },
+  {
+  "title": "好き好き大好き超愛してる。 (講談社文庫)",
+  "views": 2,
+  "isbn": "B00AJCM3QS",
+  "data": [
+  {
+  "title": "始まりよければ終わりまでよし！小説書き出し3選",
+  "url": "https://www.youtube.com/watch?v=DSAXxi60YJk"
+  },
+  {
+  "title": "思わず読みたくなるタイトル6選",
+  "url": "https://www.youtube.com/watch?v=nnjTN0qrQpw"
+  }
+  ]
+  },
+  {
+  "title": "引力の欠落 (角川書店単行本)",
+  "views": 2,
+  "isbn": "B09VG6CFBJ",
+  "data": [
+  {
+  "title": "読書狂が最近読んだ本【2022年7月】",
+  "url": "https://www.youtube.com/watch?v=wAKqeWWYu-w"
+  },
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  }
+  ]
+  },
+  {
+  "title": "愛書狂の本棚　異能と夢想が生んだ奇書・偽書・稀覯書",
+  "views": 2,
+  "isbn": "B09XM9Q7LT",
+  "data": [
+  {
+  "title": "読書好きの2人が色々なジャンルの本を紹介します！【2022年6月】",
+  "url": "https://www.youtube.com/watch?v=yoXhhRtR2mU"
+  },
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  }
+  ]
+  },
+  {
+  "title": "はじめの一歩（１） (週刊少年マガジンコミックス)",
+  "views": 2,
+  "isbn": "B009KYCG0E",
+  "data": [
+  {
+  "title": "個人的におすすめなスポーツ漫画6選",
+  "url": "https://www.youtube.com/watch?v=kpBxUY9tqKw"
+  },
+  {
+  "title": "漫画のベストマッチ6選",
+  "url": "https://www.youtube.com/watch?v=foIq5gCq2wA"
+  }
+  ]
+  },
+  {
+  "title": "コンビニ人間 (文春文庫)",
+  "views": 2,
+  "isbn": "B07GYMDBCM",
+  "data": [
+  {
+  "title": "大好きな村田沙耶香作品を紹介します",
+  "url": "https://www.youtube.com/watch?v=GkzHcq5O3-M"
+  },
+  {
+  "title": "読書オタクが選ぶ純文学入門3選",
+  "url": "https://www.youtube.com/watch?v=UfIn7d4tWWg"
+  }
+  ]
+  },
+  {
+  "title": "進撃の巨人（１） (週刊少年マガジンコミックス)",
+  "views": 2,
+  "isbn": "B009KYC6S6",
+  "data": [
+  {
+  "title": "漫画の名言6選",
+  "url": "https://www.youtube.com/watch?v=Mcz2-R7Nfn0"
+  },
+  {
+  "title": "【検証】『進撃の巨人』全話読み終わるまで何時間かかるのか？",
+  "url": "https://www.youtube.com/watch?v=xdQb5t3ZOfY"
+  }
+  ]
+  },
+  {
+  "title": "超短編! 大どんでん返し (小学館文庫 ん 2-1)",
+  "views": 2,
+  "isbn": "9784094068832",
+  "data": [
+  {
+  "title": "めちゃくちゃ短い！掌編小説6選",
+  "url": "https://www.youtube.com/watch?v=YrNsUBeB3P8"
+  },
+  {
+  "title": "本好きが最近読んだ本【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=quLMDVkhWhI"
+  }
+  ]
+  },
+  {
+  "title": "叙述トリック短編集 (講談社タイガ)",
+  "views": 2,
+  "isbn": "B091PTTRKL",
+  "data": [
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  },
+  {
+  "title": "時間がないあなたへ　短編ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=1_7m3cgGQ0c"
+  }
+  ]
+  },
+  {
+  "title": "【推しの子】 1 (ヤングジャンプコミックスDIGITAL)",
+  "views": 2,
+  "isbn": "B08BFW6GSV",
+  "data": [
+  {
+  "title": "コアな漫画6選",
+  "url": "https://www.youtube.com/watch?v=it2Rja14Tdo"
+  },
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "美少女戦士セーラームーン　完全版（１） (なかよしコミックス)",
+  "views": 2,
+  "isbn": "B07TBF365X",
+  "data": [
+  {
+  "title": "理系男子にセーラームーンの魅力を全力プレゼンします",
+  "url": "https://www.youtube.com/watch?v=Hs25NbsS9fU"
+  },
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
   }
   ]
   },
@@ -13875,31 +16249,9 @@ const books = [
   ]
   },
   {
-  "title": "残月記",
-  "views": 1,
-  "isbn": "9784575244649",
-  "data": [
-  {
-  "title": "【全3冊】今一番アツい短編集を語ります！2022年本屋大賞候補作レビュー！",
-  "url": "https://www.youtube.com/watch?v=x4v4fXK-uXg"
-  }
-  ]
-  },
-  {
   "title": "赤と青とエスキース",
   "views": 1,
   "isbn": "9784569850641",
-  "data": [
-  {
-  "title": "【全3冊】今一番アツい短編集を語ります！2022年本屋大賞候補作レビュー！",
-  "url": "https://www.youtube.com/watch?v=x4v4fXK-uXg"
-  }
-  ]
-  },
-  {
-  "title": "スモールワールズ",
-  "views": 1,
-  "isbn": "9784065222690",
   "data": [
   {
   "title": "【全3冊】今一番アツい短編集を語ります！2022年本屋大賞候補作レビュー！",
@@ -14278,28 +16630,6 @@ const books = [
   {
   "title": "自宅で文庫フェアやってみたら最高すぎた！全11冊のラインナップも紹介するよ！【新潮文庫nex】",
   "url": "https://www.youtube.com/watch?v=Oq7dlZPI6_M"
-  }
-  ]
-  },
-  {
-  "title": "火のないところに煙は（新潮文庫）",
-  "views": 1,
-  "isbn": "9784101014326",
-  "data": [
-  {
-  "title": "夏にピッタリ！最近読んだゾクゾクする本を3冊紹介するよ！",
-  "url": "https://www.youtube.com/watch?v=I3X5LNcwJ4Y"
-  }
-  ]
-  },
-  {
-  "title": "ぼぎわんが、来る 比嘉姉妹シリーズ (角川ホラー文庫)",
-  "views": 1,
-  "isbn": "B079XX7HBC",
-  "data": [
-  {
-  "title": "夏にピッタリ！最近読んだゾクゾクする本を3冊紹介するよ！",
-  "url": "https://www.youtube.com/watch?v=I3X5LNcwJ4Y"
   }
   ]
   },
@@ -14960,17 +17290,6 @@ const books = [
   {
   "title": "趣味全開の11冊！最近読んだ小説以外の本について語るよ〜！",
   "url": "https://www.youtube.com/watch?v=yoHS1BiYmWo"
-  }
-  ]
-  },
-  {
-  "title": "ルビンの壺が割れた（新潮文庫）",
-  "views": 1,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "9冊一挙紹介！最近読んだ小説について語るよ〜【7月】",
-  "url": "https://www.youtube.com/watch?v=PUFKVkmg-tI"
   }
   ]
   },
@@ -31189,17 +33508,6 @@ const books = [
   ]
   },
   {
-  "title": "バナナの魅力を100文字で伝えてください 誰でも身につく36の伝わる法則",
-  "views": 1,
-  "isbn": "B09NRKRC9Q",
-  "data": [
-  {
-  "title": "【要約】バナナの魅力を100文字で伝えてください 誰でも身につく36の伝わる法則【柿内尚文】",
-  "url": "https://www.youtube.com/watch?v=Fj5c2ZqCFRs"
-  }
-  ]
-  },
-  {
   "title": "奇跡のようにお金が流れこんでくる シンクロニシティ・マネーの法則",
   "views": 1,
   "isbn": "9784046054241",
@@ -33048,50 +35356,6 @@ const books = [
   ]
   },
   {
-  "title": "容疑者Xの献身 (文春文庫)",
-  "views": 1,
-  "isbn": "B086WV9GBT",
-  "data": [
-  {
-  "title": "天才vs天才 最高の頭脳戦【3冊】#shorts",
-  "url": "https://www.youtube.com/watch?v=oDb1bszQP3A"
-  }
-  ]
-  },
-  {
-  "title": "その可能性はすでに考えた (講談社文庫)",
-  "views": 1,
-  "isbn": "B079L4QPFX",
-  "data": [
-  {
-  "title": "天才vs天才 最高の頭脳戦【3冊】#shorts",
-  "url": "https://www.youtube.com/watch?v=oDb1bszQP3A"
-  }
-  ]
-  },
-  {
-  "title": "扉は閉ざされたまま (祥伝社文庫)",
-  "views": 1,
-  "isbn": "B0732NXDT9",
-  "data": [
-  {
-  "title": "天才vs天才 最高の頭脳戦【3冊】#shorts",
-  "url": "https://www.youtube.com/watch?v=oDb1bszQP3A"
-  }
-  ]
-  },
-  {
-  "title": "夜は短し歩けよ乙女 (角川文庫)",
-  "views": 1,
-  "isbn": "B0093GEBJS",
-  "data": [
-  {
-  "title": "お酒が飲みたくなる本3選",
-  "url": "https://www.youtube.com/watch?v=PlZIRcHpF9Y"
-  }
-  ]
-  },
-  {
   "title": "センセイの鞄",
   "views": 1,
   "isbn": "B097R4TX2B",
@@ -33125,72 +35389,6 @@ const books = [
   ]
   },
   {
-  "title": "遮光 (新潮文庫)",
-  "views": 1,
-  "isbn": "9784101289533",
-  "data": [
-  {
-  "title": "本気の恋愛小説を３冊紹介します #shorts",
-  "url": "https://www.youtube.com/watch?v=PBOfx4PLI2Y"
-  }
-  ]
-  },
-  {
-  "title": "私の男 (文春文庫)",
-  "views": 1,
-  "isbn": "B009A48ZDQ",
-  "data": [
-  {
-  "title": "本気の恋愛小説を３冊紹介します #shorts",
-  "url": "https://www.youtube.com/watch?v=PBOfx4PLI2Y"
-  }
-  ]
-  },
-  {
-  "title": "純潔",
-  "views": 1,
-  "isbn": "B082PK57BX",
-  "data": [
-  {
-  "title": "本気の恋愛小説を３冊紹介します #shorts",
-  "url": "https://www.youtube.com/watch?v=PBOfx4PLI2Y"
-  }
-  ]
-  },
-  {
-  "title": "すべてがＦになる　THE PERFECT INSIDER Ｓ＆Ｍシリーズ (講談社文庫)",
-  "views": 1,
-  "isbn": "B009GXMFHI",
-  "data": [
-  {
-  "title": "理系がすすめる理系ミステリ【3冊】#shorts",
-  "url": "https://www.youtube.com/watch?v=HNxhpHzyejg"
-  }
-  ]
-  },
-  {
-  "title": "恋と禁忌の述語論理 (講談社文庫)",
-  "views": 1,
-  "isbn": "B07L4C49TJ",
-  "data": [
-  {
-  "title": "理系がすすめる理系ミステリ【3冊】#shorts",
-  "url": "https://www.youtube.com/watch?v=HNxhpHzyejg"
-  }
-  ]
-  },
-  {
-  "title": "眼球堂の殺人　～Ｔｈｅ　Ｂｏｏｋ～ 堂シリーズ (講談社文庫)",
-  "views": 1,
-  "isbn": "B01M01HWT3",
-  "data": [
-  {
-  "title": "理系がすすめる理系ミステリ【3冊】#shorts",
-  "url": "https://www.youtube.com/watch?v=HNxhpHzyejg"
-  }
-  ]
-  },
-  {
   "title": "１日外出録ハンチョウ（１） (ヤングマガジンコミックス)",
   "views": 1,
   "isbn": "B0723G567Y",
@@ -33216,17 +35414,6 @@ const books = [
   "title": "東大ナゾトレ 東京大学謎解き制作集団AnotherVisionからの挑戦状　第1巻 (扶桑社ＢＯＯＫＳ)",
   "views": 1,
   "isbn": "B072C87ZN2",
-  "data": [
-  {
-  "title": "夜に眠れないあなたへおすすめの本6選",
-  "url": "https://www.youtube.com/watch?v=TLK7QyE13bM"
-  }
-  ]
-  },
-  {
-  "title": "銀河の片隅で科学夜話",
-  "views": 1,
-  "isbn": "B086GX4WH6",
   "data": [
   {
   "title": "夜に眠れないあなたへおすすめの本6選",
@@ -33268,31 +35455,9 @@ const books = [
   ]
   },
   {
-  "title": "アンドロイドは電気羊の夢を見るか？",
-  "views": 1,
-  "isbn": "B009DELIO6",
-  "data": [
-  {
-  "title": "ハヤカワ文庫のおすすめ本を語る回",
-  "url": "https://www.youtube.com/watch?v=p3tKXgRbRII"
-  }
-  ]
-  },
-  {
   "title": "文学少女対数学少女 (ハヤカワ・ミステリ文庫)",
   "views": 1,
   "isbn": "B08P71DG4J",
-  "data": [
-  {
-  "title": "ハヤカワ文庫のおすすめ本を語る回",
-  "url": "https://www.youtube.com/watch?v=p3tKXgRbRII"
-  }
-  ]
-  },
-  {
-  "title": "なめらかな世界と、その敵 (ハヤカワ文庫JA)",
-  "views": 1,
-  "isbn": "B09XV1NSS4",
   "data": [
   {
   "title": "ハヤカワ文庫のおすすめ本を語る回",
@@ -33319,39 +35484,6 @@ const books = [
   {
   "title": "ハヤカワ文庫のおすすめ本を語る回",
   "url": "https://www.youtube.com/watch?v=p3tKXgRbRII"
-  }
-  ]
-  },
-  {
-  "title": "文字渦（新潮文庫）",
-  "views": 1,
-  "isbn": "B08SHNPPWH",
-  "data": [
-  {
-  "title": "【閲覧注意】3冊紹介  #小説 #本 #紹介 #shorts",
-  "url": "https://www.youtube.com/watch?v=xLZ9mvjd24Q"
-  }
-  ]
-  },
-  {
-  "title": "僕は美しいひとを食べた",
-  "views": 1,
-  "isbn": "B09XDW6BGL",
-  "data": [
-  {
-  "title": "【閲覧注意】3冊紹介  #小説 #本 #紹介 #shorts",
-  "url": "https://www.youtube.com/watch?v=xLZ9mvjd24Q"
-  }
-  ]
-  },
-  {
-  "title": "ゴーレム 100 (未来の文学)",
-  "views": 1,
-  "isbn": "9784336047373",
-  "data": [
-  {
-  "title": "【閲覧注意】3冊紹介  #小説 #本 #紹介 #shorts",
-  "url": "https://www.youtube.com/watch?v=xLZ9mvjd24Q"
   }
   ]
   },
@@ -33444,17 +35576,6 @@ const books = [
   ]
   },
   {
-  "title": "九マイルは遠すぎる (ハヤカワ・ミステリ文庫 19-2)",
-  "views": 1,
-  "isbn": "9784150711023",
-  "data": [
-  {
-  "title": "読書家の最近読んだ10冊【2023年9月】",
-  "url": "https://www.youtube.com/watch?v=L-H98oGaodQ"
-  }
-  ]
-  },
-  {
   "title": "叩く",
   "views": 1,
   "isbn": "B0C3QSJL5L",
@@ -33473,39 +35594,6 @@ const books = [
   {
   "title": "読書家の最近読んだ10冊【2023年9月】",
   "url": "https://www.youtube.com/watch?v=L-H98oGaodQ"
-  }
-  ]
-  },
-  {
-  "title": "重力ピエロ（新潮文庫）",
-  "views": 1,
-  "isbn": "B0096PE3MQ",
-  "data": [
-  {
-  "title": "書き出しが最高な小説3冊 #shorts",
-  "url": "https://www.youtube.com/watch?v=UoNGeuPBEcM"
-  }
-  ]
-  },
-  {
-  "title": "ミシン　missin’ (小学館文庫)",
-  "views": 1,
-  "isbn": "B00ETN5RQG",
-  "data": [
-  {
-  "title": "書き出しが最高な小説3冊 #shorts",
-  "url": "https://www.youtube.com/watch?v=UoNGeuPBEcM"
-  }
-  ]
-  },
-  {
-  "title": "私の消滅 (文春文庫)",
-  "views": 1,
-  "isbn": "9784167913083",
-  "data": [
-  {
-  "title": "書き出しが最高な小説3冊 #shorts",
-  "url": "https://www.youtube.com/watch?v=UoNGeuPBEcM"
   }
   ]
   },
@@ -33554,72 +35642,6 @@ const books = [
   ]
   },
   {
-  "title": "世界でいちばん透きとおった物語 (新潮文庫 す 31-2)",
-  "views": 1,
-  "isbn": "9784101802626",
-  "data": [
-  {
-  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
-  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
-  }
-  ]
-  },
-  {
-  "title": "わたしの結び目 (幻冬舎単行本)",
-  "views": 1,
-  "isbn": "B0BZRMTMWR",
-  "data": [
-  {
-  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
-  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
-  }
-  ]
-  },
-  {
-  "title": "アリアドネの声 (幻冬舎単行本)",
-  "views": 1,
-  "isbn": "B0C68Z595W",
-  "data": [
-  {
-  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
-  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
-  }
-  ]
-  },
-  {
-  "title": "ある愛の寓話 (文春e-book)",
-  "views": 1,
-  "isbn": "B0BQYBQWS5",
-  "data": [
-  {
-  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
-  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
-  }
-  ]
-  },
-  {
-  "title": "あわのまにまに【電子版特典付き】 (角川書店単行本)",
-  "views": 1,
-  "isbn": "B0BV5R182M",
-  "data": [
-  {
-  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
-  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
-  }
-  ]
-  },
-  {
-  "title": "ガーンズバック変換",
-  "views": 1,
-  "isbn": "B0BVQPM3Y7",
-  "data": [
-  {
-  "title": "【LIVE】第５回ほんタメ文学賞（2023年上半期）【大賞発表】",
-  "url": "https://www.youtube.com/watch?v=aJdCA9I8vIQ"
-  }
-  ]
-  },
-  {
   "title": "作者消失 (角川文庫)",
   "views": 1,
   "isbn": "B009TPQV5A",
@@ -33627,61 +35649,6 @@ const books = [
   {
   "title": "変わった刺激がほしいあなたへ【メタミステリ3選】",
   "url": "https://www.youtube.com/watch?v=XLMRgtSeNTY"
-  }
-  ]
-  },
-  {
-  "title": "ＮＯ推理、ＮＯ探偵？ (講談社ノベルス)",
-  "views": 1,
-  "isbn": "B0759JRC2P",
-  "data": [
-  {
-  "title": "変わった刺激がほしいあなたへ【メタミステリ3選】",
-  "url": "https://www.youtube.com/watch?v=XLMRgtSeNTY"
-  }
-  ]
-  },
-  {
-  "title": "4TEEN（新潮文庫）",
-  "views": 1,
-  "isbn": "B015VXQAWM",
-  "data": [
-  {
-  "title": "10代で読むべき小説3選",
-  "url": "https://www.youtube.com/watch?v=twuvHHSEFZI"
-  }
-  ]
-  },
-  {
-  "title": "荒野 (文春文庫)",
-  "views": 1,
-  "isbn": "B07171F259",
-  "data": [
-  {
-  "title": "10代で読むべき小説3選",
-  "url": "https://www.youtube.com/watch?v=twuvHHSEFZI"
-  }
-  ]
-  },
-  {
-  "title": "ぬいぐるみとしゃべる人はやさしい (河出文庫)",
-  "views": 1,
-  "isbn": "B0BR5F6MDH",
-  "data": [
-  {
-  "title": "10代で読むべき小説3選",
-  "url": "https://www.youtube.com/watch?v=twuvHHSEFZI"
-  }
-  ]
-  },
-  {
-  "title": "ワールドトリガー 1 (ジャンプコミックスDIGITAL)",
-  "views": 1,
-  "isbn": "B00FB9HF6M",
-  "data": [
-  {
-  "title": "最近読んだ漫画6冊紹介！【2023年8月】",
-  "url": "https://www.youtube.com/watch?v=Y_x9VRxsmiA"
   }
   ]
   },
@@ -33741,39 +35708,6 @@ const books = [
   ]
   },
   {
-  "title": "白い衝動 (講談社文庫)",
-  "views": 1,
-  "isbn": "B07VTNWSYH",
-  "data": [
-  {
-  "title": "書き出しが良すぎるミステリ3冊 #shorts",
-  "url": "https://www.youtube.com/watch?v=0v5mxvi8wso"
-  }
-  ]
-  },
-  {
-  "title": "キャットフード (講談社文庫)",
-  "views": 1,
-  "isbn": "B00FOKKRYA",
-  "data": [
-  {
-  "title": "書き出しが良すぎるミステリ3冊 #shorts",
-  "url": "https://www.youtube.com/watch?v=0v5mxvi8wso"
-  }
-  ]
-  },
-  {
-  "title": "虚無回廊",
-  "views": 1,
-  "isbn": "B01B1G8CKG",
-  "data": [
-  {
-  "title": "書き出しが良すぎるミステリ3冊 #shorts",
-  "url": "https://www.youtube.com/watch?v=0v5mxvi8wso"
-  }
-  ]
-  },
-  {
   "title": "檸檬",
   "views": 1,
   "isbn": "B009IXE1I2",
@@ -33805,7 +35739,4617 @@ const books = [
   "url": "https://www.youtube.com/watch?v=eAIX3yBQFT8"
   }
   ]
+  },
+  {
+  "title": "彼女が言わなかったすべてのこと",
+  "views": 1,
+  "isbn": "9784309031095",
+  "data": [
+  {
+  "title": "最近読んだ本を6冊紹介！【2023年8月】",
+  "url": "https://www.youtube.com/watch?v=eBigJqpDzvo"
   }
   ]
+  },
+  {
+  "title": "あてはめるだけで“すぐ”伝わる　説明組み立て図鑑",
+  "views": 1,
+  "isbn": "B09DL1SRWS",
+  "data": [
+  {
+  "title": "最近読んだ本を6冊紹介！【2023年8月】",
+  "url": "https://www.youtube.com/watch?v=eBigJqpDzvo"
+  }
+  ]
+  },
+  {
+  "title": "読破できない難解な本がわかる本",
+  "views": 1,
+  "isbn": "B07PGF6XBL",
+  "data": [
+  {
+  "title": "最近読んだ本を6冊紹介！【2023年8月】",
+  "url": "https://www.youtube.com/watch?v=eBigJqpDzvo"
+  }
+  ]
+  },
+  {
+  "title": "滅茶苦茶",
+  "views": 1,
+  "isbn": "B0C3Q5NXBB",
+  "data": [
+  {
+  "title": "好きなタイトルデザイン【フォント好き集まれ】",
+  "url": "https://www.youtube.com/watch?v=A_0-5LJIXtE"
+  }
+  ]
+  },
+  {
+  "title": "闇祓【電子特典付き】 (角川書店単行本)",
+  "views": 1,
+  "isbn": "B09JJ6X81M",
+  "data": [
+  {
+  "title": "好きなタイトルデザイン【フォント好き集まれ】",
+  "url": "https://www.youtube.com/watch?v=A_0-5LJIXtE"
+  }
+  ]
+  },
+  {
+  "title": "火蛾 (講談社文庫)",
+  "views": 1,
+  "isbn": "B0C3ZNF49Y",
+  "data": [
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  }
+  ]
+  },
+  {
+  "title": "○○○○○○○○殺人事件 (講談社文庫)",
+  "views": 1,
+  "isbn": "B071HB4TYQ",
+  "data": [
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  }
+  ]
+  },
+  {
+  "title": "人間に向いてない (講談社文庫)",
+  "views": 1,
+  "isbn": "B087QFLLTS",
+  "data": [
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  }
+  ]
+  },
+  {
+  "title": "法廷遊戯 (講談社文庫)",
+  "views": 1,
+  "isbn": "B0C1BQWT73",
+  "data": [
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  }
+  ]
+  },
+  {
+  "title": "スイッチ　悪意の実験 (講談社文庫)",
+  "views": 1,
+  "isbn": "B0BD49858C",
+  "data": [
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  }
+  ]
+  },
+  {
+  "title": "ゴリラ裁判の日",
+  "views": 1,
+  "isbn": "B0BXL19848",
+  "data": [
+  {
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  }
+  ]
+  },
+  {
+  "title": "52ヘルツのクジラたち【特典付き】 (中公文庫)",
+  "views": 1,
+  "isbn": "B0C4XK99M1",
+  "data": [
+  {
+  "title": "絶対に泣いてしまう本3選 #Shorts",
+  "url": "https://www.youtube.com/watch?v=fXL2XEJqKSo"
+  }
+  ]
+  },
+  {
+  "title": "くもをさがす",
+  "views": 1,
+  "isbn": "B0BYRQ6VYH",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "五色の舟",
+  "views": 1,
+  "isbn": "9784309030999",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "不能共【電子版特典付き】 (角川書店単行本)",
+  "views": 1,
+  "isbn": "B0C1YJ5K9V",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "BOOKSのんべえ　お酒で味わう日本文学32選 (文春e-book)",
+  "views": 1,
+  "isbn": "B0C13ZWDBR",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "赤泥棒",
+  "views": 1,
+  "isbn": "B0BYYZN785",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "アイリス",
+  "views": 1,
+  "isbn": "B0C1JC8WYZ",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "回樹",
+  "views": 1,
+  "isbn": "B0BYJ97QYB",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "赤い月の香り (集英社文芸単行本)",
+  "views": 1,
+  "isbn": "B0C1YW9CR6",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "異常【アノマリー】",
+  "views": 1,
+  "isbn": "B09R7FWYL5",
+  "data": [
+  {
+  "title": "齋藤明里が最近読んで面白かった本を紹介します【2023年7月】",
+  "url": "https://www.youtube.com/watch?v=q9HAf3uUWSI"
+  }
+  ]
+  },
+  {
+  "title": "お姫様と名建築",
+  "views": 1,
+  "isbn": "9784767828893",
+  "data": [
+  {
+  "title": "あかりんの最近読んだ本【総集編】",
+  "url": "https://www.youtube.com/watch?v=gN0maAYu_Sc"
+  }
+  ]
+  },
+  {
+  "title": "毒入りチョコレート事件 (創元推理文庫)",
+  "views": 1,
+  "isbn": "B007TAKIP6",
+  "data": [
+  {
+  "title": "海外ミステリのおすすめ3選！",
+  "url": "https://www.youtube.com/watch?v=JB-scTOoE44"
+  }
+  ]
+  },
+  {
+  "title": "噂（新潮文庫）",
+  "views": 1,
+  "isbn": "B01N28Z9K9",
+  "data": [
+  {
+  "title": "思わず再読したミステリ3選【理由付き】",
+  "url": "https://www.youtube.com/watch?v=tUxG-d8L8i0"
+  }
+  ]
+  },
+  {
+  "title": "倒錯のロンド　完成版 (講談社文庫)",
+  "views": 1,
+  "isbn": "B08R9XMWNZ",
+  "data": [
+  {
+  "title": "思わず再読したミステリ3選【理由付き】",
+  "url": "https://www.youtube.com/watch?v=tUxG-d8L8i0"
+  }
+  ]
+  },
+  {
+  "title": "花に埋もれる",
+  "views": 1,
+  "isbn": "B0BTCWV7SY",
+  "data": [
+  {
+  "title": "【全6冊】本好きってどんな本読んでるの？【2023年6月】",
+  "url": "https://www.youtube.com/watch?v=4OvPphJwOzg"
+  }
+  ]
+  },
+  {
+  "title": "成瀬は天下を取りにいく",
+  "views": 1,
+  "isbn": "B0BTCW4JK5",
+  "data": [
+  {
+  "title": "【全6冊】本好きってどんな本読んでるの？【2023年6月】",
+  "url": "https://www.youtube.com/watch?v=4OvPphJwOzg"
+  }
+  ]
+  },
+  {
+  "title": "想いが幕を下ろすまで 胡桃沢狐珀の浄演 (集英社文庫)",
+  "views": 1,
+  "isbn": "9784087445190",
+  "data": [
+  {
+  "title": "【全6冊】本好きってどんな本読んでるの？【2023年6月】",
+  "url": "https://www.youtube.com/watch?v=4OvPphJwOzg"
+  }
+  ]
+  },
+  {
+  "title": "東大に名探偵はいない (角川書店単行本)",
+  "views": 1,
+  "isbn": "B0BS8KD8PM",
+  "data": [
+  {
+  "title": "【全6冊】本好きってどんな本読んでるの？【2023年6月】",
+  "url": "https://www.youtube.com/watch?v=4OvPphJwOzg"
+  }
+  ]
+  },
+  {
+  "title": "これ描いて死ね（１） (ゲッサン少年サンデーコミックス)",
+  "views": 1,
+  "isbn": "B09YH8ZX5T",
+  "data": [
+  {
+  "title": "この漫画、面白いよ！【3選】【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=mB9Xbrl8rlU"
+  }
+  ]
+  },
+  {
+  "title": "おちたらおわり（１） (BE・LOVEコミックス)",
+  "views": 1,
+  "isbn": "B07YKKVFJJ",
+  "data": [
+  {
+  "title": "この漫画、面白いよ！【3選】【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=mB9Xbrl8rlU"
+  }
+  ]
+  },
+  {
+  "title": "さよなら絵梨 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B0B28R6L5Y",
+  "data": [
+  {
+  "title": "この漫画、面白いよ！【3選】【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=mB9Xbrl8rlU"
+  }
+  ]
+  },
+  {
+  "title": "なれの果ての僕ら（１） (週刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B086V23ZZT",
+  "data": [
+  {
+  "title": "この漫画、面白いよ！【3選】【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=mB9Xbrl8rlU"
+  }
+  ]
+  },
+  {
+  "title": "ドグラ・マグラ(上) (角川文庫 緑 366-3)",
+  "views": 1,
+  "isbn": "9784041366035",
+  "data": [
+  {
+  "title": "読むときは気を付けて #shorts",
+  "url": "https://www.youtube.com/watch?v=LbmOr3ryrFw"
+  }
+  ]
+  },
+  {
+  "title": "ドグラ・マグラ(下) (角川文庫 緑 366-4)",
+  "views": 1,
+  "isbn": "9784041366042",
+  "data": [
+  {
+  "title": "読むときは気を付けて #shorts",
+  "url": "https://www.youtube.com/watch?v=LbmOr3ryrFw"
+  }
+  ]
+  },
+  {
+  "title": "黒死館殺人事件 (河出文庫)",
+  "views": 1,
+  "isbn": "9784309409054",
+  "data": [
+  {
+  "title": "読むときは気を付けて #shorts",
+  "url": "https://www.youtube.com/watch?v=LbmOr3ryrFw"
+  }
+  ]
+  },
+  {
+  "title": "新装版　虚無への供物（上） (講談社文庫)",
+  "views": 1,
+  "isbn": "B00B1N5BNQ",
+  "data": [
+  {
+  "title": "読むときは気を付けて #shorts",
+  "url": "https://www.youtube.com/watch?v=LbmOr3ryrFw"
+  }
+  ]
+  },
+  {
+  "title": "新装版　虚無への供物（下） (講談社文庫)",
+  "views": 1,
+  "isbn": "B00B1N5BOU",
+  "data": [
+  {
+  "title": "読むときは気を付けて #shorts",
+  "url": "https://www.youtube.com/watch?v=LbmOr3ryrFw"
+  }
+  ]
+  },
+  {
+  "title": "優等生は探偵に向かない 自由研究には向かない殺人 (創元推理文庫)",
+  "views": 1,
+  "isbn": "B0B3MKLL4W",
+  "data": [
+  {
+  "title": "タイトル買いして良かった本6選【ジャンルレス】",
+  "url": "https://www.youtube.com/watch?v=XKag1dk_Gto"
+  }
+  ]
+  },
+  {
+  "title": "「おいしさ」の錯覚　最新科学でわかった、美味の真実 (角川書店単行本)",
+  "views": 1,
+  "isbn": "B079Z32F3P",
+  "data": [
+  {
+  "title": "タイトル買いして良かった本6選【ジャンルレス】",
+  "url": "https://www.youtube.com/watch?v=XKag1dk_Gto"
+  }
+  ]
+  },
+  {
+  "title": "kaze no tanbun 移動図書館の子供たち",
+  "views": 1,
+  "isbn": "9784760152827",
+  "data": [
+  {
+  "title": "タイトル買いして良かった本6選【ジャンルレス】",
+  "url": "https://www.youtube.com/watch?v=XKag1dk_Gto"
+  }
+  ]
+  },
+  {
+  "title": "お嬢さまことば速修講座 改訂版",
+  "views": 1,
+  "isbn": "B096Y16DSR",
+  "data": [
+  {
+  "title": "タイトル買いして良かった本6選【ジャンルレス】",
+  "url": "https://www.youtube.com/watch?v=XKag1dk_Gto"
+  }
+  ]
+  },
+  {
+  "title": "死神の棋譜（新潮文庫）",
+  "views": 1,
+  "isbn": "B0BT4W7MRV",
+  "data": [
+  {
+  "title": "ミステリ×〇〇【3選】",
+  "url": "https://www.youtube.com/watch?v=1c2loxb5Atw"
+  }
+  ]
+  },
+  {
+  "title": "リアル脱出ゲームノベル Four Eyes～姿なき暗殺者からの脱出～",
+  "views": 1,
+  "isbn": "B09K72VKYT",
+  "data": [
+  {
+  "title": "ミステリ×〇〇【3選】",
+  "url": "https://www.youtube.com/watch?v=1c2loxb5Atw"
+  }
+  ]
+  },
+  {
+  "title": "流浪の月 (創元文芸文庫)",
+  "views": 1,
+  "isbn": "B09NJMCW3R",
+  "data": [
+  {
+  "title": "【小説紹介】つい止めたくなってしまう恋愛ってあるよね",
+  "url": "https://www.youtube.com/watch?v=BJ4rTwwqGw8"
+  }
+  ]
+  },
+  {
+  "title": "痴人の愛",
+  "views": 1,
+  "isbn": "B075F1Y9L1",
+  "data": [
+  {
+  "title": "【小説紹介】つい止めたくなってしまう恋愛ってあるよね",
+  "url": "https://www.youtube.com/watch?v=BJ4rTwwqGw8"
+  }
+  ]
+  },
+  {
+  "title": "タローマン・クロニクル",
+  "views": 1,
+  "isbn": "B0C1KQPM5P",
+  "data": [
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  }
+  ]
+  },
+  {
+  "title": "ラーメンカレー (文春e-book)",
+  "views": 1,
+  "isbn": "B0BTHDKQCX",
+  "data": [
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  }
+  ]
+  },
+  {
+  "title": "スイミングスクール",
+  "views": 1,
+  "isbn": "B073CR8KL1",
+  "data": [
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  }
+  ]
+  },
+  {
+  "title": "黒猫を飼い始めた",
+  "views": 1,
+  "isbn": "B0BVM1YKXV",
+  "data": [
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  }
+  ]
+  },
+  {
+  "title": "きみは赤ちゃん (文春文庫)",
+  "views": 1,
+  "isbn": "B0711QCYWN",
+  "data": [
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  }
+  ]
+  },
+  {
+  "title": "からだの美 (文春e-book)",
+  "views": 1,
+  "isbn": "B0BWY42WTW",
+  "data": [
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  }
+  ]
+  },
+  {
+  "title": "きれいな言葉より素直な叫び",
+  "views": 1,
+  "isbn": "B0BS674RMX",
+  "data": [
+  {
+  "title": "最近読んだ10冊の本について語ります【2023年5月】",
+  "url": "https://www.youtube.com/watch?v=DblT6-jo6Bg"
+  }
+  ]
+  },
+  {
+  "title": "夜明け前のセレスティーノ",
+  "views": 1,
+  "isbn": "9784336074683",
+  "data": [
+  {
+  "title": "営業終了間際の本屋を歩く【八重洲ブックセンター本店】",
+  "url": "https://www.youtube.com/watch?v=YNdJRoIdAbk"
+  }
+  ]
+  },
+  {
+  "title": "放課後ひみつクラブ 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B0BNL3TT4M",
+  "data": [
+  {
+  "title": "最近読んだ漫画はこれだ！【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=br9Kg6n43so"
+  }
+  ]
+  },
+  {
+  "title": "あかね噺 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B09YTXVKY2",
+  "data": [
+  {
+  "title": "最近読んだ漫画はこれだ！【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=br9Kg6n43so"
+  }
+  ]
+  },
+  {
+  "title": "ねじまきカギュー 1 (ヤングジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B00JUH8N94",
+  "data": [
+  {
+  "title": "最近読んだ漫画はこれだ！【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=br9Kg6n43so"
+  }
+  ]
+  },
+  {
+  "title": "一ノ瀬家の大罪 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B0BT4PD1R7",
+  "data": [
+  {
+  "title": "最近読んだ漫画はこれだ！【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=br9Kg6n43so"
+  }
+  ]
+  },
+  {
+  "title": "ハイパーインフレーション 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B08XLZH21J",
+  "data": [
+  {
+  "title": "最近読んだ漫画はこれだ！【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=br9Kg6n43so"
+  }
+  ]
+  },
+  {
+  "title": "ストップ!!ひばりくん！コンプリート・エディション　第1巻",
+  "views": 1,
+  "isbn": "B01ID14CC4",
+  "data": [
+  {
+  "title": "最近読んだ漫画はこれだ！【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=br9Kg6n43so"
+  }
+  ]
+  },
+  {
+  "title": "私雨邸の殺人に関する各人の視点",
+  "views": 1,
+  "isbn": "9784575246230",
+  "data": [
+  {
+  "title": "なぜ犬ではダメだったのか？著者自身がズバズバ回答します【カラスは言った】",
+  "url": "https://www.youtube.com/watch?v=GA63HfyO8p0"
+  }
+  ]
+  },
+  {
+  "title": "深海生物大事典",
+  "views": 1,
+  "isbn": "9784415318738",
+  "data": [
+  {
+  "title": "【全6作品】読書好きの終着点が見えてしまいました【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=xuTezMhlTsA"
+  }
+  ]
+  },
+  {
+  "title": "世界史を大きく動かした植物",
+  "views": 1,
+  "isbn": "B07H82NW2F",
+  "data": [
+  {
+  "title": "【全6作品】読書好きの終着点が見えてしまいました【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=xuTezMhlTsA"
+  }
+  ]
+  },
+  {
+  "title": "何食わぬきみたちへ",
+  "views": 1,
+  "isbn": "B0BSLDFL9H",
+  "data": [
+  {
+  "title": "【全6作品】読書好きの終着点が見えてしまいました【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=xuTezMhlTsA"
+  }
+  ]
+  },
+  {
+  "title": "数学の女王",
+  "views": 1,
+  "isbn": "B0BS6813RY",
+  "data": [
+  {
+  "title": "【全6作品】読書好きの終着点が見えてしまいました【2023年4月】",
+  "url": "https://www.youtube.com/watch?v=xuTezMhlTsA"
+  }
+  ]
+  },
+  {
+  "title": "まだ出会っていないあなたへ",
+  "views": 1,
+  "isbn": "B0BSTRYY3V",
+  "data": [
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "Newton 2023年3月号",
+  "views": 1,
+  "isbn": "B0BSN2R2ZL",
+  "data": [
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "最後のページをめくるまで (双葉文庫)",
+  "views": 1,
+  "isbn": "B0B2NNJ2K3",
+  "data": [
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "ビジュアルでわかる　江戸・東京の地理と歴史",
+  "views": 1,
+  "isbn": "9784534059611",
+  "data": [
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "シンジケート［新装版］",
+  "views": 1,
+  "isbn": "B093H153LK",
+  "data": [
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "ＴＲＹ48",
+  "views": 1,
+  "isbn": "B0BNPVGWPD",
+  "data": [
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "田辺聖子のエッセイ　女のイイ顔",
+  "views": 1,
+  "isbn": "B0BT6X3TN4",
+  "data": [
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "おとぎのかけら　新釈西洋童話集 (集英社文庫)",
+  "views": 1,
+  "isbn": "B00J7KK7V6",
+  "data": [
+  {
+  "title": "本好きが「15分で5冊を好きに選んでください」と言われたらどうなる？",
+  "url": "https://www.youtube.com/watch?v=sBqqyQZDL7U"
+  }
+  ]
+  },
+  {
+  "title": "ジェリーフィッシュは凍らない 〈マリア＆漣〉シリーズ (創元推理文庫)",
+  "views": 1,
+  "isbn": "B07R53N9JH",
+  "data": [
+  {
+  "title": "閉鎖空間で起こるミステリ3選【絶望】",
+  "url": "https://www.youtube.com/watch?v=BmBRD2J_SyI"
+  }
+  ]
+  },
+  {
+  "title": "そして扉が閉ざされた　　新装版 (講談社文庫)",
+  "views": 1,
+  "isbn": "B08W54FSN6",
+  "data": [
+  {
+  "title": "閉鎖空間で起こるミステリ3選【絶望】",
+  "url": "https://www.youtube.com/watch?v=BmBRD2J_SyI"
+  }
+  ]
+  },
+  {
+  "title": "ナゾノベル　数は無限の名探偵",
+  "views": 1,
+  "isbn": "B0BSWDMXS1",
+  "data": [
+  {
+  "title": "【LIVE】㊗️ほんタメ２周年記念",
+  "url": "https://www.youtube.com/watch?v=HnkA4OtOYa8"
+  }
+  ]
+  },
+  {
+  "title": "文庫版　書楼弔堂　破曉 (集英社文庫)",
+  "views": 1,
+  "isbn": "B01NCJRFL5",
+  "data": [
+  {
+  "title": "【LIVE】㊗️ほんタメ２周年記念",
+  "url": "https://www.youtube.com/watch?v=HnkA4OtOYa8"
+  }
+  ]
+  },
+  {
+  "title": "アヒル命名会議",
+  "views": 1,
+  "isbn": "B08W52BCRD",
+  "data": [
+  {
+  "title": "タイトルが良すぎる小説6選",
+  "url": "https://www.youtube.com/watch?v=mq_r6LU-iJM"
+  }
+  ]
+  },
+  {
+  "title": "きみがいた世界は完璧でした、が (角川書店単行本)",
+  "views": 1,
+  "isbn": "B08Y1366F6",
+  "data": [
+  {
+  "title": "タイトルが良すぎる小説6選",
+  "url": "https://www.youtube.com/watch?v=mq_r6LU-iJM"
+  }
+  ]
+  },
+  {
+  "title": "名探偵のままでいて",
+  "views": 1,
+  "isbn": "B0BKSX1V96",
+  "data": [
+  {
+  "title": "タイトルが良すぎる小説6選",
+  "url": "https://www.youtube.com/watch?v=mq_r6LU-iJM"
+  }
+  ]
+  },
+  {
+  "title": "最初に探偵が死んだ (実業之日本社文庫)",
+  "views": 1,
+  "isbn": "B009RCKPMK",
+  "data": [
+  {
+  "title": "タイトルが良すぎる小説6選",
+  "url": "https://www.youtube.com/watch?v=mq_r6LU-iJM"
+  }
+  ]
+  },
+  {
+  "title": "真夏の方程式",
+  "views": 1,
+  "isbn": "9784163805801",
+  "data": [
+  {
+  "title": "○○方程式というタイトルのミステリを紹介します",
+  "url": "https://www.youtube.com/watch?v=oCBG8fqbREQ"
+  }
+  ]
+  },
+  {
+  "title": "殺人方程式　切断された死体の問題 (講談社文庫)",
+  "views": 1,
+  "isbn": "B08PV82LCN",
+  "data": [
+  {
+  "title": "○○方程式というタイトルのミステリを紹介します",
+  "url": "https://www.youtube.com/watch?v=oCBG8fqbREQ"
+  }
+  ]
+  },
+  {
+  "title": "フラッガーの方程式【電子特典付き】 (角川文庫)",
+  "views": 1,
+  "isbn": "B0923HLRYN",
+  "data": [
+  {
+  "title": "○○方程式というタイトルのミステリを紹介します",
+  "url": "https://www.youtube.com/watch?v=oCBG8fqbREQ"
+  }
+  ]
+  },
+  {
+  "title": "君の地球が平らになりますように (ジャンプジェイブックスDIGITAL)",
+  "views": 1,
+  "isbn": "B0BNHT378M",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "１Ｑ８４（ＢＯＯＫ１～３）合本版（新潮文庫）",
+  "views": 1,
+  "isbn": "B08N5W8BK1",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "スピン／ｓｐｉｎ　第２号",
+  "views": 1,
+  "isbn": "B0BMKBLB2M",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "文藝 2023年春季号",
+  "views": 1,
+  "isbn": "B0BRSQNCRZ",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "レプリカだって、恋をする。 (電撃文庫)",
+  "views": 1,
+  "isbn": "B0BT6SZ8Z1",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "詩歌探偵フラヌール",
+  "views": 1,
+  "isbn": "9784309030876",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "こりずに　わるい食べもの (ホーム社)",
+  "views": 1,
+  "isbn": "B0BN446DKW",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "悪と無垢 (角川書店単行本)",
+  "views": 1,
+  "isbn": "B0BJ6J3G9S",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "アクティング・クラス",
+  "views": 1,
+  "isbn": "B0BNKVYBZQ",
+  "data": [
+  {
+  "title": "日常を読書に支配された人の最近読んだ本【12冊】【2023年3月】",
+  "url": "https://www.youtube.com/watch?v=z0wViaxzIw4"
+  }
+  ]
+  },
+  {
+  "title": "深海――極限の世界　生命と地球の謎に迫る (ブルーバックス)",
+  "views": 1,
+  "isbn": "B07RLY97FS",
+  "data": [
+  {
+  "title": "あなたを科学の世界に連れて行ってくれる本を紹介します",
+  "url": "https://www.youtube.com/watch?v=LTXMOvVHKps"
+  }
+  ]
+  },
+  {
+  "title": "川はどうしてできるのか　地形のミステリーツアーへようこそ 藤岡換太郎〈地球の謎解き〉シリーズ (ブルーバックス)",
+  "views": 1,
+  "isbn": "B00POVFU0A",
+  "data": [
+  {
+  "title": "あなたを科学の世界に連れて行ってくれる本を紹介します",
+  "url": "https://www.youtube.com/watch?v=LTXMOvVHKps"
+  }
+  ]
+  },
+  {
+  "title": "宇宙の始まりに何が起きたのか　ビッグバンの残光「宇宙マイクロ波背景放射」 (ブルーバックス)",
+  "views": 1,
+  "isbn": "B089VSJNHK",
+  "data": [
+  {
+  "title": "あなたを科学の世界に連れて行ってくれる本を紹介します",
+  "url": "https://www.youtube.com/watch?v=LTXMOvVHKps"
+  }
+  ]
+  },
+  {
+  "title": "熱源 (文春文庫)",
+  "views": 1,
+  "isbn": "B0B58G2DKM",
+  "data": [
+  {
+  "title": "徹夜で読みたい小説3選【閲覧注意!?】",
+  "url": "https://www.youtube.com/watch?v=Guh7in9sVbM"
+  }
+  ]
+  },
+  {
+  "title": "逃亡者",
+  "views": 1,
+  "isbn": "9784344035935",
+  "data": [
+  {
+  "title": "徹夜で読みたい小説3選【閲覧注意!?】",
+  "url": "https://www.youtube.com/watch?v=Guh7in9sVbM"
+  }
+  ]
+  },
+  {
+  "title": "じんかん",
+  "views": 1,
+  "isbn": "B088R8V7DF",
+  "data": [
+  {
+  "title": "徹夜で読みたい小説3選【閲覧注意!?】",
+  "url": "https://www.youtube.com/watch?v=Guh7in9sVbM"
+  }
+  ]
+  },
+  {
+  "title": "君が何度死んでも (アルファポリス文庫)",
+  "views": 1,
+  "isbn": "9784434241253",
+  "data": [
+  {
+  "title": "時間が戻るミステリは面白い【3選】",
+  "url": "https://www.youtube.com/watch?v=xchGSK5U_3w"
+  }
+  ]
+  },
+  {
+  "title": "象られた力",
+  "views": 1,
+  "isbn": "B00GJMUTCC",
+  "data": [
+  {
+  "title": "あらすじを聞くだけでワクワクしちゃいます【短編SF3選】",
+  "url": "https://www.youtube.com/watch?v=mfl37BHw3UM"
+  }
+  ]
+  },
+  {
+  "title": "ラインマーカーズ　～The Best of Homura Hiroshi～ (小学館文庫)",
+  "views": 1,
+  "isbn": "B0BKT7KZC6",
+  "data": [
+  {
+  "title": "【全6作品】本を超えた何か(!)も紹介します【2023年2月】",
+  "url": "https://www.youtube.com/watch?v=F3HagR6ldNk"
+  }
+  ]
+  },
+  {
+  "title": "物語のカギ",
+  "views": 1,
+  "isbn": "B0B6FNT8KH",
+  "data": [
+  {
+  "title": "【全6作品】本を超えた何か(!)も紹介します【2023年2月】",
+  "url": "https://www.youtube.com/watch?v=F3HagR6ldNk"
+  }
+  ]
+  },
+  {
+  "title": "これはちゃうか",
+  "views": 1,
+  "isbn": "B0BMV99BYM",
+  "data": [
+  {
+  "title": "【全6作品】本を超えた何か(!)も紹介します【2023年2月】",
+  "url": "https://www.youtube.com/watch?v=F3HagR6ldNk"
+  }
+  ]
+  },
+  {
+  "title": "DETECTIVE X CASE FILE #1 御仏の殺人 ([バラエティ])",
+  "views": 1,
+  "isbn": "9784909474650",
+  "data": [
+  {
+  "title": "【全6作品】本を超えた何か(!)も紹介します【2023年2月】",
+  "url": "https://www.youtube.com/watch?v=F3HagR6ldNk"
+  }
+  ]
+  },
+  {
+  "title": "九条の大罪（１） (ビッグコミックス)",
+  "views": 1,
+  "isbn": "B08WCKTF6W",
+  "data": [
+  {
+  "title": "最近読んだおすすめの漫画を紹介します【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=Tf_1Cw10tIc"
+  }
+  ]
+  },
+  {
+  "title": "自転車屋さんの高橋くん 【電子限定特典付】 (1) (トーチコミックス)",
+  "views": 1,
+  "isbn": "B082F9NWBT",
+  "data": [
+  {
+  "title": "最近読んだおすすめの漫画を紹介します【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=Tf_1Cw10tIc"
+  }
+  ]
+  },
+  {
+  "title": "私と脱出しませんか？（１） (サンデーうぇぶりコミックス)",
+  "views": 1,
+  "isbn": "B0B7QYZSLL",
+  "data": [
+  {
+  "title": "最近読んだおすすめの漫画を紹介します【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=Tf_1Cw10tIc"
+  }
+  ]
+  },
+  {
+  "title": "サマータイムレンダ 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B078B42JZC",
+  "data": [
+  {
+  "title": "最近読んだおすすめの漫画を紹介します【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=Tf_1Cw10tIc"
+  }
+  ]
+  },
+  {
+  "title": "フェルマーの料理（１）　【『アオアシ』コラボイラスト特典付き】 (月刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B07T5B3S5Z",
+  "data": [
+  {
+  "title": "最近読んだおすすめの漫画を紹介します【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=Tf_1Cw10tIc"
+  }
+  ]
+  },
+  {
+  "title": "和菓子のアン (光文社文庫)",
+  "views": 1,
+  "isbn": "B00AO36RYG",
+  "data": [
+  {
+  "title": "あなたの周りも謎だらけ？【日常の謎ミステリ3選】",
+  "url": "https://www.youtube.com/watch?v=bfQW8RfqtY4"
+  }
+  ]
+  },
+  {
+  "title": "ビブリア古書堂の事件手帖 ～栞子さんと奇妙な客人たち～ (メディアワークス文庫)",
+  "views": 1,
+  "isbn": "B00BB9F0SG",
+  "data": [
+  {
+  "title": "あなたの周りも謎だらけ？【日常の謎ミステリ3選】",
+  "url": "https://www.youtube.com/watch?v=bfQW8RfqtY4"
+  }
+  ]
+  },
+  {
+  "title": "少年名探偵　虹北恭助の冒険 (講談社ノベルス)",
+  "views": 1,
+  "isbn": "B00ESAHKHY",
+  "data": [
+  {
+  "title": "あなたの周りも謎だらけ？【日常の謎ミステリ3選】",
+  "url": "https://www.youtube.com/watch?v=bfQW8RfqtY4"
+  }
+  ]
+  },
+  {
+  "title": "幻告",
+  "views": 1,
+  "isbn": "B0B5X65CHC",
+  "data": [
+  {
+  "title": "こんな状況でミステリ！？特殊設定ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=rMss6KjVMNU"
+  }
+  ]
+  },
+  {
+  "title": "透明人間は密室に潜む (光文社文庫)",
+  "views": 1,
+  "isbn": "B0BCF4DWFK",
+  "data": [
+  {
+  "title": "こんな状況でミステリ！？特殊設定ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=rMss6KjVMNU"
+  }
+  ]
+  },
+  {
+  "title": "Ultimate Edition",
+  "views": 1,
+  "isbn": "B0BJZW1VLR",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "Ａｎｋ　：　ａ　ｍｉｒｒｏｒｉｎｇ　ａｐｅ (講談社文庫)",
+  "views": 1,
+  "isbn": "B07XCKP8N9",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "すみれ屋敷の罪人 (宝島社文庫)",
+  "views": 1,
+  "isbn": "B082X5FCDR",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "おやつが好き　お土産つき (文春文庫)",
+  "views": 1,
+  "isbn": "B09NX91XG2",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "文藝 2022年冬季号",
+  "views": 1,
+  "isbn": "B0BGPJ1PQM",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "ビューティフルからビューティフルへ",
+  "views": 1,
+  "isbn": "B0BMFZRL8V",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "ジャクソンひとり",
+  "views": 1,
+  "isbn": "B0BM3FVHV3",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "選んだ孤独はよい孤独 (河出文庫)",
+  "views": 1,
+  "isbn": "B09RQQHFJG",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "ｉｆの世界線　　改変歴史ＳＦアンソロジー (講談社タイガ)",
+  "views": 1,
+  "isbn": "B0BH3ZMXMR",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "しろがねの葉",
+  "views": 1,
+  "isbn": "B0B8RFGZY1",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "阪急電車",
+  "views": 1,
+  "isbn": "9784344014503",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "騎士団長殺し―第１部　顕れるイデア編（上）―（新潮文庫）",
+  "views": 1,
+  "isbn": "B08N5QX9TS",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "騎士団長殺し―第１部　顕れるイデア編（下）―（新潮文庫）",
+  "views": 1,
+  "isbn": "B08N5T33GT",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "騎士団長殺し―第２部　遷ろうメタファー編（上）―（新潮文庫）",
+  "views": 1,
+  "isbn": "B08N5SLJZF",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "騎士団長殺し―第２部　遷ろうメタファー編（下）―（新潮文庫）",
+  "views": 1,
+  "isbn": "B08N5T1LS1",
+  "data": [
+  {
+  "title": "この人、またメチャクチャ読んでます！【2023年1月】",
+  "url": "https://www.youtube.com/watch?v=3JRIadRSb40"
+  }
+  ]
+  },
+  {
+  "title": "独創短編シリーズ　野崎まど劇場【電子特別版】 (電撃文庫)",
+  "views": 1,
+  "isbn": "B00YRDQTT2",
+  "data": [
+  {
+  "title": "小説から摂取できる笑いがあります",
+  "url": "https://www.youtube.com/watch?v=7SuS-fk2u0M"
+  }
+  ]
+  },
+  {
+  "title": "地理×文化×雑学で今が見える『世界の国々』 (だからわかるシリーズ)",
+  "views": 1,
+  "isbn": "9784023332959",
+  "data": [
+  {
+  "title": "山本祥彰の人生を変えた本3選【QK×ほんタメ】",
+  "url": "https://www.youtube.com/watch?v=kQmL-vJZv2Y"
+  }
+  ]
+  },
+  {
+  "title": "片喰と黄金（１） (コミックＤＡＹＳコミックス)",
+  "views": 1,
+  "isbn": "B09WGWF9S7",
+  "data": [
+  {
+  "title": "この漫画がいま(個人的に)アツい！！【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=CpVSLiNGQvk"
+  }
+  ]
+  },
+  {
+  "title": "きみは謎解きのマシェリ ： 1 (アクションコミックス)",
+  "views": 1,
+  "isbn": "B09CKC4F33",
+  "data": [
+  {
+  "title": "この漫画がいま(個人的に)アツい！！【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=CpVSLiNGQvk"
+  }
+  ]
+  },
+  {
+  "title": "2.5次元の誘惑 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B07X2G67B4",
+  "data": [
+  {
+  "title": "この漫画がいま(個人的に)アツい！！【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=CpVSLiNGQvk"
+  }
+  ]
+  },
+  {
+  "title": "左ききのエレン 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B076HN94KS",
+  "data": [
+  {
+  "title": "この漫画がいま(個人的に)アツい！！【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=CpVSLiNGQvk"
+  }
+  ]
+  },
+  {
+  "title": "ショーハショーテン！ 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B09MRZSFCV",
+  "data": [
+  {
+  "title": "この漫画がいま(個人的に)アツい！！【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=CpVSLiNGQvk"
+  }
+  ]
+  },
+  {
+  "title": "ダーウィン事変（１） (アフタヌーンコミックス)",
+  "views": 1,
+  "isbn": "B08N68FBQB",
+  "data": [
+  {
+  "title": "この漫画がいま(個人的に)アツい！！【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=CpVSLiNGQvk"
+  }
+  ]
+  },
+  {
+  "title": "キミには無理かも!?東大クイズ研 異次元クイズ",
+  "views": 1,
+  "isbn": "9784781701998",
+  "data": [
+  {
+  "title": "河村拓哉の人生を変えた本3選【QK×ほんタメ】",
+  "url": "https://www.youtube.com/watch?v=mFZJexj6MPA"
+  }
+  ]
+  },
+  {
+  "title": "崩れゆく絆 (光文社古典新訳文庫)",
+  "views": 1,
+  "isbn": "B00ZWIDYSA",
+  "data": [
+  {
+  "title": "河村拓哉の人生を変えた本3選【QK×ほんタメ】",
+  "url": "https://www.youtube.com/watch?v=mFZJexj6MPA"
+  }
+  ]
+  },
+  {
+  "title": "スピン／ｓｐｉｎ　第１号",
+  "views": 1,
+  "isbn": "B0B9N5L464",
+  "data": [
+  {
+  "title": "【全6冊】本屋で何を買うか悩んでいるあなたへ【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=pMwKz8feksc"
+  }
+  ]
+  },
+  {
+  "title": "ミュージアムグッズのチカラ",
+  "views": 1,
+  "isbn": "9784336071071",
+  "data": [
+  {
+  "title": "【全6冊】本屋で何を買うか悩んでいるあなたへ【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=pMwKz8feksc"
+  }
+  ]
+  },
+  {
+  "title": "君と紡ぐソネット　～黄昏の数学少女～　【電子特典付き】 (講談社ラノベ文庫)",
+  "views": 1,
+  "isbn": "B0BFW72Z45",
+  "data": [
+  {
+  "title": "【全6冊】本屋で何を買うか悩んでいるあなたへ【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=pMwKz8feksc"
+  }
+  ]
+  },
+  {
+  "title": "因果推論の科学　「なぜ？」の問いにどう答えるか (文春e-book)",
+  "views": 1,
+  "isbn": "B0BDDNQLJB",
+  "data": [
+  {
+  "title": "【全6冊】本屋で何を買うか悩んでいるあなたへ【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=pMwKz8feksc"
+  }
+  ]
+  },
+  {
+  "title": "あさとほ (角川書店単行本)",
+  "views": 1,
+  "isbn": "B0B4BWY3BN",
+  "data": [
+  {
+  "title": "書き出しの名文を紹介します【6選】",
+  "url": "https://www.youtube.com/watch?v=S1IKAvZvnjA"
+  }
+  ]
+  },
+  {
+  "title": "いわゆる天使の文化祭 市立高校シリーズ (創元推理文庫)",
+  "views": 1,
+  "isbn": "B00FKW2I0I",
+  "data": [
+  {
+  "title": "書き出しの名文を紹介します【6選】",
+  "url": "https://www.youtube.com/watch?v=S1IKAvZvnjA"
+  }
+  ]
+  },
+  {
+  "title": "13階段 (講談社文庫)",
+  "views": 1,
+  "isbn": "9784062748384",
+  "data": [
+  {
+  "title": "書き出しの名文を紹介します【6選】",
+  "url": "https://www.youtube.com/watch?v=S1IKAvZvnjA"
+  }
+  ]
+  },
+  {
+  "title": "植物図鑑 (幻冬舎文庫)",
+  "views": 1,
+  "isbn": "9784344419681",
+  "data": [
+  {
+  "title": "読書で得られるキュンがあります",
+  "url": "https://www.youtube.com/watch?v=RDrqug8cF2o"
+  }
+  ]
+  },
+  {
+  "title": "十四歳の遠距離恋愛 (集英社文庫)",
+  "views": 1,
+  "isbn": "B00J7KK7LQ",
+  "data": [
+  {
+  "title": "読書で得られるキュンがあります",
+  "url": "https://www.youtube.com/watch?v=RDrqug8cF2o"
+  }
+  ]
+  },
+  {
+  "title": "まず牛を球とします。",
+  "views": 1,
+  "isbn": "B0B9MYM5Z3",
+  "data": [
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
+  "title": "アナベル・リイ (角川書店単行本)",
+  "views": 1,
+  "isbn": "B0B6GZFX8P",
+  "data": [
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
+  "title": "長野まゆみの偏愛耽美作品集 (中公文庫 な 77-1)",
+  "views": 1,
+  "isbn": "9784122071827",
+  "data": [
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
+  "title": "掬えば手には",
+  "views": 1,
+  "isbn": "B0B56J6NHV",
+  "data": [
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
+  "title": "天才による凡人のための短歌教室",
+  "views": 1,
+  "isbn": "B08R9K629Z",
+  "data": [
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
+  "title": "変愛小説集　日本作家編 (講談社文庫)",
+  "views": 1,
+  "isbn": "B07CPWD3FL",
+  "data": [
+  {
+  "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
+  "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
+  "title": "すごい毒の生きもの図鑑　わけあって、毒ありです。",
+  "views": 1,
+  "isbn": "B0B5VTG84X",
+  "data": [
+  {
+  "title": "明日から使える知識本3選！",
+  "url": "https://www.youtube.com/watch?v=hEipw2k4P60"
+  }
+  ]
+  },
+  {
+  "title": "面白いほどスッキリわかる！ 世界の気候と天気のしくみ",
+  "views": 1,
+  "isbn": "B0B93L6X3L",
+  "data": [
+  {
+  "title": "明日から使える知識本3選！",
+  "url": "https://www.youtube.com/watch?v=hEipw2k4P60"
+  }
+  ]
+  },
+  {
+  "title": "性の進化史―いまヒトの染色体で何が起きているのか―（新潮選書）",
+  "views": 1,
+  "isbn": "B07S7W48B5",
+  "data": [
+  {
+  "title": "明日から使える知識本3選！",
+  "url": "https://www.youtube.com/watch?v=hEipw2k4P60"
+  }
+  ]
+  },
+  {
+  "title": "それぜんぶ企画になる。",
+  "views": 1,
+  "isbn": "B0BD3FKHQW",
+  "data": [
+  {
+  "title": "大人気企画！最近読んだ本を80人の前で紹介してみた",
+  "url": "https://www.youtube.com/watch?v=3xWqBM5GLOQ"
+  }
+  ]
+  },
+  {
+  "title": "噓つきジェンガ (文春e-book)",
+  "views": 1,
+  "isbn": "B0B9X47SKS",
+  "data": [
+  {
+  "title": "大人気企画！最近読んだ本を80人の前で紹介してみた",
+  "url": "https://www.youtube.com/watch?v=3xWqBM5GLOQ"
+  }
+  ]
+  },
+  {
+  "title": "ペーパー・リリイ",
+  "views": 1,
+  "isbn": "B0B9RL7N47",
+  "data": [
+  {
+  "title": "大人気企画！最近読んだ本を80人の前で紹介してみた",
+  "url": "https://www.youtube.com/watch?v=3xWqBM5GLOQ"
+  }
+  ]
+  },
+  {
+  "title": "正反対な君と僕 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B0B28R7S31",
+  "data": [
+  {
+  "title": "おすすめラブコメ漫画3選！",
+  "url": "https://www.youtube.com/watch?v=aU1P_vA11sc"
+  }
+  ]
+  },
+  {
+  "title": "わたしのお嫁くん（１） (Ｋｉｓｓコミックス)",
+  "views": 1,
+  "isbn": "B08C7PJRC3",
+  "data": [
+  {
+  "title": "おすすめラブコメ漫画3選！",
+  "url": "https://www.youtube.com/watch?v=aU1P_vA11sc"
+  }
+  ]
+  },
+  {
+  "title": "キャプテンサンダーボルト　上 (文春文庫)",
+  "views": 1,
+  "isbn": "B0773NVB18",
+  "data": [
+  {
+  "title": "最高なコンビが出てくる小説6選",
+  "url": "https://www.youtube.com/watch?v=RBbot8c7v1w"
+  }
+  ]
+  },
+  {
+  "title": "キャプテンサンダーボルト　下 (文春文庫)",
+  "views": 1,
+  "isbn": "B0773JCBC4",
+  "data": [
+  {
+  "title": "最高なコンビが出てくる小説6選",
+  "url": "https://www.youtube.com/watch?v=RBbot8c7v1w"
+  }
+  ]
+  },
+  {
+  "title": "シャーロック・ホームズの冒険 新訳版 シャーロック・ホームズ (角川文庫)",
+  "views": 1,
+  "isbn": "B00Q5YXMPK",
+  "data": [
+  {
+  "title": "最高なコンビが出てくる小説6選",
+  "url": "https://www.youtube.com/watch?v=RBbot8c7v1w"
+  }
+  ]
+  },
+  {
+  "title": "ナゾトキ・ジパング",
+  "views": 1,
+  "isbn": "B0B4D9JVV9",
+  "data": [
+  {
+  "title": "最高なコンビが出てくる小説6選",
+  "url": "https://www.youtube.com/watch?v=RBbot8c7v1w"
+  }
+  ]
+  },
+  {
+  "title": "文藝 2022年秋季号",
+  "views": 1,
+  "isbn": "B0B4DBDSVG",
+  "data": [
+  {
+  "title": "読書家が選ぶ最新オススメ本6選【2022年10月】",
+  "url": "https://www.youtube.com/watch?v=UBjT3C0sSGE"
+  }
+  ]
+  },
+  {
+  "title": "瓶詰めの海は寝室でリュズタンの夢をうたった",
+  "views": 1,
+  "isbn": "B0B87GBB6K",
+  "data": [
+  {
+  "title": "読書家が選ぶ最新オススメ本6選【2022年10月】",
+  "url": "https://www.youtube.com/watch?v=UBjT3C0sSGE"
+  }
+  ]
+  },
+  {
+  "title": "生き物Ａ",
+  "views": 1,
+  "isbn": "B0B9GGBWCK",
+  "data": [
+  {
+  "title": "読書家が選ぶ最新オススメ本6選【2022年10月】",
+  "url": "https://www.youtube.com/watch?v=UBjT3C0sSGE"
+  }
+  ]
+  },
+  {
+  "title": "桝 太一が聞く 科学の伝え方",
+  "views": 1,
+  "isbn": "9784807920365",
+  "data": [
+  {
+  "title": "読書家が選ぶ最新オススメ本6選【2022年10月】",
+  "url": "https://www.youtube.com/watch?v=UBjT3C0sSGE"
+  }
+  ]
+  },
+  {
+  "title": "夜の道標",
+  "views": 1,
+  "isbn": "B0B8RNHW58",
+  "data": [
+  {
+  "title": "読書家が選ぶ最新オススメ本6選【2022年10月】",
+  "url": "https://www.youtube.com/watch?v=UBjT3C0sSGE"
+  }
+  ]
+  },
+  {
+  "title": "SLAM DUNK 1 (ジャンプコミックス)",
+  "views": 1,
+  "isbn": "9784088716114",
+  "data": [
+  {
+  "title": "読み忘れてる王道漫画ないですか？？？",
+  "url": "https://www.youtube.com/watch?v=AtWsfet5XBU"
+  }
+  ]
+  },
+  {
+  "title": "DEATH NOTE モノクロ版 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B00A47VUE4",
+  "data": [
+  {
+  "title": "読み忘れてる王道漫画ないですか？？？",
+  "url": "https://www.youtube.com/watch?v=AtWsfet5XBU"
+  }
+  ]
+  },
+  {
+  "title": "SKET DANCE モノクロ版 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B009GZKM9O",
+  "data": [
+  {
+  "title": "読み忘れてる王道漫画ないですか？？？",
+  "url": "https://www.youtube.com/watch?v=AtWsfet5XBU"
+  }
+  ]
+  },
+  {
+  "title": "テニスの王子様 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B009PL841W",
+  "data": [
+  {
+  "title": "読み忘れてる王道漫画ないですか？？？",
+  "url": "https://www.youtube.com/watch?v=AtWsfet5XBU"
+  }
+  ]
+  },
+  {
+  "title": "おもろい話し方――芸人だけが知っているウケる会話の法則",
+  "views": 1,
+  "isbn": "B09WMKY2DD",
+  "data": [
+  {
+  "title": "20代で読むべき本5選【ヨビノリたくみ選書】",
+  "url": "https://www.youtube.com/watch?v=qaVZhshfe4U"
+  }
+  ]
+  },
+  {
+  "title": "サピエンス全史（上）　文明の構造と人類の幸福 サピエンス全史　文明の構造と人類の幸福",
+  "views": 1,
+  "isbn": "B01LW7JZLC",
+  "data": [
+  {
+  "title": "20代で読むべき本5選【ヨビノリたくみ選書】",
+  "url": "https://www.youtube.com/watch?v=qaVZhshfe4U"
+  }
+  ]
+  },
+  {
+  "title": "サピエンス全史（下）　文明の構造と人類の幸福 サピエンス全史　文明の構造と人類の幸福",
+  "views": 1,
+  "isbn": "B01LVTWOVT",
+  "data": [
+  {
+  "title": "20代で読むべき本5選【ヨビノリたくみ選書】",
+  "url": "https://www.youtube.com/watch?v=qaVZhshfe4U"
+  }
+  ]
+  },
+  {
+  "title": "「ビジネスマナー」基本の基本 (PHP文庫)",
+  "views": 1,
+  "isbn": "B07CNB8TSK",
+  "data": [
+  {
+  "title": "20代で読むべき本5選【ヨビノリたくみ選書】",
+  "url": "https://www.youtube.com/watch?v=qaVZhshfe4U"
+  }
+  ]
+  },
+  {
+  "title": "お金のむこうに人がいる――元ゴールドマン・サックス金利トレーダーが書いた　予備知識のいらない経済新入門",
+  "views": 1,
+  "isbn": "B09B9MQPZ1",
+  "data": [
+  {
+  "title": "20代で読むべき本5選【ヨビノリたくみ選書】",
+  "url": "https://www.youtube.com/watch?v=qaVZhshfe4U"
+  }
+  ]
+  },
+  {
+  "title": "マジック・ツリーハウス１　恐竜の谷の大冒険 (角川書店単行本)",
+  "views": 1,
+  "isbn": "B01K9G7HN2",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  }
+  ]
+  },
+  {
+  "title": "ここは退屈迎えに来て",
+  "views": 1,
+  "isbn": "B00JQ4ZBQE",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  }
+  ]
+  },
+  {
+  "title": "いけない (文春文庫)",
+  "views": 1,
+  "isbn": "B0B7RQN36J",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  }
+  ]
+  },
+  {
+  "title": "スワン (角川文庫)",
+  "views": 1,
+  "isbn": "B0B5WS5XRW",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  }
+  ]
+  },
+  {
+  "title": "青年のための読書クラブ（新潮文庫nex）",
+  "views": 1,
+  "isbn": "B07282D4DN",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  }
+  ]
+  },
+  {
+  "title": "女王はかえらない (宝島社文庫)",
+  "views": 1,
+  "isbn": "B082X5C441",
+  "data": [
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  }
+  ]
+  },
+  {
+  "title": "聖域",
+  "views": 1,
+  "isbn": "B09CSYRKP9",
+  "data": [
+  {
+  "title": "YouTuberがYouTuber本のおすすめを紹介します",
+  "url": "https://www.youtube.com/watch?v=qlKqW8oGXnc"
+  }
+  ]
+  },
+  {
+  "title": "東大流！ 本気の自由研究で新発見　QuizKnock Lab",
+  "views": 1,
+  "isbn": "B07V6Q6DXW",
+  "data": [
+  {
+  "title": "YouTuberがYouTuber本のおすすめを紹介します",
+  "url": "https://www.youtube.com/watch?v=qlKqW8oGXnc"
+  }
+  ]
+  },
+  {
+  "title": "夢を叶えるマイノートのつくり方",
+  "views": 1,
+  "isbn": "B0876SXR5L",
+  "data": [
+  {
+  "title": "YouTuberがYouTuber本のおすすめを紹介します",
+  "url": "https://www.youtube.com/watch?v=qlKqW8oGXnc"
+  }
+  ]
+  },
+  {
+  "title": "天才の根源",
+  "views": 1,
+  "isbn": "B08PNHJ8HQ",
+  "data": [
+  {
+  "title": "YouTuberがYouTuber本のおすすめを紹介します",
+  "url": "https://www.youtube.com/watch?v=qlKqW8oGXnc"
+  }
+  ]
+  },
+  {
+  "title": "クソデカ溜息をついている陰キャだけど、案外楽しく生きていけてる",
+  "views": 1,
+  "isbn": "B09XH9L43M",
+  "data": [
+  {
+  "title": "YouTuberがYouTuber本のおすすめを紹介します",
+  "url": "https://www.youtube.com/watch?v=qlKqW8oGXnc"
+  }
+  ]
+  },
+  {
+  "title": "爆発物処理班の遭遇したスピン",
+  "views": 1,
+  "isbn": "B0B4JQ6FWM",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "信仰 (文春e-book)",
+  "views": 1,
+  "isbn": "B0B31293KG",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "無垢なる花たちのためのユートピア",
+  "views": 1,
+  "isbn": "B0B119QDZT",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "さんず",
+  "views": 1,
+  "isbn": "B0B397B3QF",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "予測不能の１秒先も濁流みたいに愛してる",
+  "views": 1,
+  "isbn": "B0B39G4Q1S",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "あくてえ",
+  "views": 1,
+  "isbn": "B0B6C9R8VY",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "スパイコードＷ (角川書店単行本)",
+  "views": 1,
+  "isbn": "B0B1CRKV4W",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "きみだからさびしい (文春e-book)",
+  "views": 1,
+  "isbn": "B09S5YZFVF",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "夜に星を放つ (文春e-book)",
+  "views": 1,
+  "isbn": "B0B1HF68S5",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "くるまの娘",
+  "views": 1,
+  "isbn": "B09ZB25GMB",
+  "data": [
+  {
+  "title": "活字中毒が最近読んだ本10選【2022年9月】",
+  "url": "https://www.youtube.com/watch?v=OPk-I_nPKgo"
+  }
+  ]
+  },
+  {
+  "title": "りさ子のガチ恋　俳優沼 (集英社文庫)",
+  "views": 1,
+  "isbn": "B07D59HPXB",
+  "data": [
+  {
+  "title": "この動画何かがおかしい",
+  "url": "https://www.youtube.com/watch?v=AwYHXk2LZD0"
+  }
+  ]
+  },
+  {
+  "title": "鴎外パイセン非リア文豪記 (集英社文庫)",
+  "views": 1,
+  "isbn": "B07YKV8523",
+  "data": [
+  {
+  "title": "この動画何かがおかしい",
+  "url": "https://www.youtube.com/watch?v=AwYHXk2LZD0"
+  }
+  ]
+  },
+  {
+  "title": "星と脚光　新人俳優のマネジメントレポート (講談社タイガ)",
+  "views": 1,
+  "isbn": "B08HHZCG1C",
+  "data": [
+  {
+  "title": "この動画何かがおかしい",
+  "url": "https://www.youtube.com/watch?v=AwYHXk2LZD0"
+  }
+  ]
+  },
+  {
+  "title": "ネメシス６ (講談社タイガ)",
+  "views": 1,
+  "isbn": "B0967Y7ZF8",
+  "data": [
+  {
+  "title": "この動画何かがおかしい",
+  "url": "https://www.youtube.com/watch?v=AwYHXk2LZD0"
+  }
+  ]
+  },
+  {
+  "title": "短編アンソロジー　学校の怪談 (集英社文庫)",
+  "views": 1,
+  "isbn": "B0B5G2K5G3",
+  "data": [
+  {
+  "title": "この動画何かがおかしい",
+  "url": "https://www.youtube.com/watch?v=AwYHXk2LZD0"
+  }
+  ]
+  },
+  {
+  "title": "明日のフリル",
+  "views": 1,
+  "isbn": "B09S3FQH2T",
+  "data": [
+  {
+  "title": "この動画何かがおかしい",
+  "url": "https://www.youtube.com/watch?v=AwYHXk2LZD0"
+  }
+  ]
+  },
+  {
+  "title": "夜市 (角川ホラー文庫)",
+  "views": 1,
+  "isbn": "B009GPMSIC",
+  "data": [
+  {
+  "title": "この夏に読んでほしいホラー小説3選【ゾクゾクするやつ】",
+  "url": "https://www.youtube.com/watch?v=dFRYp4FN9vw"
+  }
+  ]
+  },
+  {
+  "title": "よもつひらさか (集英社文庫)",
+  "views": 1,
+  "isbn": "9784087474909",
+  "data": [
+  {
+  "title": "この夏に読んでほしいホラー小説3選【ゾクゾクするやつ】",
+  "url": "https://www.youtube.com/watch?v=dFRYp4FN9vw"
+  }
+  ]
+  },
+  {
+  "title": "テンプレート式 脱出ゲームの作り方",
+  "views": 1,
+  "isbn": "9784881818664",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本を紹介します【2022年8月】",
+  "url": "https://www.youtube.com/watch?v=-vCUq1X5HT0"
+  }
+  ]
+  },
+  {
+  "title": "「ネコひねり問題」を超一流の科学者たちが全力で考えてみた――「ネコの空中立ち直り反射」という驚くべき謎に迫る",
+  "views": 1,
+  "isbn": "B09FKTCBQK",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本を紹介します【2022年8月】",
+  "url": "https://www.youtube.com/watch?v=-vCUq1X5HT0"
+  }
+  ]
+  },
+  {
+  "title": "空白小説",
+  "views": 1,
+  "isbn": "B09XR1BNV8",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本を紹介します【2022年8月】",
+  "url": "https://www.youtube.com/watch?v=-vCUq1X5HT0"
+  }
+  ]
+  },
+  {
+  "title": "強ガール 1 (コミックELMO)",
+  "views": 1,
+  "isbn": "B09HZGLTVC",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本を紹介します【2022年8月】",
+  "url": "https://www.youtube.com/watch?v=-vCUq1X5HT0"
+  }
+  ]
+  },
+  {
+  "title": "Casa BRUTUS特別編集 日本の現代アート名鑑100",
+  "views": 1,
+  "isbn": "B09X5GQ7PN",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本を紹介します【2022年8月】",
+  "url": "https://www.youtube.com/watch?v=-vCUq1X5HT0"
+  }
+  ]
+  },
+  {
+  "title": "バトル・ロワイアル（１） (ヤングチャンピオン・コミックス)",
+  "views": 1,
+  "isbn": "B00D44I2WC",
+  "data": [
+  {
+  "title": "おすすめデスゲーム漫画3選",
+  "url": "https://www.youtube.com/watch?v=54PVwhjcP-w"
+  }
+  ]
+  },
+  {
+  "title": "堕イドル（１） (週刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B01N6B3JVJ",
+  "data": [
+  {
+  "title": "おすすめデスゲーム漫画3選",
+  "url": "https://www.youtube.com/watch?v=54PVwhjcP-w"
+  }
+  ]
+  },
+  {
+  "title": "リアルアカウント（１） (週刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B00K1ZQSEQ",
+  "data": [
+  {
+  "title": "おすすめデスゲーム漫画3選",
+  "url": "https://www.youtube.com/watch?v=54PVwhjcP-w"
+  }
+  ]
+  },
+  {
+  "title": "累（１） (イブニングコミックス)",
+  "views": 1,
+  "isbn": "B00HUIL5OA",
+  "data": [
+  {
+  "title": "短時間で漫画の魅力を伝えられるのはどっち！？",
+  "url": "https://www.youtube.com/watch?v=9qZn1mtg7JY"
+  }
+  ]
+  },
+  {
+  "title": "自由なサメと人間たちの夢 (集英社文庫)",
+  "views": 1,
+  "isbn": "B07P1R4K2R",
+  "data": [
+  {
+  "title": "始まりよければ終わりまでよし！小説書き出し3選",
+  "url": "https://www.youtube.com/watch?v=DSAXxi60YJk"
+  }
+  ]
+  },
+  {
+  "title": "夏と花火と私の死体 (集英社文庫)",
+  "views": 1,
+  "isbn": "B00A773H7E",
+  "data": [
+  {
+  "title": "始まりよければ終わりまでよし！小説書き出し3選",
+  "url": "https://www.youtube.com/watch?v=DSAXxi60YJk"
+  }
+  ]
+  },
+  {
+  "title": "少女 (双葉文庫)",
+  "views": 1,
+  "isbn": "B087WWNV3K",
+  "data": [
+  {
+  "title": "始まりよければ終わりまでよし！小説書き出し3選",
+  "url": "https://www.youtube.com/watch?v=DSAXxi60YJk"
+  }
+  ]
+  },
+  {
+  "title": "インシテミル (文春文庫)",
+  "views": 1,
+  "isbn": "B009A48W0M",
+  "data": [
+  {
+  "title": "始まりよければ終わりまでよし！小説書き出し3選",
+  "url": "https://www.youtube.com/watch?v=DSAXxi60YJk"
+  }
+  ]
+  },
+  {
+  "title": "BLEACH モノクロ版 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B009GZKEPQ",
+  "data": [
+  {
+  "title": "ヨビノリたくみが壊れました",
+  "url": "https://www.youtube.com/watch?v=y4Q1X0JkAg4"
+  }
+  ]
+  },
+  {
+  "title": "ＧＴＯ（１） (週刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B00BUL5O9K",
+  "data": [
+  {
+  "title": "ヨビノリたくみが壊れました",
+  "url": "https://www.youtube.com/watch?v=y4Q1X0JkAg4"
+  }
+  ]
+  },
+  {
+  "title": "銀魂 モノクロ版 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B009GZJYZW",
+  "data": [
+  {
+  "title": "ヨビノリたくみが壊れました",
+  "url": "https://www.youtube.com/watch?v=y4Q1X0JkAg4"
+  }
+  ]
+  },
+  {
+  "title": "その着せ替え人形は恋をする 1巻 (デジタル版ヤングガンガンコミックス)",
+  "views": 1,
+  "isbn": "B07JZNFJVD",
+  "data": [
+  {
+  "title": "ヨビノリたくみが壊れました",
+  "url": "https://www.youtube.com/watch?v=y4Q1X0JkAg4"
+  }
+  ]
+  },
+  {
+  "title": "青空の卵 ひきこもり探偵シリーズ (創元推理文庫)",
+  "views": 1,
+  "isbn": "B007T4KW5S",
+  "data": [
+  {
+  "title": "今の我々を作った作品たちを紹介します",
+  "url": "https://www.youtube.com/watch?v=VYZNtkV4o1Y"
+  }
+  ]
+  },
+  {
+  "title": "ハピネス (小学館文庫)",
+  "views": 1,
+  "isbn": "B00B9CALTI",
+  "data": [
+  {
+  "title": "今の我々を作った作品たちを紹介します",
+  "url": "https://www.youtube.com/watch?v=VYZNtkV4o1Y"
+  }
+  ]
+  },
+  {
+  "title": "風の港",
+  "views": 1,
+  "isbn": "B09TVQ995D",
+  "data": [
+  {
+  "title": "読書狂が最近読んだ本【2022年7月】",
+  "url": "https://www.youtube.com/watch?v=wAKqeWWYu-w"
+  }
+  ]
+  },
+  {
+  "title": "私と街たち(ほぼ自伝)",
+  "views": 1,
+  "isbn": "9784309030432",
+  "data": [
+  {
+  "title": "読書狂が最近読んだ本【2022年7月】",
+  "url": "https://www.youtube.com/watch?v=wAKqeWWYu-w"
+  }
+  ]
+  },
+  {
+  "title": "団地のふたり",
+  "views": 1,
+  "isbn": "B09T39YRM3",
+  "data": [
+  {
+  "title": "読書狂が最近読んだ本【2022年7月】",
+  "url": "https://www.youtube.com/watch?v=wAKqeWWYu-w"
+  }
+  ]
+  },
+  {
+  "title": "女生徒 乙女の本棚 (立東舎)",
+  "views": 1,
+  "isbn": "B01N2LENIG",
+  "data": [
+  {
+  "title": "読書狂が最近読んだ本【2022年7月】",
+  "url": "https://www.youtube.com/watch?v=wAKqeWWYu-w"
+  }
+  ]
+  },
+  {
+  "title": "紙魚の手帖Ｖｏｌ．０５",
+  "views": 1,
+  "isbn": "B0B11TTHMD",
+  "data": [
+  {
+  "title": "小説好きなら文芸誌にチャレンジしよう",
+  "url": "https://www.youtube.com/watch?v=h2ZYQMZ3ENA"
+  }
+  ]
+  },
+  {
+  "title": "小説宝石 2022年7月号",
+  "views": 1,
+  "isbn": "B0B354N4VT",
+  "data": [
+  {
+  "title": "小説好きなら文芸誌にチャレンジしよう",
+  "url": "https://www.youtube.com/watch?v=h2ZYQMZ3ENA"
+  }
+  ]
+  },
+  {
+  "title": "小説現代　２０２２年　５・６月合併号（ライト版） [雑誌]",
+  "views": 1,
+  "isbn": "B09XDT4N1C",
+  "data": [
+  {
+  "title": "小説好きなら文芸誌にチャレンジしよう",
+  "url": "https://www.youtube.com/watch?v=h2ZYQMZ3ENA"
+  }
+  ]
+  },
+  {
+  "title": "小説すばる2022年6月号",
+  "views": 1,
+  "isbn": "B09ZVFYCB3",
+  "data": [
+  {
+  "title": "小説好きなら文芸誌にチャレンジしよう",
+  "url": "https://www.youtube.com/watch?v=h2ZYQMZ3ENA"
+  }
+  ]
+  },
+  {
+  "title": "文藝 2022年夏季号",
+  "views": 1,
+  "isbn": "B09VSVN4XW",
+  "data": [
+  {
+  "title": "小説好きなら文芸誌にチャレンジしよう",
+  "url": "https://www.youtube.com/watch?v=h2ZYQMZ3ENA"
+  }
+  ]
+  },
+  {
+  "title": "すばる 2022年 7 月号",
+  "views": 1,
+  "isbn": "B0B1QL3ZR7",
+  "data": [
+  {
+  "title": "小説好きなら文芸誌にチャレンジしよう",
+  "url": "https://www.youtube.com/watch?v=h2ZYQMZ3ENA"
+  }
+  ]
+  },
+  {
+  "title": "文學界(2022年7月号) (特集 西村賢太 私小説になった男)",
+  "views": 1,
+  "isbn": "B0B28D1P1W",
+  "data": [
+  {
+  "title": "小説好きなら文芸誌にチャレンジしよう",
+  "url": "https://www.youtube.com/watch?v=h2ZYQMZ3ENA"
+  }
+  ]
+  },
+  {
+  "title": "群像 2022年 07 月号 [雑誌]",
+  "views": 1,
+  "isbn": "B0B1V99339",
+  "data": [
+  {
+  "title": "小説好きなら文芸誌にチャレンジしよう",
+  "url": "https://www.youtube.com/watch?v=h2ZYQMZ3ENA"
+  }
+  ]
+  },
+  {
+  "title": "時計館の殺人〈新装改訂版〉（上） ｢館｣シリーズ (講談社文庫)",
+  "views": 1,
+  "isbn": "B00L4XTJYK",
+  "data": [
+  {
+  "title": "あなたもきっと閉じ込められたくなる恐怖の3選",
+  "url": "https://www.youtube.com/watch?v=-vo7r_1BQGA"
+  }
+  ]
+  },
+  {
+  "title": "時計館の殺人〈新装改訂版〉（下） 館シリーズ (講談社文庫)",
+  "views": 1,
+  "isbn": "B00L4XTJWC",
+  "data": [
+  {
+  "title": "あなたもきっと閉じ込められたくなる恐怖の3選",
+  "url": "https://www.youtube.com/watch?v=-vo7r_1BQGA"
+  }
+  ]
+  },
+  {
+  "title": "改訂完全版　斜め屋敷の犯罪 (講談社文庫)",
+  "views": 1,
+  "isbn": "B01BD25TG8",
+  "data": [
+  {
+  "title": "あなたもきっと閉じ込められたくなる恐怖の3選",
+  "url": "https://www.youtube.com/watch?v=-vo7r_1BQGA"
+  }
+  ]
+  },
+  {
+  "title": "Newton 2022年7月号",
+  "views": 1,
+  "isbn": "B0B1WXR91Q",
+  "data": [
+  {
+  "title": "好きな雑誌を紹介します",
+  "url": "https://www.youtube.com/watch?v=s1LoIi5MMgk"
+  }
+  ]
+  },
+  {
+  "title": "日経サイエンス2022年7月号 [雑誌]",
+  "views": 1,
+  "isbn": "B0B1ZQCR3T",
+  "data": [
+  {
+  "title": "好きな雑誌を紹介します",
+  "url": "https://www.youtube.com/watch?v=s1LoIi5MMgk"
+  }
+  ]
+  },
+  {
+  "title": "おいしい肉の店2022首都圏版",
+  "views": 1,
+  "isbn": "B09924VCHF",
+  "data": [
+  {
+  "title": "好きな雑誌を紹介します",
+  "url": "https://www.youtube.com/watch?v=s1LoIi5MMgk"
+  }
+  ]
+  },
+  {
+  "title": "装苑 2022年 7月号 (雑誌)",
+  "views": 1,
+  "isbn": "B09YFCZ3FB",
+  "data": [
+  {
+  "title": "好きな雑誌を紹介します",
+  "url": "https://www.youtube.com/watch?v=s1LoIi5MMgk"
+  }
+  ]
+  },
+  {
+  "title": "美術手帖 2022年 07月号 [雑誌]",
+  "views": 1,
+  "isbn": "B0B38ZWJXK",
+  "data": [
+  {
+  "title": "好きな雑誌を紹介します",
+  "url": "https://www.youtube.com/watch?v=s1LoIi5MMgk"
+  }
+  ]
+  },
+  {
+  "title": "探偵学園Ｑ（１） (週刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B00AIFZ28W",
+  "data": [
+  {
+  "title": "色々な推理漫画を表にして授業してみた",
+  "url": "https://www.youtube.com/watch?v=h-1y3PUP8B8"
+  }
+  ]
+  },
+  {
+  "title": "魔人探偵脳噛ネウロ モノクロ版 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B00A47VUX0",
+  "data": [
+  {
+  "title": "色々な推理漫画を表にして授業してみた",
+  "url": "https://www.youtube.com/watch?v=h-1y3PUP8B8"
+  }
+  ]
+  },
+  {
+  "title": "スパイラル ～推理の絆～ 1巻 (デジタル版ガンガンコミックス)",
+  "views": 1,
+  "isbn": "B009UP2NLA",
+  "data": [
+  {
+  "title": "色々な推理漫画を表にして授業してみた",
+  "url": "https://www.youtube.com/watch?v=h-1y3PUP8B8"
+  }
+  ]
+  },
+  {
+  "title": "Ｑ．Ｅ．Ｄ．―証明終了―（１） (月刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B009KWTLCM",
+  "data": [
+  {
+  "title": "色々な推理漫画を表にして授業してみた",
+  "url": "https://www.youtube.com/watch?v=h-1y3PUP8B8"
+  }
+  ]
+  },
+  {
+  "title": "探偵ゼノと7つの殺人密室（１） (少年サンデーコミックス)",
+  "views": 1,
+  "isbn": "B07C9Y8GK7",
+  "data": [
+  {
+  "title": "色々な推理漫画を表にして授業してみた",
+  "url": "https://www.youtube.com/watch?v=h-1y3PUP8B8"
+  }
+  ]
+  },
+  {
+  "title": "監禁探偵",
+  "views": 1,
+  "isbn": "B00C4Q7LDC",
+  "data": [
+  {
+  "title": "色々な推理漫画を表にして授業してみた",
+  "url": "https://www.youtube.com/watch?v=h-1y3PUP8B8"
+  }
+  ]
+  },
+  {
+  "title": "夫の骨 (祥伝社文庫)",
+  "views": 1,
+  "isbn": "B0863K1XLN",
+  "data": [
+  {
+  "title": "読書好きの2人が色々なジャンルの本を紹介します！【2022年6月】",
+  "url": "https://www.youtube.com/watch?v=yoXhhRtR2mU"
+  }
+  ]
+  },
+  {
+  "title": "手放す練習　ムダに消耗しない取捨選択",
+  "views": 1,
+  "isbn": "B09SYKKFFF",
+  "data": [
+  {
+  "title": "読書好きの2人が色々なジャンルの本を紹介します！【2022年6月】",
+  "url": "https://www.youtube.com/watch?v=yoXhhRtR2mU"
+  }
+  ]
+  },
+  {
+  "title": "Artiste（アルティスト）　1巻: バンチコミックス",
+  "views": 1,
+  "isbn": "B06XYLY9TM",
+  "data": [
+  {
+  "title": "読書好きの2人が色々なジャンルの本を紹介します！【2022年6月】",
+  "url": "https://www.youtube.com/watch?v=yoXhhRtR2mU"
+  }
+  ]
+  },
+  {
+  "title": "チェレンコフの眠り",
+  "views": 1,
+  "isbn": "B09R7N58F2",
+  "data": [
+  {
+  "title": "読書好きの2人が色々なジャンルの本を紹介します！【2022年6月】",
+  "url": "https://www.youtube.com/watch?v=yoXhhRtR2mU"
+  }
+  ]
+  },
+  {
+  "title": "アーモンド",
+  "views": 1,
+  "isbn": "B07T8F68QX",
+  "data": [
+  {
+  "title": "読書好きの2人が色々なジャンルの本を紹介します！【2022年6月】",
+  "url": "https://www.youtube.com/watch?v=yoXhhRtR2mU"
+  }
+  ]
+  },
+  {
+  "title": "青少年のための小説入門 (集英社文庫)",
+  "views": 1,
+  "isbn": "B09HH812TQ",
+  "data": [
+  {
+  "title": "小説愛に溢れる小説3選",
+  "url": "https://www.youtube.com/watch?v=kt3AqhEGGq8"
+  }
+  ]
+  },
+  {
+  "title": "小説の神様 (講談社タイガ)",
+  "views": 1,
+  "isbn": "B01H4OTCDK",
+  "data": [
+  {
+  "title": "小説愛に溢れる小説3選",
+  "url": "https://www.youtube.com/watch?v=kt3AqhEGGq8"
+  }
+  ]
+  },
+  {
+  "title": "推理大戦",
+  "views": 1,
+  "isbn": "B09C8B62G3",
+  "data": [
+  {
+  "title": "『推理大戦』のきっかけはある格闘漫画だった！？",
+  "url": "https://www.youtube.com/watch?v=6vn7Aw57HFs"
+  }
+  ]
+  },
+  {
+  "title": "ダーウィンが来た! 生命大進化 第2集 現生動物への道が開かれた(中生代 ジュラ紀～新生代)",
+  "views": 1,
+  "isbn": "B09DFLTXCZ",
+  "data": [
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  }
+  ]
+  },
+  {
+  "title": "ニュートンりきがく for babies (Baby University)",
+  "views": 1,
+  "isbn": "9784763139337",
+  "data": [
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  }
+  ]
+  },
+  {
+  "title": "燕は戻ってこない (集英社文芸単行本)",
+  "views": 1,
+  "isbn": "B09TRFXR7D",
+  "data": [
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  }
+  ]
+  },
+  {
+  "title": "真っ白い殺人鬼 (IIV)",
+  "views": 1,
+  "isbn": "B09HSXBQ1T",
+  "data": [
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  }
+  ]
+  },
+  {
+  "title": "願いの始まり　神神化身 (IIV)",
+  "views": 1,
+  "isbn": "B09RZ6WTKX",
+  "data": [
+  {
+  "title": "本屋で自由に選書して紹介し合う遊び",
+  "url": "https://www.youtube.com/watch?v=v5eF8BAm6KI"
+  }
+  ]
+  },
+  {
+  "title": "文藝 2022年春季号",
+  "views": 1,
+  "isbn": "B09MQ7TSY5",
+  "data": [
+  {
+  "title": "最近読んだ本5選【2022年5月】",
+  "url": "https://www.youtube.com/watch?v=sdlNy2NRNR4"
+  }
+  ]
+  },
+  {
+  "title": "その午後、巨匠たちは、",
+  "views": 1,
+  "isbn": "B09S61DRQ5",
+  "data": [
+  {
+  "title": "最近読んだ本5選【2022年5月】",
+  "url": "https://www.youtube.com/watch?v=sdlNy2NRNR4"
+  }
+  ]
+  },
+  {
+  "title": "なんとなく、クリスタル (河出文庫)",
+  "views": 1,
+  "isbn": "B00JOA4IFK",
+  "data": [
+  {
+  "title": "最近読んだ本5選【2022年5月】",
+  "url": "https://www.youtube.com/watch?v=sdlNy2NRNR4"
+  }
+  ]
+  },
+  {
+  "title": "かなしき玩具譚―歌集",
+  "views": 1,
+  "isbn": "9784862724564",
+  "data": [
+  {
+  "title": "最近読んだ本5選【2022年5月】",
+  "url": "https://www.youtube.com/watch?v=sdlNy2NRNR4"
+  }
+  ]
+  },
+  {
+  "title": "春のこわいもの",
+  "views": 1,
+  "isbn": "B09R7N9G4V",
+  "data": [
+  {
+  "title": "最近読んだ本5選【2022年5月】",
+  "url": "https://www.youtube.com/watch?v=sdlNy2NRNR4"
+  }
+  ]
+  },
+  {
+  "title": "冷たい校舎の時は止まる（上） (講談社文庫)",
+  "views": 1,
+  "isbn": "B009I7KL6O",
+  "data": [
+  {
+  "title": "青春を思い出す？学園ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=OEKiNKUpaKs"
+  }
+  ]
+  },
+  {
+  "title": "冷たい校舎の時は止まる（下） (講談社文庫)",
+  "views": 1,
+  "isbn": "B009I7KL8M",
+  "data": [
+  {
+  "title": "青春を思い出す？学園ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=OEKiNKUpaKs"
+  }
+  ]
+  },
+  {
+  "title": "僕の神さま (角川書店単行本)",
+  "views": 1,
+  "isbn": "B08F7BTYK9",
+  "data": [
+  {
+  "title": "青春を思い出す？学園ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=OEKiNKUpaKs"
+  }
+  ]
+  },
+  {
+  "title": "絶望ノート (幻冬舎文庫)",
+  "views": 1,
+  "isbn": "B08KT5Q37P",
+  "data": [
+  {
+  "title": "青春を思い出す？学園ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=OEKiNKUpaKs"
+  }
+  ]
+  },
+  {
+  "title": "エア・ギア（１） (週刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B009KWTTG0",
+  "data": [
+  {
+  "title": "個人的におすすめなスポーツ漫画6選",
+  "url": "https://www.youtube.com/watch?v=kpBxUY9tqKw"
+  }
+  ]
+  },
+  {
+  "title": "あひるの空（１）",
+  "views": 1,
+  "isbn": "B009KYBNM6",
+  "data": [
+  {
+  "title": "個人的におすすめなスポーツ漫画6選",
+  "url": "https://www.youtube.com/watch?v=kpBxUY9tqKw"
+  }
+  ]
+  },
+  {
+  "title": "両生類・爬虫類 (ポプラディア大図鑑WONDA)",
+  "views": 1,
+  "isbn": "9784591137826",
+  "data": [
+  {
+  "title": "コアな知識本3選",
+  "url": "https://www.youtube.com/watch?v=13Fd3OXks9g"
+  }
+  ]
+  },
+  {
+  "title": "カクテル完全バイブル",
+  "views": 1,
+  "isbn": "B07T2CBFBW",
+  "data": [
+  {
+  "title": "コアな知識本3選",
+  "url": "https://www.youtube.com/watch?v=13Fd3OXks9g"
+  }
+  ]
+  },
+  {
+  "title": "食材事典シリーズ　調理科学×肉の事典",
+  "views": 1,
+  "isbn": "B07VC3YFJW",
+  "data": [
+  {
+  "title": "コアな知識本3選",
+  "url": "https://www.youtube.com/watch?v=13Fd3OXks9g"
+  }
+  ]
+  },
+  {
+  "title": "あなたに不利な証拠として (ハヤカワ・ミステリ文庫)",
+  "views": 1,
+  "isbn": "9784151776014",
+  "data": [
+  {
+  "title": "思わず読みたくなるタイトル6選",
+  "url": "https://www.youtube.com/watch?v=nnjTN0qrQpw"
+  }
+  ]
+  },
+  {
+  "title": "本にだって雄と雌があります（新潮文庫）",
+  "views": 1,
+  "isbn": "B01BHQQIJC",
+  "data": [
+  {
+  "title": "思わず読みたくなるタイトル6選",
+  "url": "https://www.youtube.com/watch?v=nnjTN0qrQpw"
+  }
+  ]
+  },
+  {
+  "title": "嘘喰い 1 (ヤングジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B009LHC0J2",
+  "data": [
+  {
+  "title": "駆け引き大好き人間が選ぶ最高にアツいギャンブル漫画",
+  "url": "https://www.youtube.com/watch?v=7aTzhjp4qLE"
+  }
+  ]
+  },
+  {
+  "title": "ONE OUTS 1 (ヤングジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B00BCY4UJA",
+  "data": [
+  {
+  "title": "駆け引き大好き人間が選ぶ最高にアツいギャンブル漫画",
+  "url": "https://www.youtube.com/watch?v=7aTzhjp4qLE"
+  }
+  ]
+  },
+  {
+  "title": "賭博覇王伝 零　１",
+  "views": 1,
+  "isbn": "B00E3RA056",
+  "data": [
+  {
+  "title": "駆け引き大好き人間が選ぶ最高にアツいギャンブル漫画",
+  "url": "https://www.youtube.com/watch?v=7aTzhjp4qLE"
+  }
+  ]
+  },
+  {
+  "title": "チョコレート工場の秘密 (ロアルド・ダールコレクション 2)",
+  "views": 1,
+  "isbn": "9784566014114",
+  "data": [
+  {
+  "title": "読書好きが最近読んだ本【2022年4月】",
+  "url": "https://www.youtube.com/watch?v=rW_Um3JBLRg"
+  }
+  ]
+  },
+  {
+  "title": "楽園ジューシー ホテルジューシー (角川書店単行本)",
+  "views": 1,
+  "isbn": "B09RMYBSHT",
+  "data": [
+  {
+  "title": "読書好きが最近読んだ本【2022年4月】",
+  "url": "https://www.youtube.com/watch?v=rW_Um3JBLRg"
+  }
+  ]
+  },
+  {
+  "title": "天才数学者、ラスベガスとウォール街を制す（上）―――偶然を支配した男のギャンブルと投資の戦略",
+  "views": 1,
+  "isbn": "B07PNLQGC1",
+  "data": [
+  {
+  "title": "読書好きが最近読んだ本【2022年4月】",
+  "url": "https://www.youtube.com/watch?v=rW_Um3JBLRg"
+  }
+  ]
+  },
+  {
+  "title": "マンガ　会計の世界史 (日本経済新聞出版)",
+  "views": 1,
+  "isbn": "B09KSVLHR5",
+  "data": [
+  {
+  "title": "読書好きが最近読んだ本【2022年4月】",
+  "url": "https://www.youtube.com/watch?v=rW_Um3JBLRg"
+  }
+  ]
+  },
+  {
+  "title": "ハサミ男 (講談社文庫)",
+  "views": 1,
+  "isbn": "B00DUQ5JWK",
+  "data": [
+  {
+  "title": "どんでんマニアが選ぶ、どんでん返しミステリ傑作3選",
+  "url": "https://www.youtube.com/watch?v=9xqaPzO0nI4"
+  }
+  ]
+  },
+  {
+  "title": "名前探しの放課後（上） (講談社文庫)",
+  "views": 1,
+  "isbn": "B00AJCM2ZU",
+  "data": [
+  {
+  "title": "どんでんマニアが選ぶ、どんでん返しミステリ傑作3選",
+  "url": "https://www.youtube.com/watch?v=9xqaPzO0nI4"
+  }
+  ]
+  },
+  {
+  "title": "名前探しの放課後（下） (講談社文庫)",
+  "views": 1,
+  "isbn": "B00AJCM336",
+  "data": [
+  {
+  "title": "どんでんマニアが選ぶ、どんでん返しミステリ傑作3選",
+  "url": "https://www.youtube.com/watch?v=9xqaPzO0nI4"
+  }
+  ]
+  },
+  {
+  "title": "出版禁止　いやしの村滞在記",
+  "views": 1,
+  "isbn": "B09B9JFVX2",
+  "data": [
+  {
+  "title": "どんでんマニアが選ぶ、どんでん返しミステリ傑作3選",
+  "url": "https://www.youtube.com/watch?v=9xqaPzO0nI4"
+  }
+  ]
+  },
+  {
+  "title": "わるい食べもの (ホーム社)",
+  "views": 1,
+  "isbn": "B07L81RW1C",
+  "data": [
+  {
+  "title": "好きなエッセイ本6選",
+  "url": "https://www.youtube.com/watch?v=VCFpggzf3wQ"
+  }
+  ]
+  },
+  {
+  "title": "私が食べた本 (朝日文庫)",
+  "views": 1,
+  "isbn": "B09MYQQW49",
+  "data": [
+  {
+  "title": "好きなエッセイ本6選",
+  "url": "https://www.youtube.com/watch?v=VCFpggzf3wQ"
+  }
+  ]
+  },
+  {
+  "title": "常識にとらわれない100の講義 (だいわ文庫)",
+  "views": 1,
+  "isbn": "B00L8GABJK",
+  "data": [
+  {
+  "title": "好きなエッセイ本6選",
+  "url": "https://www.youtube.com/watch?v=VCFpggzf3wQ"
+  }
+  ]
+  },
+  {
+  "title": "「思考」を育てる100の講義",
+  "views": 1,
+  "isbn": "B00L8GABKY",
+  "data": [
+  {
+  "title": "好きなエッセイ本6選",
+  "url": "https://www.youtube.com/watch?v=VCFpggzf3wQ"
+  }
+  ]
+  },
+  {
+  "title": "本質を見通す100の講義",
+  "views": 1,
+  "isbn": "B011HU4YEE",
+  "data": [
+  {
+  "title": "好きなエッセイ本6選",
+  "url": "https://www.youtube.com/watch?v=VCFpggzf3wQ"
+  }
+  ]
+  },
+  {
+  "title": "じごくゆきっ (集英社文庫)",
+  "views": 1,
+  "isbn": "B08BRD5FFY",
+  "data": [
+  {
+  "title": "心に響いた小説の一文6選",
+  "url": "https://www.youtube.com/watch?v=acV90OyJYeE"
+  }
+  ]
+  },
+  {
+  "title": "化物語（上）",
+  "views": 1,
+  "isbn": "B01GTEB2R0",
+  "data": [
+  {
+  "title": "心に響いた小説の一文6選",
+  "url": "https://www.youtube.com/watch?v=acV90OyJYeE"
+  }
+  ]
+  },
+  {
+  "title": "化物語（中）",
+  "views": 1,
+  "isbn": "B01GTEB2NY",
+  "data": [
+  {
+  "title": "心に響いた小説の一文6選",
+  "url": "https://www.youtube.com/watch?v=acV90OyJYeE"
+  }
+  ]
+  },
+  {
+  "title": "化物語（下）",
+  "views": 1,
+  "isbn": "B01GTEB2UC",
+  "data": [
+  {
+  "title": "心に響いた小説の一文6選",
+  "url": "https://www.youtube.com/watch?v=acV90OyJYeE"
+  }
+  ]
+  },
+  {
+  "title": "予知夢 (文春文庫)",
+  "views": 1,
+  "isbn": "9784167110086",
+  "data": [
+  {
+  "title": "心に響いた小説の一文6選",
+  "url": "https://www.youtube.com/watch?v=acV90OyJYeE"
+  }
+  ]
+  },
+  {
+  "title": "神様は勝たせない",
+  "views": 1,
+  "isbn": "B00KID93D4",
+  "data": [
+  {
+  "title": "私のオススメする(?)トラウマ本3選",
+  "url": "https://www.youtube.com/watch?v=pOLNjdZN-R0"
+  }
+  ]
+  },
+  {
+  "title": "神様ゲーム (講談社文庫)",
+  "views": 1,
+  "isbn": "B015XPMYFU",
+  "data": [
+  {
+  "title": "私のオススメする(?)トラウマ本3選",
+  "url": "https://www.youtube.com/watch?v=pOLNjdZN-R0"
+  }
+  ]
+  },
+  {
+  "title": "バビロン１　―女― (講談社タイガ)",
+  "views": 1,
+  "isbn": "B015GW70PO",
+  "data": [
+  {
+  "title": "私のオススメする(?)トラウマ本3選",
+  "url": "https://www.youtube.com/watch?v=pOLNjdZN-R0"
+  }
+  ]
+  },
+  {
+  "title": "バビロン２　―死― (講談社タイガ)",
+  "views": 1,
+  "isbn": "B01IGPBZ7C",
+  "data": [
+  {
+  "title": "私のオススメする(?)トラウマ本3選",
+  "url": "https://www.youtube.com/watch?v=pOLNjdZN-R0"
+  }
+  ]
+  },
+  {
+  "title": "バビロン３　―終― (講談社タイガ)",
+  "views": 1,
+  "isbn": "B077GJVJWX",
+  "data": [
+  {
+  "title": "私のオススメする(?)トラウマ本3選",
+  "url": "https://www.youtube.com/watch?v=pOLNjdZN-R0"
+  }
+  ]
+  },
+  {
+  "title": "ぼくらはアン",
+  "views": 1,
+  "isbn": "B09GB7GX94",
+  "data": [
+  {
+  "title": "大の本好きが最近読んだ本6選【2022年2月】",
+  "url": "https://www.youtube.com/watch?v=t4vtxD1UOxk"
+  }
+  ]
+  },
+  {
+  "title": "小説現代　２０２１年　１１月号 [雑誌]",
+  "views": 1,
+  "isbn": "B09KLL3179",
+  "data": [
+  {
+  "title": "大の本好きが最近読んだ本6選【2022年2月】",
+  "url": "https://www.youtube.com/watch?v=t4vtxD1UOxk"
+  }
+  ]
+  },
+  {
+  "title": "〈きもち〉はなにをしているの?",
+  "views": 1,
+  "isbn": "9784309254371",
+  "data": [
+  {
+  "title": "大の本好きが最近読んだ本6選【2022年2月】",
+  "url": "https://www.youtube.com/watch?v=t4vtxD1UOxk"
+  }
+  ]
+  },
+  {
+  "title": "世界の美しさを思い知れ",
+  "views": 1,
+  "isbn": "B09NRHH7P6",
+  "data": [
+  {
+  "title": "大の本好きが最近読んだ本6選【2022年2月】",
+  "url": "https://www.youtube.com/watch?v=t4vtxD1UOxk"
+  }
+  ]
+  },
+  {
+  "title": "リボーンの棋士（１） (ビッグコミックス)",
+  "views": 1,
+  "isbn": "B07H8WYCZ7",
+  "data": [
+  {
+  "title": "将棋好きが選ぶ 将棋漫画3選",
+  "url": "https://www.youtube.com/watch?v=lUtkKTUFcoQ"
+  }
+  ]
+  },
+  {
+  "title": "月下の棋士（１） (ビッグコミックス)",
+  "views": 1,
+  "isbn": "B009JZHIDO",
+  "data": [
+  {
+  "title": "将棋好きが選ぶ 将棋漫画3選",
+  "url": "https://www.youtube.com/watch?v=lUtkKTUFcoQ"
+  }
+  ]
+  },
+  {
+  "title": "ハチワンダイバー 1 (ヤングジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B009LHBZL6",
+  "data": [
+  {
+  "title": "将棋好きが選ぶ 将棋漫画3選",
+  "url": "https://www.youtube.com/watch?v=lUtkKTUFcoQ"
+  }
+  ]
+  },
+  {
+  "title": "へうげもの（１） (モーニングコミックス)",
+  "views": 1,
+  "isbn": "B009KYBZPG",
+  "data": [
+  {
+  "title": "眼球サハラ砂漠の男を本気で泣かせてみた",
+  "url": "https://www.youtube.com/watch?v=8hgjYRdENsI"
+  }
+  ]
+  },
+  {
+  "title": "へうげもの（９） (モーニングコミックス)",
+  "views": 1,
+  "isbn": "B009KYC0BE",
+  "data": [
+  {
+  "title": "眼球サハラ砂漠の男を本気で泣かせてみた",
+  "url": "https://www.youtube.com/watch?v=8hgjYRdENsI"
+  }
+  ]
+  },
+  {
+  "title": "変半身 (ちくま文庫)",
+  "views": 1,
+  "isbn": "B09SZ94FWL",
+  "data": [
+  {
+  "title": "大好きな村田沙耶香作品を紹介します",
+  "url": "https://www.youtube.com/watch?v=GkzHcq5O3-M"
+  }
+  ]
+  },
+  {
+  "title": "しろいろの街の、その骨の体温の",
+  "views": 1,
+  "isbn": "B00BTQBMHE",
+  "data": [
+  {
+  "title": "大好きな村田沙耶香作品を紹介します",
+  "url": "https://www.youtube.com/watch?v=GkzHcq5O3-M"
+  }
+  ]
+  },
+  {
+  "title": "賭博黙示録 カイジ　１",
+  "views": 1,
+  "isbn": "B00E3R9ZRA",
+  "data": [
+  {
+  "title": "漫画の名言6選",
+  "url": "https://www.youtube.com/watch?v=Mcz2-R7Nfn0"
+  }
+  ]
+  },
+  {
+  "title": "呪術廻戦 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B07D58KR39",
+  "data": [
+  {
+  "title": "漫画の名言6選",
+  "url": "https://www.youtube.com/watch?v=Mcz2-R7Nfn0"
+  }
+  ]
+  },
+  {
+  "title": "Day to Day",
+  "views": 1,
+  "isbn": "9784065218426",
+  "data": [
+  {
+  "title": "めちゃくちゃ短い！掌編小説6選",
+  "url": "https://www.youtube.com/watch?v=YrNsUBeB3P8"
+  }
+  ]
+  },
+  {
+  "title": "短劇 (光文社文庫)",
+  "views": 1,
+  "isbn": "B00ATZXJZE",
+  "data": [
+  {
+  "title": "めちゃくちゃ短い！掌編小説6選",
+  "url": "https://www.youtube.com/watch?v=YrNsUBeB3P8"
+  }
+  ]
+  },
+  {
+  "title": "意味がわかるとゾクゾクする超短編小説 54字の百物語 54字の物語",
+  "views": 1,
+  "isbn": "B08F4YJ78K",
+  "data": [
+  {
+  "title": "めちゃくちゃ短い！掌編小説6選",
+  "url": "https://www.youtube.com/watch?v=YrNsUBeB3P8"
+  }
+  ]
+  },
+  {
+  "title": "教室が、ひとりになるまで (角川文庫)",
+  "views": 1,
+  "isbn": "B08SBLT4Q8",
+  "data": [
+  {
+  "title": "【結果発表】第1回帯文選手権",
+  "url": "https://www.youtube.com/watch?v=4288dEYhP4I"
+  }
+  ]
+  },
+  {
+  "title": "私が失敗した理由は (講談社文庫)",
+  "views": 1,
+  "isbn": "B07XCM9ZKQ",
+  "data": [
+  {
+  "title": "【結果発表】第1回帯文選手権",
+  "url": "https://www.youtube.com/watch?v=4288dEYhP4I"
+  }
+  ]
+  },
+  {
+  "title": "私が大好きな小説家を殺すまで (メディアワークス文庫)",
+  "views": 1,
+  "isbn": "B07JLJZMTK",
+  "data": [
+  {
+  "title": "【結果発表】第1回帯文選手権",
+  "url": "https://www.youtube.com/watch?v=4288dEYhP4I"
+  }
+  ]
+  },
+  {
+  "title": "ツバキ文具店",
+  "views": 1,
+  "isbn": "9784344029279",
+  "data": [
+  {
+  "title": "【結果発表】第1回帯文選手権",
+  "url": "https://www.youtube.com/watch?v=4288dEYhP4I"
+  }
+  ]
+  },
+  {
+  "title": "木曜殺人クラブ (ハヤカワ・ミステリ)",
+  "views": 1,
+  "isbn": "B09DRVVTZD",
+  "data": [
+  {
+  "title": "【結果発表】第1回帯文選手権",
+  "url": "https://www.youtube.com/watch?v=4288dEYhP4I"
+  }
+  ]
+  },
+  {
+  "title": "ジョジョの奇妙な冒険 第1部 ファントムブラッド 1 ジョジョの奇妙な冒険 第1部 モノクロ版 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B009LHC7A4",
+  "data": [
+  {
+  "title": "今からでも遅くない！ジョジョの魅力をアツく授業します！",
+  "url": "https://www.youtube.com/watch?v=5UhnUaS6aZg"
+  }
+  ]
+  },
+  {
+  "title": "非ユークリッド幾何の世界　新装版　幾何学の原点をさぐる (ブルーバックス)",
+  "views": 1,
+  "isbn": "B00ORJPKL4",
+  "data": [
+  {
+  "title": "科学の本を手に取ってみよう【ブルーバックス】",
+  "url": "https://www.youtube.com/watch?v=BayGzRyWelI"
+  }
+  ]
+  },
+  {
+  "title": "「余剰次元」と逆二乗則の破れ　我々の世界は本当に三次元か？ (ブルーバックス)",
+  "views": 1,
+  "isbn": "B00J9YQFCU",
+  "data": [
+  {
+  "title": "科学の本を手に取ってみよう【ブルーバックス】",
+  "url": "https://www.youtube.com/watch?v=BayGzRyWelI"
+  }
+  ]
+  },
+  {
+  "title": "ジョジョの奇妙な冒険 第3部 スターダストクルセイダース 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B009LHC7H2",
+  "data": [
+  {
+  "title": "漫画のベストマッチ6選",
+  "url": "https://www.youtube.com/watch?v=foIq5gCq2wA"
+  }
+  ]
+  },
+  {
+  "title": "遊☆戯☆王 モノクロ版 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B00BJ0F0VY",
+  "data": [
+  {
+  "title": "漫画のベストマッチ6選",
+  "url": "https://www.youtube.com/watch?v=foIq5gCq2wA"
+  }
+  ]
+  },
+  {
+  "title": "ガラスの仮面 1 (花とゆめCOMICS)",
+  "views": 1,
+  "isbn": "9784592110910",
+  "data": [
+  {
+  "title": "漫画のベストマッチ6選",
+  "url": "https://www.youtube.com/watch?v=foIq5gCq2wA"
+  }
+  ]
+  },
+  {
+  "title": "変な家",
+  "views": 1,
+  "isbn": "B099WXTY6W",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本6選【2021年12月】",
+  "url": "https://www.youtube.com/watch?v=0yv3boIML5Q"
+  }
+  ]
+  },
+  {
+  "title": "川のほとりで羽化するぼくら (角川書店単行本)",
+  "views": 1,
+  "isbn": "B09C7K1J4P",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本6選【2021年12月】",
+  "url": "https://www.youtube.com/watch?v=0yv3boIML5Q"
+  }
+  ]
+  },
+  {
+  "title": "リアル脱出ゲームブックvol.1 ルネと不思議な箱: その町で少女は過去の夢を見る",
+  "views": 1,
+  "isbn": "9784990900427",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本6選【2021年12月】",
+  "url": "https://www.youtube.com/watch?v=0yv3boIML5Q"
+  }
+  ]
+  },
+  {
+  "title": "甘いお酒でうがい (単行本)",
+  "views": 1,
+  "isbn": "B07NR9CGFG",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本6選【2021年12月】",
+  "url": "https://www.youtube.com/watch?v=0yv3boIML5Q"
+  }
+  ]
+  },
+  {
+  "title": "宇宙飛行士は見た　宇宙に行ったらこうだった！",
+  "views": 1,
+  "isbn": "B08N9M45Y7",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本6選【2021年12月】",
+  "url": "https://www.youtube.com/watch?v=0yv3boIML5Q"
+  }
+  ]
+  },
+  {
+  "title": "愛の色いろ",
+  "views": 1,
+  "isbn": "B084SBF6P9",
+  "data": [
+  {
+  "title": "読書オタクが最近読んだ本6選【2021年12月】",
+  "url": "https://www.youtube.com/watch?v=0yv3boIML5Q"
+  }
+  ]
+  },
+  {
+  "title": "どちらかが彼女を殺した (講談社文庫)",
+  "views": 1,
+  "isbn": "9784062645751",
+  "data": [
+  {
+  "title": "未解決ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=qxmOhgeyksE"
+  }
+  ]
+  },
+  {
+  "title": "微笑む人 (実業之日本社文庫)",
+  "views": 1,
+  "isbn": "B0168E5VXW",
+  "data": [
+  {
+  "title": "未解決ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=qxmOhgeyksE"
+  }
+  ]
+  },
+  {
+  "title": "銃 (河出文庫)",
+  "views": 1,
+  "isbn": "9784309411668",
+  "data": [
+  {
+  "title": "読書オタクが選ぶ純文学入門3選",
+  "url": "https://www.youtube.com/watch?v=UfIn7d4tWWg"
+  }
+  ]
+  },
+  {
+  "title": "乳と卵",
+  "views": 1,
+  "isbn": "B00NOCWRNE",
+  "data": [
+  {
+  "title": "読書オタクが選ぶ純文学入門3選",
+  "url": "https://www.youtube.com/watch?v=UfIn7d4tWWg"
+  }
+  ]
+  },
+  {
+  "title": "密室殺人ゲーム王手飛車取り (講談社文庫)",
+  "views": 1,
+  "isbn": "B07KLSL2M2",
+  "data": [
+  {
+  "title": "主人公がヤバい小説6選",
+  "url": "https://www.youtube.com/watch?v=xQp7HeGv9Ag"
+  }
+  ]
+  },
+  {
+  "title": "悪の教典（上） (文春文庫)",
+  "views": 1,
+  "isbn": "B0099O0F4O",
+  "data": [
+  {
+  "title": "主人公がヤバい小説6選",
+  "url": "https://www.youtube.com/watch?v=xQp7HeGv9Ag"
+  }
+  ]
+  },
+  {
+  "title": "悪の教典（下） (文春文庫)",
+  "views": 1,
+  "isbn": "B0099O0EHC",
+  "data": [
+  {
+  "title": "主人公がヤバい小説6選",
+  "url": "https://www.youtube.com/watch?v=xQp7HeGv9Ag"
+  }
+  ]
+  },
+  {
+  "title": "掟上今日子の備忘録（単行本版） 忘却探偵",
+  "views": 1,
+  "isbn": "B00NXIJY0I",
+  "data": [
+  {
+  "title": "主人公がヤバい小説6選",
+  "url": "https://www.youtube.com/watch?v=xQp7HeGv9Ag"
+  }
+  ]
+  },
+  {
+  "title": "カラスの親指　ｂｙ　ｒｕｌｅ　ｏｆ　ＣＲＯＷ’ｓ　ｔｈｕｍｂ (講談社文庫)",
+  "views": 1,
+  "isbn": "B009SM14DS",
+  "data": [
+  {
+  "title": "ミステリマニアが選ぶミステリ入門3選",
+  "url": "https://www.youtube.com/watch?v=KRIZo9ybZd4"
+  }
+  ]
+  },
+  {
+  "title": "「ミステリーの館」へ、ようこそ　名探偵夢水清志郎事件ノート (講談社青い鳥文庫)",
+  "views": 1,
+  "isbn": "B00LP6E2O8",
+  "data": [
+  {
+  "title": "子供の頃に影響を受けた本",
+  "url": "https://www.youtube.com/watch?v=LfZs-dsrWFc"
+  }
+  ]
+  },
+  {
+  "title": "パスワードは、ひ・み・つ　ｎｅｗ（改訂版）　風浜電子探偵団事件ノート１ (講談社青い鳥文庫)",
+  "views": 1,
+  "isbn": "B018SD2LQQ",
+  "data": [
+  {
+  "title": "子供の頃に影響を受けた本",
+  "url": "https://www.youtube.com/watch?v=LfZs-dsrWFc"
+  }
+  ]
+  },
+  {
+  "title": "怪盗クイーンはサーカスがお好き (講談社青い鳥文庫)",
+  "views": 1,
+  "isbn": "B0196UCIO0",
+  "data": [
+  {
+  "title": "子供の頃に影響を受けた本",
+  "url": "https://www.youtube.com/watch?v=LfZs-dsrWFc"
+  }
+  ]
+  },
+  {
+  "title": "イニシエーション・ラブ (文春文庫)",
+  "views": 1,
+  "isbn": "B009FUWQ8A",
+  "data": [
+  {
+  "title": "ミステリマニアが選ぶ 伏線がすごい小説3選",
+  "url": "https://www.youtube.com/watch?v=ik-u57xU4zg"
+  }
+  ]
+  },
+  {
+  "title": "トリリオンゲーム（１） (ビッグコミックス)",
+  "views": 1,
+  "isbn": "B08YJWRJ4V",
+  "data": [
+  {
+  "title": "次に大ヒットするのはこの漫画！？次世代漫画4選",
+  "url": "https://www.youtube.com/watch?v=XPpwHpYe-1Y"
+  }
+  ]
+  },
+  {
+  "title": "スーパーベイビー　１巻 (ラバココミックス)",
+  "views": 1,
+  "isbn": "B07PCNCHQH",
+  "data": [
+  {
+  "title": "次に大ヒットするのはこの漫画！？次世代漫画4選",
+  "url": "https://www.youtube.com/watch?v=XPpwHpYe-1Y"
+  }
+  ]
+  },
+  {
+  "title": "スーサイドガール 1 (ヤングジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B08BFGYKYS",
+  "data": [
+  {
+  "title": "次に大ヒットするのはこの漫画！？次世代漫画4選",
+  "url": "https://www.youtube.com/watch?v=XPpwHpYe-1Y"
+  }
+  ]
+  },
+  {
+  "title": "Ａｎｏｔｈｅｒ （上） Another (角川文庫)",
+  "views": 1,
+  "isbn": "B00961E690",
+  "data": [
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  }
+  ]
+  },
+  {
+  "title": "Ａｎｏｔｈｅｒ （下） Another (角川文庫)",
+  "views": 1,
+  "isbn": "B00961E6K4",
+  "data": [
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  }
+  ]
+  },
+  {
+  "title": "Heaven",
+  "views": 1,
+  "isbn": "9781509898244",
+  "data": [
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  }
+  ]
+  },
+  {
+  "title": "落花生",
+  "views": 1,
+  "isbn": "9784866250663",
+  "data": [
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  }
+  ]
+  },
+  {
+  "title": "告白 (双葉文庫)",
+  "views": 1,
+  "isbn": "B087WZ4P2K",
+  "data": [
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  }
+  ]
+  },
+  {
+  "title": "イキルキス (講談社文庫)",
+  "views": 1,
+  "isbn": "B01DLYGWWG",
+  "data": [
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  }
+  ]
+  },
+  {
+  "title": "秘密のレプタイルズ（１） (裏少年サンデーコミックス)",
+  "views": 1,
+  "isbn": "B01LEMKKSE",
+  "data": [
+  {
+  "title": "コアな漫画6選",
+  "url": "https://www.youtube.com/watch?v=it2Rja14Tdo"
+  }
+  ]
+  },
+  {
+  "title": "刷ったもんだ！（１） (モーニングコミックス)",
+  "views": 1,
+  "isbn": "B08CR4KJHG",
+  "data": [
+  {
+  "title": "コアな漫画6選",
+  "url": "https://www.youtube.com/watch?v=it2Rja14Tdo"
+  }
+  ]
+  },
+  {
+  "title": "数学ゴールデン 1 (ヤングアニマルコミックス)",
+  "views": 1,
+  "isbn": "B088ZSJWN2",
+  "data": [
+  {
+  "title": "コアな漫画6選",
+  "url": "https://www.youtube.com/watch?v=it2Rja14Tdo"
+  }
+  ]
+  },
+  {
+  "title": "琥珀の夢で酔いましょう 1巻 (マッグガーデンコミックスＥＤＥＮシリーズ)",
+  "views": 1,
+  "isbn": "B07QB7BFCT",
+  "data": [
+  {
+  "title": "コアな漫画6選",
+  "url": "https://www.youtube.com/watch?v=it2Rja14Tdo"
+  }
+  ]
+  },
+  {
+  "title": "銀の匙 Silver Spoon（１） (少年サンデーコミックス)",
+  "views": 1,
+  "isbn": "B00BP7M08C",
+  "data": [
+  {
+  "title": "コアな漫画6選",
+  "url": "https://www.youtube.com/watch?v=it2Rja14Tdo"
+  }
+  ]
+  },
+  {
+  "title": "ピンクとグレー (角川文庫)",
+  "views": 1,
+  "isbn": "9784041012185",
+  "data": [
+  {
+  "title": "芸能人が書いた本を紹介します！",
+  "url": "https://www.youtube.com/watch?v=aru0laDPqJI"
+  }
+  ]
+  },
+  {
+  "title": "トラペジウム (角川文庫)",
+  "views": 1,
+  "isbn": "B086YJK7MC",
+  "data": [
+  {
+  "title": "芸能人が書いた本を紹介します！",
+  "url": "https://www.youtube.com/watch?v=aru0laDPqJI"
+  }
+  ]
+  },
+  {
+  "title": "イルカも泳ぐわい。",
+  "views": 1,
+  "isbn": "B08N9JXMC6",
+  "data": [
+  {
+  "title": "芸能人が書いた本を紹介します！",
+  "url": "https://www.youtube.com/watch?v=aru0laDPqJI"
+  }
+  ]
+  },
+  {
+  "title": "高木ブー画集 - ドリフターズとともに - (ワニプラス)",
+  "views": 1,
+  "isbn": "9784847099984",
+  "data": [
+  {
+  "title": "芸能人が書いた本を紹介します！",
+  "url": "https://www.youtube.com/watch?v=aru0laDPqJI"
+  }
+  ]
+  },
+  {
+  "title": "私たちが星座を盗んだ理由 (講談社文庫)",
+  "views": 1,
+  "isbn": "B00KRA3GJU",
+  "data": [
+  {
+  "title": "時間がないあなたへ　短編ミステリ3選",
+  "url": "https://www.youtube.com/watch?v=1_7m3cgGQ0c"
+  }
+  ]
+  },
+  {
+  "title": "感応グラン＝ギニョル (創元日本ＳＦ叢書)",
+  "views": 1,
+  "isbn": "B0982VZYJ3",
+  "data": [
+  {
+  "title": "本好きが最近読んだ本【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=quLMDVkhWhI"
+  }
+  ]
+  },
+  {
+  "title": "「顔」の進化　あなたの顔はどこからきたのか (ブルーバックス)",
+  "views": 1,
+  "isbn": "B08SQLX22X",
+  "data": [
+  {
+  "title": "本好きが最近読んだ本【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=quLMDVkhWhI"
+  }
+  ]
+  },
+  {
+  "title": "天使と悪魔のシネマ",
+  "views": 1,
+  "isbn": "B08W1Y151B",
+  "data": [
+  {
+  "title": "本好きが最近読んだ本【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=quLMDVkhWhI"
+  }
+  ]
+  },
+  {
+  "title": "情報を正しく選択するための認知バイアス事典",
+  "views": 1,
+  "isbn": "B092441Z5F",
+  "data": [
+  {
+  "title": "本好きが最近読んだ本【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=quLMDVkhWhI"
+  }
+  ]
+  },
+  {
+  "title": "岩とからあげをまちがえる (ちいさいミシマ社)",
+  "views": 1,
+  "isbn": "9784909394446",
+  "data": [
+  {
+  "title": "本好きが最近読んだ本【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=quLMDVkhWhI"
+  }
+  ]
+  },
+  {
+  "title": "読書は1冊のノートにまとめなさい[完全版]",
+  "views": 1,
+  "isbn": "B00H286CHI",
+  "data": [
+  {
+  "title": "何か1つでも心に残ればいい！ビジネス書3選",
+  "url": "https://www.youtube.com/watch?v=VOABoBqTTLw"
+  }
+  ]
+  },
+  {
+  "title": "共感SNS　丸く尖る発信で仕事を創る (幻冬舎単行本)",
+  "views": 1,
+  "isbn": "B07RPTGDX5",
+  "data": [
+  {
+  "title": "何か1つでも心に残ればいい！ビジネス書3選",
+  "url": "https://www.youtube.com/watch?v=VOABoBqTTLw"
+  }
+  ]
+  },
+  {
+  "title": "フリー　―＜無料＞からお金を生みだす新戦略",
+  "views": 1,
+  "isbn": "B009UVJQMS",
+  "data": [
+  {
+  "title": "何か1つでも心に残ればいい！ビジネス書3選",
+  "url": "https://www.youtube.com/watch?v=VOABoBqTTLw"
+  }
+  ]
+  },
+  {
+  "title": "文藝 2021年秋季号",
+  "views": 1,
+  "isbn": "B096TL8ZVV",
+  "data": [
+  {
+  "title": "読書マニアが最近読んだ５冊【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=dLUbPaUp0R4"
+  }
+  ]
+  },
+  {
+  "title": "エラー",
+  "views": 1,
+  "isbn": "B095GQKRXP",
+  "data": [
+  {
+  "title": "読書マニアが最近読んだ５冊【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=dLUbPaUp0R4"
+  }
+  ]
+  },
+  {
+  "title": "Phantom (文春e-book)",
+  "views": 1,
+  "isbn": "B098QLV9KQ",
+  "data": [
+  {
+  "title": "読書マニアが最近読んだ５冊【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=dLUbPaUp0R4"
+  }
+  ]
+  },
+  {
+  "title": "武士とジェントルマン (角川書店単行本)",
+  "views": 1,
+  "isbn": "B091DDSN3T",
+  "data": [
+  {
+  "title": "読書マニアが最近読んだ５冊【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=dLUbPaUp0R4"
+  }
+  ]
+  },
+  {
+  "title": "あなたにオススメの",
+  "views": 1,
+  "isbn": "B0969MQQ7S",
+  "data": [
+  {
+  "title": "読書マニアが最近読んだ５冊【2021年9月】",
+  "url": "https://www.youtube.com/watch?v=dLUbPaUp0R4"
+  }
+  ]
+  },
+  {
+  "title": "グラップラー刃牙　1 (少年チャンピオン・コミックス)",
+  "views": 1,
+  "isbn": "B00AQY7IFK",
+  "data": [
+  {
+  "title": "文学女子が初めて『グラップラー刃牙』を読んだら",
+  "url": "https://www.youtube.com/watch?v=GDrwfaOY8CQ"
+  }
+  ]
+  },
+  {
+  "title": "博士の愛した数式（新潮文庫）",
+  "views": 1,
+  "isbn": "B0096PE362",
+  "data": [
+  {
+  "title": "読書感想文にピッタリな本を６冊紹介します",
+  "url": "https://www.youtube.com/watch?v=urVmfbkAnPg"
+  }
+  ]
+  },
+  {
+  "title": "片眼の猿―One-eyed monkeys―（新潮文庫）",
+  "views": 1,
+  "isbn": "B09MD2ZHBR",
+  "data": [
+  {
+  "title": "読書感想文にピッタリな本を６冊紹介します",
+  "url": "https://www.youtube.com/watch?v=urVmfbkAnPg"
+  }
+  ]
+  },
+  {
+  "title": "クラインの壷 (講談社文庫)",
+  "views": 1,
+  "isbn": "B00BB1ZVYM",
+  "data": [
+  {
+  "title": "読書感想文にピッタリな本を６冊紹介します",
+  "url": "https://www.youtube.com/watch?v=urVmfbkAnPg"
+  }
+  ]
+  },
+  {
+  "title": "【第165回直木賞受賞作】星落ちて、なお (文春e-book)",
+  "views": 1,
+  "isbn": "B094HZY84B",
+  "data": [
+  {
+  "title": "【第165回】直木賞候補作を全て読んで紹介します【全5冊】",
+  "url": "https://www.youtube.com/watch?v=ee3x4jrXIpw"
+  }
+  ]
+  },
+  {
+  "title": "雷神",
+  "views": 1,
+  "isbn": "B094HTMNNC",
+  "data": [
+  {
+  "title": "「ほんタメ文学賞2021年上半期」候補作発表！！",
+  "url": "https://www.youtube.com/watch?v=YJl2jj4RY_o"
+  }
+  ]
+  },
+  {
+  "title": "神の悪手",
+  "views": 1,
+  "isbn": "B094HTMGLJ",
+  "data": [
+  {
+  "title": "「ほんタメ文学賞2021年上半期」候補作発表！！",
+  "url": "https://www.youtube.com/watch?v=YJl2jj4RY_o"
+  }
+  ]
+  },
+  {
+  "title": "ひきなみ (角川書店単行本)",
+  "views": 1,
+  "isbn": "B092LKJY41",
+  "data": [
+  {
+  "title": "「ほんタメ文学賞2021年上半期」候補作発表！！",
+  "url": "https://www.youtube.com/watch?v=YJl2jj4RY_o"
+  }
+  ]
+  },
+  {
+  "title": "ブラザーズ・ブラジャー",
+  "views": 1,
+  "isbn": "B098722V88",
+  "data": [
+  {
+  "title": "「ほんタメ文学賞2021年上半期」候補作発表！！",
+  "url": "https://www.youtube.com/watch?v=YJl2jj4RY_o"
+  }
+  ]
+  },
+  {
+  "title": "YouTube作家的思考 (扶桑社ＢＯＯＫＳ新書)",
+  "views": 1,
+  "isbn": "B08GSDDVR1",
+  "data": [
+  {
+  "title": "【全5冊】最近読んでいる本を紹介します【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=9ijM8y7G5JQ"
+  }
+  ]
+  },
+  {
+  "title": "しつこく わるい食べもの",
+  "views": 1,
+  "isbn": "9784834253436",
+  "data": [
+  {
+  "title": "【全5冊】最近読んでいる本を紹介します【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=9ijM8y7G5JQ"
+  }
+  ]
+  },
+  {
+  "title": "両生類・爬虫類のふしぎ　肺がないカエルの呼吸方法は？　翼を広げて空を飛ぶトカゲとは？ サイエンス・アイ新書",
+  "views": 1,
+  "isbn": "B00OZ63SE0",
+  "data": [
+  {
+  "title": "【全5冊】最近読んでいる本を紹介します【2021年6月】",
+  "url": "https://www.youtube.com/watch?v=9ijM8y7G5JQ"
+  }
+  ]
+  },
+  {
+  "title": "絶体絶命 でんぢゃらすじーさん（１） 絶体絶命　でんぢゃらすじーさん (てんとう虫コミックス)",
+  "views": 1,
+  "isbn": "B00D3CG8JE",
+  "data": [
+  {
+  "title": "懐かしのコロコロコミックを熱く語ります【90年代生まれ集合】",
+  "url": "https://www.youtube.com/watch?v=WuTexACfPrs"
+  }
+  ]
+  },
+  {
+  "title": "ドラベース ドラえもん超野球（スーパーベースボール）外伝（１） (てんとう虫コミックス)",
+  "views": 1,
+  "isbn": "B08DR8VRXW",
+  "data": [
+  {
+  "title": "懐かしのコロコロコミックを熱く語ります【90年代生まれ集合】",
+  "url": "https://www.youtube.com/watch?v=WuTexACfPrs"
+  }
+  ]
+  },
+  {
+  "title": "コロッケ！（１） (てんとう虫コミックス)",
+  "views": 1,
+  "isbn": "B00CY236Y4",
+  "data": [
+  {
+  "title": "懐かしのコロコロコミックを熱く語ります【90年代生まれ集合】",
+  "url": "https://www.youtube.com/watch?v=WuTexACfPrs"
+  }
+  ]
+  },
+  {
+  "title": "滅びの前のシャングリラ",
+  "views": 1,
+  "isbn": "B08L69HVF2",
+  "data": [
+  {
+  "title": "【2021年本屋大賞】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=ccl8e8LQjOc"
+  }
+  ]
+  },
+  {
+  "title": "紳士同盟＋ 1 (りぼんマスコットコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B00H7VO7UO",
+  "data": [
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
+  }
+  ]
+  },
+  {
+  "title": "愛してるぜベイベ★★ 1 (りぼんマスコットコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B00ULACONK",
+  "data": [
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
+  }
+  ]
+  },
+  {
+  "title": "東京ミュウミュウ　なかよし６０周年記念版（１） (なかよしコミックス)",
+  "views": 1,
+  "isbn": "B015Z5ZOHI",
+  "data": [
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
+  }
+  ]
+  },
+  {
+  "title": "カードキャプターさくら（１） (なかよしコミックス)",
+  "views": 1,
+  "isbn": "B009KYCSPC",
+  "data": [
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
+  }
+  ]
+  },
+  {
+  "title": "シュガシュガルーン（１） (なかよしコミックス)",
+  "views": 1,
+  "isbn": "B00B8EX40U",
+  "data": [
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
+  }
+  ]
+  },
+  {
+  "title": "シンデレラコレクション（１） (ちゃおコミックス)",
+  "views": 1,
+  "isbn": "B08X4KWPLL",
+  "data": [
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
+  }
+  ]
+  },
+  {
+  "title": "ビューティー ポップ（１） (ちゃおコミックス)",
+  "views": 1,
+  "isbn": "B00PXZV6M8",
+  "data": [
+  {
+  "title": "【2000年代】『りぼん』『ちゃお』『なかよし』の神漫画紹介します。",
+  "url": "https://www.youtube.com/watch?v=-AtKraM67UQ"
+  }
+  ]
+  },
+  {
+  "title": "九龍ジェネリックロマンス 1 (ヤングジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B0847GWL5F",
+  "data": [
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "メタモルフォーゼの縁側(1) (カドカワデジタルコミックス)",
+  "views": 1,
+  "isbn": "B07CJ9RJFY",
+  "data": [
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "女の園の星（１）【電子限定特典付】 (FEEL COMICS swing)",
+  "views": 1,
+  "isbn": "B089SNF6PZ",
+  "data": [
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "怪獣8号 1 (ジャンプコミックスDIGITAL)",
+  "views": 1,
+  "isbn": "B08LYSV5PL",
+  "data": [
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "水は海に向かって流れる（１） (週刊少年マガジンコミックス)",
+  "views": 1,
+  "isbn": "B07R3BKVGG",
+  "data": [
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "カラオケ行こ！ (ビームコミックス)",
+  "views": 1,
+  "isbn": "B08H1H46F5",
+  "data": [
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "チ。―地球の運動について―（１） (ビッグコミックス)",
+  "views": 1,
+  "isbn": "B08P5GG18C",
+  "data": [
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "葬送のフリーレン（１） (少年サンデーコミックス)",
+  "views": 1,
+  "isbn": "B08FDH57JT",
+  "data": [
+  {
+  "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
+  "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  }
+  ]
+  }
 
 export default books
