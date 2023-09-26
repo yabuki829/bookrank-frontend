@@ -38,13 +38,24 @@ export default function Home() {
   console.log("Can fetch more?", hasMore);
 
   return (
-    <div className='m-4 md:m-auto  md:w-2/3'>
-
+    <div className=''>
       <Header/>
-      <div>
+      <div className='m-4 md:m-auto  md:w-2/3'>
+
+      
+      <div className='py-3  md:text-center'>
         <p >ブックランクではYoutube上で紹介されている本を集計してランキングを作成したものです。</p>
+       
       </div>
-      <h1>本のランキング</h1>
+      <p className='bg-blue-400 text-white p-2'>今後の予定</p>
+        <ul>
+          <li>1. 一定期間でのランキング</li>
+          <li>2. 検索機能</li>
+          <li>3. ランキング順位の決め方の変更</li>
+          <li>4. カテゴリごとのランキング</li>
+          <li></li>
+        </ul>
+      <br />
       <InfiniteScroll
         onScroll={() => console.log("Scrolling...")}
         dataLength={allData.length}
@@ -56,7 +67,7 @@ export default function Home() {
       >
         {allData.map((book, index) => (
           <>
-          <h2 className='md:text-3xl font-bold border-b border-gray-400'>{index + 1}. {book.title}</h2>
+          <h2 className='bg-blue-400 p-2 text-white md:text-3xl font-bold '>{index + 1}. {book.title}</h2>
           
           <br />
           <div className='flex flex-col md:flex-row justify-start ' key={index}>      
@@ -64,7 +75,8 @@ export default function Home() {
 
 
             <div className='md:pl-10  '> 
-            <h2 className='text-2xl font-bold text-center py-4 md:py-0'> - 関連動画 -</h2>
+            <h2 className='text-2xl font-bold text-center pt-4 md:py-0 border-b border-gray-400 '> - 関連動画 -</h2>
+
                 <ul>
                 
                   {book.data.map((video, idx) => (
@@ -88,6 +100,8 @@ export default function Home() {
           
         ))}
       </InfiniteScroll>
+      </div>
+     
       
     </div>
   )
