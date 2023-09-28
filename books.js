@@ -1,5 +1,5 @@
 const books = {
-  "total_books": 3144,
+  "total_books": 3146,
   "books": [
   {
   "title": "早わかり日本史",
@@ -11448,6 +11448,10 @@ const books = {
   {
   "title": "【世界最高の話し方①】人生はいつからでも話し方で劇的に変えられる（Tips from the World's Greatest Communicators）",
   "url": "https://www.youtube.com/watch?v=ITHbu8p7N8Q"
+  },
+  {
+  "title": "【本要約】世界最高の話し方（著者；岡本 純子 氏）",
+  "url": "https://www.youtube.com/watch?v=2Gt6JJBDuI0"
   }
   ]
   },
@@ -40346,6 +40350,28 @@ const books = {
   {
   "title": "【マンガ大賞2021】ノミネート作品全て紹介します【10作品】",
   "url": "https://www.youtube.com/watch?v=rroho0pVf4I"
+  }
+  ]
+  },
+  {
+  "title": "叩かれるから今まで黙っておいた「世の中の真実」 (単行本)",
+  "views": 0,
+  "isbn": "9784837928430",
+  "data": [
+  {
+  "title": "【本要約】叩かれるから今まで黙っておいた「世の中の真実」（著者；ひろゆき 氏）",
+  "url": "https://www.youtube.com/watch?v=4tLDMvA5fPE"
+  }
+  ]
+  },
+  {
+  "title": "誰もが人を動かせる! あなたの人生を変えるリーダーシップ革命",
+  "views": 0,
+  "isbn": "9784296108008",
+  "data": [
+  {
+  "title": "【本要約】誰もが人を動かせる! あなたの人生を変えるリーダーシップ革命 （著者；森岡毅 氏）",
+  "url": "https://www.youtube.com/watch?v=4eKrIeWStZE"
   }
   ]
   }
