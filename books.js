@@ -1,5 +1,5 @@
 const books = {
-  "total_books": 3146,
+  "total_books": 3296,
   "books": [
   {
   "title": "早わかり日本史",
@@ -533,6 +533,10 @@ const books = {
   {
   "title": "【7つの習慣①】序章！",
   "url": "https://www.youtube.com/watch?v=HaTDjEhdDfc"
+  },
+  {
+  "title": "【本要約】７つの習慣　〜自己啓発の究極本〜",
+  "url": "https://www.youtube.com/watch?v=5t7UwH5RGSE"
   }
   ]
   },
@@ -1194,6 +1198,14 @@ const books = {
   {
   "title": "読書好きが最近読んだ本【2022年4月】",
   "url": "https://www.youtube.com/watch?v=rW_Um3JBLRg"
+  },
+  {
+  "title": "【本要約】人は話し方が９割 〜嫌われる人の話し方〜",
+  "url": "https://www.youtube.com/watch?v=Nu9s79eKinc"
+  },
+  {
+  "title": "人は話し方が9割｜話し方の本でBEST。紛れもなくNo.1です。",
+  "url": "https://www.youtube.com/watch?v=rl-BeD3BWRg"
   }
   ]
   },
@@ -2315,6 +2327,10 @@ const books = {
   {
   "title": "【金持ち父さん①】お金持ちになる手順",
   "url": "https://www.youtube.com/watch?v=57zybaVxc2o"
+  },
+  {
+  "title": "【本要約】金持ち父さんのキャッシュフロー・クワドラント　〜ファイナンシャルリテラシーを上げる本〜",
+  "url": "https://www.youtube.com/watch?v=3eu4eCvAfE4"
   }
   ]
   },
@@ -2361,6 +2377,14 @@ const books = {
   {
   "title": "【15分で解説】人の行動を操る心理的トリガーとは『シュガーマンのマーケティング30の法則』",
   "url": "https://www.youtube.com/watch?v=WuKjWPik4OI"
+  },
+  {
+  "title": "【本要約】（後編）影響力の武器　なぜ、人は動かされるのか（著；ロバート・B・チャルディーニ 氏）",
+  "url": "https://www.youtube.com/watch?v=FVD_Ceobek0"
+  },
+  {
+  "title": "【本要約】（前編）影響力の武器　なぜ、人は動かされるのか（著；ロバート・B・チャルディーニ 氏）",
+  "url": "https://www.youtube.com/watch?v=12ffYct5Uhg"
   }
   ]
   },
@@ -2752,6 +2776,10 @@ const books = {
   {
   "title": "【7分で解説】やり抜く人の9つの習慣【コロンビア大学の成功の科学】",
   "url": "https://www.youtube.com/watch?v=qNNXUzvtrDo"
+  },
+  {
+  "title": "【本要約】やり抜く人の9つの習慣（著；ハイディ・グラント・ハルバーソン 氏）",
+  "url": "https://www.youtube.com/watch?v=_UXB14pzRXM"
   }
   ]
   },
@@ -4308,6 +4336,10 @@ const books = {
   {
   "title": "【お金の増やし方①】世界のお金持ちが実践する資産形成術（How to Grow Your Money）",
   "url": "https://www.youtube.com/watch?v=VKA31naRrPw"
+  },
+  {
+  "title": "【本要約】世界のお金持ちが実践する　お金の増やし方（著者；高橋 ダン氏）",
+  "url": "https://www.youtube.com/watch?v=BIdaEWX5ct0"
   }
   ]
   },
@@ -4650,6 +4682,10 @@ const books = {
   {
   "title": "【稼げるビジネス①】今やってはいけないビジネスと稼げる原理原則（The Secret of Money Making）",
   "url": "https://www.youtube.com/watch?v=ln483Rjab78"
+  },
+  {
+  "title": "【本要約】金儲けのレシピ（著者；事業家bot 氏）",
+  "url": "https://www.youtube.com/watch?v=aqO8wxHwzik"
   }
   ]
   },
@@ -5125,6 +5161,10 @@ const books = {
   {
   "title": "【要約】１％の努力【ひろゆき】",
   "url": "https://www.youtube.com/watch?v=Qnqm0YoGAAw"
+  },
+  {
+  "title": "【本要約】1％の努力（著；ひろゆき 氏）",
+  "url": "https://www.youtube.com/watch?v=6XEYYGB-QoQ"
   }
   ]
   },
@@ -5239,6 +5279,10 @@ const books = {
   {
   "title": "【ゼロ秒思考①】思考を整理して悩みを解決するメモ術（Think Fast）",
   "url": "https://www.youtube.com/watch?v=qyI8Fx-sgW8"
+  },
+  {
+  "title": "【本要約】０秒思考　〜悩みが消える！頭の回転が速くなる本〜",
+  "url": "https://www.youtube.com/watch?v=oTRG7VDQqmU"
   }
   ]
   },
@@ -5410,6 +5454,10 @@ const books = {
   {
   "title": "【14分で解説】2025年を制覇する破壊的企業",
   "url": "https://www.youtube.com/watch?v=vChlt5T-fHg"
+  },
+  {
+  "title": "2025年を制覇する破壊的企業｜ドラえもんの世界はすぐそこだ！",
+  "url": "https://www.youtube.com/watch?v=25J8RdU5WCA"
   }
   ]
   },
@@ -5429,6 +5477,10 @@ const books = {
   {
   "title": "【要約】父が娘に伝える自由に生きるための30の投資の教え【ジェイエル・コリンズ】",
   "url": "https://www.youtube.com/watch?v=hcbkLSjycqc"
+  },
+  {
+  "title": "【本要約】父が娘に伝える自由に生きるための30の投資の教え（著；ジェイエル・コリンズ 氏）",
+  "url": "https://www.youtube.com/watch?v=MWxJlX9jBHs"
   }
   ]
   },
@@ -6075,6 +6127,10 @@ const books = {
   {
   "title": "【要約】ＧＩＶＥ ＆ ＴＡＫＥ「与える人」こそ成功する時代【アダム グラント】",
   "url": "https://www.youtube.com/watch?v=g95oxZ5TsO0"
+  },
+  {
+  "title": "126：ギブアンドテイク 与える人が成功する時代｜結局、ギブして成功している人ってどんな人？",
+  "url": "https://www.youtube.com/watch?v=9DK9sb6BO7w"
   }
   ]
   },
@@ -8553,6 +8609,10 @@ const books = {
   {
   "title": "【要約】身銭を切れ 「リスクを生きる」人だけが知っている人生の本質【ナシーム・ニコラス・タレブ】",
   "url": "https://www.youtube.com/watch?v=x3ps9EdxnRk"
+  },
+  {
+  "title": "【8分で解説】身銭を切れ｜挑戦しようとしている人の足を引っ張るようなクソカッコ悪い奴にはなるなよ！",
+  "url": "https://www.youtube.com/watch?v=zBUna9HYRYw"
   }
   ]
   },
@@ -9228,6 +9288,10 @@ const books = {
   {
   "title": "【14分で解説】幸福論　「しくじり」の哲学【中田敦彦】",
   "url": "https://www.youtube.com/watch?v=tH2wVgt1aoQ"
+  },
+  {
+  "title": "あっちゃんが成功した4つのコツ",
+  "url": "https://www.youtube.com/watch?v=IVxrd16XnTE"
   }
   ]
   },
@@ -9393,6 +9457,10 @@ const books = {
   {
   "title": "【要約】アイデアのつくり方【ジェームス W.ヤング】",
   "url": "https://www.youtube.com/watch?v=r6MMT69uiZU"
+  },
+  {
+  "title": "【本要約】アイデアのつくり方（著；ジェームス・W・ヤング 氏）",
+  "url": "https://www.youtube.com/watch?v=PiJ1EHgXXHg"
   }
   ]
   },
@@ -9543,6 +9611,10 @@ const books = {
   {
   "title": "【15分で解説】知らないと損するお金の知識【お金の大学】",
   "url": "https://www.youtube.com/watch?v=6rin3c1pp-o"
+  },
+  {
+  "title": "【本要約】本当の自由を手に入れる　お金の大学（著；両@リベ大学長 氏）",
+  "url": "https://www.youtube.com/watch?v=qRHz4zsU4Ig"
   }
   ]
   },
@@ -9648,6 +9720,10 @@ const books = {
   {
   "title": "【８分で解説】転職と副業のかけ算 ～生涯年収を最大化する生き方～【令和すぎる働き方】サラリーマン2.0",
   "url": "https://www.youtube.com/watch?v=5-iG9sS-l3A"
+  },
+  {
+  "title": "【8分で解説】転職と副業のかけ算｜で？あなたの年収っていくら？その理由は？",
+  "url": "https://www.youtube.com/watch?v=u_HtjEEVejs"
   }
   ]
   },
@@ -9663,6 +9739,10 @@ const books = {
   {
   "title": "【要約】イシューからはじめよ ― 知的生産の「シンプルな本質」 【安宅和人】",
   "url": "https://www.youtube.com/watch?v=9YGE1qRxmHA"
+  },
+  {
+  "title": "【凄本】イシューからはじめよ｜ここ10年で最高のビジネス書",
+  "url": "https://www.youtube.com/watch?v=KClAqAwH0zA"
   }
   ]
   },
@@ -11902,6 +11982,10 @@ const books = {
   {
   "title": "【やりたいことの見つけ方①】人生のモヤモヤから解放される自己理解メソッド（How to Find Out What You Want to Do in Life）",
   "url": "https://www.youtube.com/watch?v=sk23TqDytzI"
+  },
+  {
+  "title": "【本要約】世界一やさしい「やりたいこと」の見つけ方　人生のモヤモヤから解放される自己理解メソッド（著；八木仁平 氏）",
+  "url": "https://www.youtube.com/watch?v=mysSnFOrWl4"
   }
   ]
   },
@@ -11947,6 +12031,18 @@ const books = {
   {
   "title": "【働かないで生きていく①】最強の早期リタイア術〜遊んで暮らして金もある〜（FIRE）",
   "url": "https://www.youtube.com/watch?v=PfLaWgQNezk"
+  },
+  {
+  "title": "【ざわ...】FIRE 最強の早期リタイア術③｜実在する年収200万弁護士について",
+  "url": "https://www.youtube.com/watch?v=ZlUT8oYk0VY"
+  },
+  {
+  "title": "【ざわ...】FIRE 最強の早期リタイア術②｜お金持ちより普通の人の方がムダ使いが多いという事実",
+  "url": "https://www.youtube.com/watch?v=QD7yZBAe5u8"
+  },
+  {
+  "title": "【ざわ...】FIRE 最強の早期リタイア術①｜金は命より重い",
+  "url": "https://www.youtube.com/watch?v=xl0uCwKb7Qg"
   }
   ]
   },
@@ -12052,6 +12148,10 @@ const books = {
   {
   "title": "【山奥ニート①】なるべく働かずに楽して生きていく（Mountain NEETs）",
   "url": "https://www.youtube.com/watch?v=eQZ9XtI4ZIA"
+  },
+  {
+  "title": "141：「山奥ニート」やってます｜超ど田舎で稼ぐ4つの方法",
+  "url": "https://www.youtube.com/watch?v=N9c0RxYepHo"
   }
   ]
   },
@@ -12547,6 +12647,10 @@ const books = {
   {
   "title": "【コロナ後の経済①】リーマンショックを超える経済危機からの復興計画",
   "url": "https://www.youtube.com/watch?v=ZuIXI6uILDc"
+  },
+  {
+  "title": "【必読】コロナショックサバイバル｜コロナの後、何が起こる？",
+  "url": "https://www.youtube.com/watch?v=88Tz5nJEQrY"
   }
   ]
   },
@@ -14362,6 +14466,10 @@ const books = {
   {
   "title": "【要約】ブスのマーケティング戦略①【田村麻美】",
   "url": "https://www.youtube.com/watch?v=bgE8y1YWOp4"
+  },
+  {
+  "title": "【6分で解説】ブスのマーケティング戦略｜劣化が始まった美人へ",
+  "url": "https://www.youtube.com/watch?v=9wkfSbhSPmI"
   }
   ]
   },
@@ -14392,6 +14500,10 @@ const books = {
   {
   "title": "【要約】99.9%は幸せの素人①【星渉】",
   "url": "https://www.youtube.com/watch?v=nDrirLMtvNQ"
+  },
+  {
+  "title": "【本要約】99 9%は幸せの素人（著；星 渉氏、前野 隆司氏）",
+  "url": "https://www.youtube.com/watch?v=fitn-adMauQ"
   }
   ]
   },
@@ -14437,6 +14549,10 @@ const books = {
   {
   "title": "天才vs天才 頭脳戦ミステリ3選！",
   "url": "https://www.youtube.com/watch?v=gjcnGNBYEjs"
+  },
+  {
+  "title": "小説紹介クリエイターけんごさんの「推し本」聞きました！！",
+  "url": "https://www.youtube.com/watch?v=01JK2U-WrSs"
   }
   ]
   },
@@ -14677,6 +14793,10 @@ const books = {
   {
   "title": "2023年上半期のBest3を発表します【ほんタメ文学賞】",
   "url": "https://www.youtube.com/watch?v=AJo2-_K84aI"
+  },
+  {
+  "title": "小説紹介クリエイターけんごさんの「推し本」聞きました！！",
+  "url": "https://www.youtube.com/watch?v=01JK2U-WrSs"
   }
   ]
   },
@@ -25335,6 +25455,10 @@ const books = {
   {
   "title": "【神上司とクソ上司の違い】名著『最高のコーチは、教えない』を解説してみた【結論、コーチングです】",
   "url": "https://www.youtube.com/watch?v=ynzh6-SbKY0"
+  },
+  {
+  "title": "【本要約】最高のコーチは教えない。（著；吉井　理人 氏）",
+  "url": "https://www.youtube.com/watch?v=avfId1LgfKA"
   }
   ]
   },
@@ -26061,6 +26185,10 @@ const books = {
   {
   "title": "【10分で解説】人生は、運よりも実力よりも「勘違いさせる力」で決まっている by ふろむだ氏【錯覚資産は誰でも使えるズルい武器】",
   "url": "https://www.youtube.com/watch?v=PP_S6zZnVgw"
+  },
+  {
+  "title": "【10分で解説】人生は、運よりも実力よりも「勘違いさせる力」で決まっている｜ハロー効果の確変&スター状態で増やしてしまえ錯覚資産",
+  "url": "https://www.youtube.com/watch?v=1Mc3Q-hIb-8"
   }
   ]
   },
@@ -27293,6 +27421,10 @@ const books = {
   {
   "title": "他人から好かれたいなら、絶対に話さないでください！！！　『「話すのが苦手、でも人に好かれたい」と思ったら読む本』",
   "url": "https://www.youtube.com/watch?v=ArBhpGwc_Oc"
+  },
+  {
+  "title": "「話すのが苦手、でも人に好かれたい」と思ったら読む本",
+  "url": "https://www.youtube.com/watch?v=SoZJkeVv6Iw"
   }
   ]
   },
@@ -27876,6 +28008,14 @@ const books = {
   {
   "title": "【裏技】トップ５％の人だけ〇〇をやっている事が判明！　『ＡＩ分析で分かったトップ５％社員の習慣』",
   "url": "https://www.youtube.com/watch?v=4v1RplyJH4E"
+  },
+  {
+  "title": "【本要約】AI分析でわかった　トップ5%社員の習慣（著者；越川慎司氏）",
+  "url": "https://www.youtube.com/watch?v=Ap1BzbVg-uo"
+  },
+  {
+  "title": "142：AI分析でわかったトップ5％社員の習慣｜一家に一冊。デスクに一冊の本。何度でも読み直せ！",
+  "url": "https://www.youtube.com/watch?v=AN4L2uYMLRE"
   }
   ]
   },
@@ -28415,6 +28555,30 @@ const books = {
   {
   "title": "【究極本！】読めば悩み０になります！　11分でわかる『嫌われる勇気』",
   "url": "https://www.youtube.com/watch?v=zgJxBYFXk9A"
+  },
+  {
+  "title": "【超図解】嫌われる勇気⑥｜叱るのではく、褒めるのでもない。じゃあどうするの！？",
+  "url": "https://www.youtube.com/watch?v=POAb9d9aQ1Q"
+  },
+  {
+  "title": "【超図解】嫌われる勇気⑤｜いい人だけど自分に自信がない人へ【危険】",
+  "url": "https://www.youtube.com/watch?v=pdUm3IktNMo"
+  },
+  {
+  "title": "【超図解】嫌われる勇気④｜あなたのためを思って...と言ってくるやつは全て偽善者／無責任。",
+  "url": "https://www.youtube.com/watch?v=kKmRNhTlGqk"
+  },
+  {
+  "title": "【超図解】嫌われる勇気③｜SNSで誹謗中傷を受けた時、アドラー心理学的にどうするのが正解なのか？",
+  "url": "https://www.youtube.com/watch?v=zQtf2zSrOq0"
+  },
+  {
+  "title": "【超図解】嫌われる勇気②｜赤面症を治すきっかけをくれた虎柄のおばちゃんの話",
+  "url": "https://www.youtube.com/watch?v=Yxvz5rQm1I8"
+  },
+  {
+  "title": "【超図解】嫌わられる勇気①｜アドラー心理学は眼鏡を探せ！",
+  "url": "https://www.youtube.com/watch?v=ZBeV1_XSr1U"
   }
   ]
   },
@@ -28580,6 +28744,10 @@ const books = {
   {
   "title": "お金の稼ぎ方、ストイックな努力、全てが超一流！　８分でわかる『ＧＡＣＫＴの勝ち方』",
   "url": "https://www.youtube.com/watch?v=xZ2TMJ0BOwc"
+  },
+  {
+  "title": "139：GACKTの勝ち方｜この人、凄すぎですわ。。。汗",
+  "url": "https://www.youtube.com/watch?v=VNldhpcRBBA"
   }
   ]
   },
@@ -28646,6 +28814,30 @@ const books = {
   {
   "title": "【至高の1冊！】眠れなくなるほど面白い本でした！　8分で学ぶ『革命のファンファーレ』",
   "url": "https://www.youtube.com/watch?v=tJA8_x-muY0"
+  },
+  {
+  "title": "【白黒つけよう】革命のファンファーレ⑦｜西野亮廣とコラボにする方法",
+  "url": "https://www.youtube.com/watch?v=7b7w_rwJn7M"
+  },
+  {
+  "title": "【白黒つけよう】革命のファンファーレ⑥｜無料公開事例を5つ開設しました。",
+  "url": "https://www.youtube.com/watch?v=2d1trFRGMMQ"
+  },
+  {
+  "title": "【白黒つけよう】革命のファンファーレ⑤｜完全実力社会到来ってマジ背筋が凍るんですけど...",
+  "url": "https://www.youtube.com/watch?v=Pw7qYN8t0AA"
+  },
+  {
+  "title": "【白黒つけよう】革命のファンファーレ③｜自分だけの競技を作る６ステップ、公開します。",
+  "url": "https://www.youtube.com/watch?v=C1zzoUYYTcE"
+  },
+  {
+  "title": "【白黒つけよう】革命のファンファーレ②｜セカンドクリエイターはどうやって集めるの？",
+  "url": "https://www.youtube.com/watch?v=xs4KdiBE4D8"
+  },
+  {
+  "title": "【白黒つけよう】革命のファンファーレ｜結局、信用ってどうやって貯めるの？",
+  "url": "https://www.youtube.com/watch?v=uVYnxzX2RII"
   }
   ]
   },
@@ -28723,6 +28915,10 @@ const books = {
   {
   "title": "【意外！】お金より大切な〇〇とは！？　8分で学ぶ「新世界」",
   "url": "https://www.youtube.com/watch?v=OLPGps1BCx8"
+  },
+  {
+  "title": "新世界｜DMMオンラインサロンを3年間運営して思い知ったこと",
+  "url": "https://www.youtube.com/watch?v=JK8lgFW3Cs8"
   }
   ]
   },
@@ -29097,6 +29293,10 @@ const books = {
   {
   "title": "【12分で解説】専業主婦は２億円損する",
   "url": "https://www.youtube.com/watch?v=Y8BXrEDoBGw"
+  },
+  {
+  "title": "【本要約】2億円と専業主婦　はたらく妻の生涯賃金は2億円！（著；橘 玲 氏）",
+  "url": "https://www.youtube.com/watch?v=XJMgEUjIISc"
   }
   ]
   },
@@ -30758,6 +30958,10 @@ const books = {
   {
   "title": "【14分で解説】人生逃げ切り戦略　やまもとりゅうけん",
   "url": "https://www.youtube.com/watch?v=5fhGwlhiXtU"
+  },
+  {
+  "title": "【重要】人生逃げ切り戦略｜やまもとりゅうけんの成功の秘訣は何だったのか？それは...",
+  "url": "https://www.youtube.com/watch?v=0o270abESno"
   }
   ]
   },
@@ -33838,6 +34042,10 @@ const books = {
   {
   "title": "【要約】マインドセット「やればできる! 」の研究【キャロル・S・ドゥエック】",
   "url": "https://www.youtube.com/watch?v=xZAAJZGdIxA"
+  },
+  {
+  "title": "マインドセット「やればできる！」の研究｜傷つきやすい人こそ、このマインドで突き進んで欲しい",
+  "url": "https://www.youtube.com/watch?v=ZPZlqvljmao"
   }
   ]
   },
@@ -34069,6 +34277,10 @@ const books = {
   {
   "title": "【要約】お金は寝かせて増やしなさい【水瀬ケンイチ】",
   "url": "https://www.youtube.com/watch?v=HO_HywgXGSY"
+  },
+  {
+  "title": "【本要約】お金は寝かせて増やしなさい（著；水瀬ケンイチ 氏）",
+  "url": "https://www.youtube.com/watch?v=sV0WpkXSR14"
   }
   ]
   },
@@ -40374,8 +40586,1795 @@ const books = {
   "url": "https://www.youtube.com/watch?v=4eKrIeWStZE"
   }
   ]
+  },
+  {
+  "title": "46歳独身男の孤独に負けない生き方 人生はひとり旅",
+  "views": 0,
+  "isbn": "9784046800183",
+  "data": [
+  {
+  "title": "【本要約】46歳独身男の孤独に負けない生き方 人生はひとり旅（著者；やっちゃん(やっちゃんねる)）",
+  "url": "https://www.youtube.com/watch?v=2mb2zlsy5wA"
+  }
+  ]
+  },
+  {
+  "title": "心理的安全性のつくりかた　「心理的柔軟性」が困難を乗り越えるチームに変える",
+  "views": 0,
+  "isbn": "B08JVDFT59",
+  "data": [
+  {
+  "title": "【本要約】心理的安全性のつくりかた（著者；石井 遼介氏）",
+  "url": "https://www.youtube.com/watch?v=M2V-rX9Mh3E"
+  }
+  ]
+  },
+  {
+  "title": "「お前の言うことはわけがわからん! 」と言わせないロジカルな話し方超入門",
+  "views": 0,
+  "isbn": "9784799324684",
+  "data": [
+  {
+  "title": "【本要約】「お前の言うことはわけがわからん! 」と言わせないロジカルな話し方超入門（著者；別所　栄吾氏）",
+  "url": "https://www.youtube.com/watch?v=HMuDFGuJZYM"
+  }
+  ]
+  },
+  {
+  "title": "「具体⇄抽象」トレーニング 思考力が飛躍的にアップする29問 (PHPビジネス新書)",
+  "views": 0,
+  "isbn": "9784569845999",
+  "data": [
+  {
+  "title": "【本要約】「具体⇄抽象」トレーニング 思考力が飛躍的にアップする29問",
+  "url": "https://www.youtube.com/watch?v=0PFHR3lXyQE"
+  }
+  ]
+  },
+  {
+  "title": "心を壊さない生き方 超ストレス社会を生き抜くメンタルの教科書",
+  "views": 0,
+  "isbn": "9784866511498",
+  "data": [
+  {
+  "title": "【本要約】心を壊さない生き方　超ストレス社会を生き抜くメンタルの教科書（著；Testosterone 氏,岡琢哉 氏）",
+  "url": "https://www.youtube.com/watch?v=5GZZV_CBSJk"
+  }
+  ]
+  },
+  {
+  "title": "9割捨てて10倍伝わる「要約力」",
+  "views": 0,
+  "isbn": "9784534057914",
+  "data": [
+  {
+  "title": "【本要約】9割捨てて10倍伝わる「要約力」（著；山口拓郎 氏）",
+  "url": "https://www.youtube.com/watch?v=EtAkx-HPHww"
+  },
+  {
+  "title": "140：9割捨てて10倍伝わる「要約力」｜この5つの質問で人生を変える！",
+  "url": "https://www.youtube.com/watch?v=uhRihdAqRWw"
+  }
+  ]
+  },
+  {
+  "title": "世界のエリートはなぜ「美意識」を鍛えるのか? 経営における「アート」と「サイエンス」 (光文社新書)",
+  "views": 0,
+  "isbn": "9784334039967",
+  "data": [
+  {
+  "title": "【本要約】世界のエリートはなぜ「美意識」を鍛えるのか？　経営における「アート」と「サイエンス」（著；山口 周氏）",
+  "url": "https://www.youtube.com/watch?v=-GTQvDQMyKk"
+  }
+  ]
+  },
+  {
+  "title": "働き方5.0: これからの世界をつくる仲間たちへ (小学館新書)",
+  "views": 0,
+  "isbn": "9784098253715",
+  "data": [
+  {
+  "title": "【本要約】働き方5.0　これからの世界をつくる仲間たちへ（著；落合陽一 氏）",
+  "url": "https://www.youtube.com/watch?v=QDTQRsh0u3w"
+  }
+  ]
+  },
+  {
+  "title": "史上最強の投資家バフェットの教訓―逆風の時でもお金を増やす125の知恵",
+  "views": 0,
+  "isbn": "9784198624767",
+  "data": [
+  {
+  "title": "【本要約】バフェットの教訓　逆風の時でもお金を増やす125の知恵（著；メアリー・バフェット&デビット・クラーク 氏）",
+  "url": "https://www.youtube.com/watch?v=CSwvLL9ZJ0I"
+  }
+  ]
+  },
+  {
+  "title": "このまま今の会社にいていいのか?と一度でも思ったら読む 転職の思考法",
+  "views": 0,
+  "isbn": "9784478105559",
+  "data": [
+  {
+  "title": "このまま今の会社にいていいのか？と一度でも思ったら読む転職の思考法（著；北野唯我 氏）",
+  "url": "https://www.youtube.com/watch?v=cNqP6_3i0MM"
+  }
+  ]
+  },
+  {
+  "title": "父が娘に語る 美しく、深く、壮大で、とんでもなくわかりやすい経済の話。",
+  "views": 0,
+  "isbn": "9784478105511",
+  "data": [
+  {
+  "title": "【本要約】父が娘に語る　美しく、深く、壮大で、とんでもなくわかりやすい経済の話。（著；ヤニス・バルファキス 氏）",
+  "url": "https://www.youtube.com/watch?v=FrAJwb36NWA"
+  }
+  ]
+  },
+  {
+  "title": "未来を創るプレゼン 最高の「表現力」と「伝え方」",
+  "views": 0,
+  "isbn": "9784833440257",
+  "data": [
+  {
+  "title": "【本要約】未来を創るプレゼン（著；伊藤 羊一 氏、澤 円 氏）",
+  "url": "https://www.youtube.com/watch?v=ozr-3jcVs9Y"
+  }
+  ]
+  },
+  {
+  "title": "野村ノート (小学館文庫)",
+  "views": 0,
+  "isbn": "9784094084474",
+  "data": [
+  {
+  "title": "【本要約】野村ノート（著；野村克也 氏）",
+  "url": "https://www.youtube.com/watch?v=Vy2NOQ2UoMI"
+  }
+  ]
+  },
+  {
+  "title": "お金の真理 (単行本)",
+  "views": 0,
+  "isbn": "9784299000149",
+  "data": [
+  {
+  "title": "【本要約】お金の真理（著；与沢翼 氏）",
+  "url": "https://www.youtube.com/watch?v=66DMNW0OjN8"
+  }
+  ]
+  },
+  {
+  "title": "交渉力 結果が変わる伝え方・考え方 (PHP新書)",
+  "views": 0,
+  "isbn": "9784569846620",
+  "data": [
+  {
+  "title": "【本要約】交渉力（著；橋下徹 氏）",
+  "url": "https://www.youtube.com/watch?v=LISQkotY0NA"
+  }
+  ]
+  },
+  {
+  "title": "医者が教えるサウナの教科書 ビジネスエリートはなぜ脳と体をサウナでととのえるのか?",
+  "views": 0,
+  "isbn": "9784478110317",
+  "data": [
+  {
+  "title": "【本要約】医者が教えるサウナの教科書（著；加藤容崇 氏）",
+  "url": "https://www.youtube.com/watch?v=8I45UCqtkPg"
+  }
+  ]
+  },
+  {
+  "title": "スマホ人生戦略 お金・教養・フォロワー35の行動スキル",
+  "views": 0,
+  "isbn": "9784054067752",
+  "data": [
+  {
+  "title": "【本要約】スマホ人生戦略（著；堀江貴文 氏）",
+  "url": "https://www.youtube.com/watch?v=sL5uLUItOYc"
+  }
+  ]
+  },
+  {
+  "title": "弱くても最速で成長できる ズボラPDCA",
+  "views": 0,
+  "isbn": "9784799108888",
+  "data": [
+  {
+  "title": "【本要約】ズボラPDCA 〜ズボラ向けの成長方法〜",
+  "url": "https://www.youtube.com/watch?v=PACG2MpcSSw"
+  }
+  ]
+  },
+  {
+  "title": "トレードオフ―上質をとるか、手軽をとるか",
+  "views": 0,
+  "isbn": "9784833419369",
+  "data": [
+  {
+  "title": "【本要約】伝え方が９割 〜伝え方で人生が変わる！〜",
+  "url": "https://www.youtube.com/watch?v=sfX3dMiVwLY"
+  },
+  {
+  "title": "【本要約】トレードオフ 上質をとるか、手軽をとるか",
+  "url": "https://www.youtube.com/watch?v=psdW61OGpik"
+  }
+  ]
+  },
+  {
+  "title": "鬼速PDCA",
+  "views": 0,
+  "isbn": "9784844377498",
+  "data": [
+  {
+  "title": "【本要約】鬼速PDCA 〜成果が出るPDCAの本〜",
+  "url": "https://www.youtube.com/watch?v=uZI1bt6JRxc"
+  }
+  ]
+  },
+  {
+  "title": "食べる投資 ~ハーバードが教える世界最高の食事術~",
+  "views": 0,
+  "isbn": "9784866430621",
+  "data": [
+  {
+  "title": "【本要約】食べる投資　〜健康は資産！食事術の本〜",
+  "url": "https://www.youtube.com/watch?v=j6YD6d1BLXs"
+  }
+  ]
+  },
+  {
+  "title": "モチベーションを劇的に引き出す究極のメンタルコーチ術",
+  "views": 0,
+  "isbn": "9784046022899",
+  "data": [
+  {
+  "title": "【本要約】モチベーションを劇的に引き出す究極のメンタルコーチ術",
+  "url": "https://www.youtube.com/watch?v=30EFgHNt00A"
+  }
+  ]
+  },
+  {
+  "title": "リクルートに会社を売った男が教える仕事で伸びる50のルール",
+  "views": 0,
+  "isbn": "9784866801360",
+  "data": [
+  {
+  "title": "リクルートに会社を売った男が教える仕事で伸びる50のルール｜人生は誰とつながるか？で決まる。松本淳と繋がれ！",
+  "url": "https://www.youtube.com/watch?v=90IzJmundms"
+  }
+  ]
+  },
+  {
+  "title": "ヤフーの１ｏｎ１―――部下を成長させるコミュニケーションの技法",
+  "views": 0,
+  "isbn": "B0716B52LP",
+  "data": [
+  {
+  "title": "ヤフーの1on1｜アホな上司に当たらないことを祈るしかない...",
+  "url": "https://www.youtube.com/watch?v=VA3R7ymKcIE"
+  }
+  ]
+  },
+  {
+  "title": "心理的安全性のつくりかた",
+  "views": 0,
+  "isbn": "9784820728245",
+  "data": [
+  {
+  "title": "心理的安全性のつくりかた｜サブい、キツい、ヌルいのはもうコリゴリ...。最強に働きやすい職場とは？",
+  "url": "https://www.youtube.com/watch?v=z_Bd-2QEAdU"
+  }
+  ]
+  },
+  {
+  "title": "さよならオフィス",
+  "views": 0,
+  "isbn": "9784532264437",
+  "data": [
+  {
+  "title": "さよならオフィス｜2021年以降の働き方はこうなる",
+  "url": "https://www.youtube.com/watch?v=Tpn6UnULcBw"
+  }
+  ]
+  },
+  {
+  "title": "Love Your Imposter: Be Your Best Self, Flaws and All",
+  "views": 0,
+  "isbn": "9781789667035",
+  "data": [
+  {
+  "title": "Love your imposter｜インポスター症候群はこう克服する",
+  "url": "https://www.youtube.com/watch?v=XojxtBoTVWg"
+  }
+  ]
+  },
+  {
+  "title": "マイホームヒーロー(1) (ヤンマガKCスペシャル)",
+  "views": 0,
+  "isbn": "9784065101391",
+  "data": [
+  {
+  "title": "マイホームヒーロー｜伏線を回収して人生を変える方法",
+  "url": "https://www.youtube.com/watch?v=SmVexCS5-Oc"
+  }
+  ]
+  },
+  {
+  "title": "脳が読みたくなるストーリーの書き方",
+  "views": 0,
+  "isbn": "9784845916085",
+  "data": [
+  {
+  "title": "脳が読みたくなるストーリーの書き方｜脳を乗っ取る物語とは？",
+  "url": "https://www.youtube.com/watch?v=MR_AHlIo4Ck"
+  }
+  ]
+  },
+  {
+  "title": "PRIDELESS(プライドレス)　受け入れるが正解",
+  "views": 0,
+  "isbn": "B08SHSDRPK",
+  "data": [
+  {
+  "title": "プライドレス｜藤森慎吾のチャラ男の誕生秘話に注目すべし！",
+  "url": "https://www.youtube.com/watch?v=pY-lxcZTSrY"
+  }
+  ]
+  },
+  {
+  "title": "一番になる人",
+  "views": 0,
+  "isbn": "9784763198204",
+  "data": [
+  {
+  "title": "一番になる人｜無名から有名になるまでのプロセスを公開",
+  "url": "https://www.youtube.com/watch?v=xTGVqC10kQ8"
+  }
+  ]
+  },
+  {
+  "title": "デジタルオリジナル合本『憂鬱でなければ、仕事じゃない』　『絶望しきって死ぬために、今を熱狂して生きろ』 (講談社＋α文庫)",
+  "views": 0,
+  "isbn": "B00DKX4EJM",
+  "data": [
+  {
+  "title": "憂鬱でなければ仕事じゃない｜仕事の基準値をあげる",
+  "url": "https://www.youtube.com/watch?v=3SzHmOAzWWw"
+  }
+  ]
+  },
+  {
+  "title": "LIFE SCIENCE(ライフサイエンス) 長生きせざるをえない時代の生命科学講義",
+  "views": 0,
+  "isbn": "9784822288662",
+  "data": [
+  {
+  "title": "ライフサイエンス｜仮説を持って仕事をせよ！",
+  "url": "https://www.youtube.com/watch?v=cmw1TuViqrU"
+  }
+  ]
+  },
+  {
+  "title": "朝時間が自分に革命をおこす 人生を変えるモーニングメソッド",
+  "views": 0,
+  "isbn": "9784479795728",
+  "data": [
+  {
+  "title": "人生を変えるモーニングメソッド｜今度こそ朝を制する！",
+  "url": "https://www.youtube.com/watch?v=HTRnPscJ-pg"
+  }
+  ]
+  },
+  {
+  "title": "アフターコロナのマーケティング戦略 最重要ポイント40",
+  "views": 0,
+  "isbn": "9784478111611",
+  "data": [
+  {
+  "title": "アフターコロナのマーケティング戦略｜マーケセンスが爆上げされる良書",
+  "url": "https://www.youtube.com/watch?v=ND3eVEi6XMA"
+  }
+  ]
+  },
+  {
+  "title": "バズる書き方 書く力が、人もお金も引き寄せる (SB新書)",
+  "views": 0,
+  "isbn": "9784815606374",
+  "data": [
+  {
+  "title": "バズる書き方｜文章1本で天下取る方法｜ライター必見",
+  "url": "https://www.youtube.com/watch?v=LHVft9IVVs8"
+  }
+  ]
+  },
+  {
+  "title": "空き家幸福論 問題解決のカギは「心」と「新しい経済」にあった",
+  "views": 0,
+  "isbn": "9784296107407",
+  "data": [
+  {
+  "title": "空き家幸福論｜ビジネス書として最高クラスの良書です。",
+  "url": "https://www.youtube.com/watch?v=RPtl7w6q1nQ"
+  }
+  ]
+  },
+  {
+  "title": "人見知りでもセレンディピティ 身近な奇跡が爆増する20のルール",
+  "views": 0,
+  "isbn": "9784864107891",
+  "data": [
+  {
+  "title": "人見知りでもセレンディピティ｜爆発的に人脈を増やす方法",
+  "url": "https://www.youtube.com/watch?v=GnzwalevBeA"
+  }
+  ]
+  },
+  {
+  "title": "エルメスの道 (中公文庫 コミック版 た 1-23)",
+  "views": 0,
+  "isbn": "9784122035645",
+  "data": [
+  {
+  "title": "エルメスの道｜なぜエルメスが人気なのか？その秘密に迫る。",
+  "url": "https://www.youtube.com/watch?v=Bo0z-TdSlKc"
+  }
+  ]
+  },
+  {
+  "title": "これからの時代の新しい起業のカタチ! ひとりではじめるコンテンツビジネス入門",
+  "views": 0,
+  "isbn": "9784905084419",
+  "data": [
+  {
+  "title": "コンテンツビジネス入門｜2021年から売れるのは制作風景。",
+  "url": "https://www.youtube.com/watch?v=5lrByrdbESM"
+  }
+  ]
+  },
+  {
+  "title": "デジタルマーケティングの定石 なぜマーケターは「成果の出ない施策」を繰り返すのか?",
+  "views": 0,
+  "isbn": "9784534058027",
+  "data": [
+  {
+  "title": "デジタルマーケティングの定石｜DXとは愛である。",
+  "url": "https://www.youtube.com/watch?v=fMmHOc5Obho"
+  }
+  ]
+  },
+  {
+  "title": "キミの生涯賃金”2億円”を守る!労働契約の方法: 知らないと、絶対損をする!これからの働き方",
+  "views": 0,
+  "isbn": "9784093887755",
+  "data": [
+  {
+  "title": "キミの生涯賃金2億円を守る！労働契約の方法｜ボーナスは出ないこともある",
+  "url": "https://www.youtube.com/watch?v=u270T4LMxfw"
+  }
+  ]
+  },
+  {
+  "title": "グレート・リセット ダボス会議で語られるアフターコロナの世界",
+  "views": 0,
+  "isbn": "9784863134997",
+  "data": [
+  {
+  "title": "グレート・リセット｜あぁ世界はこんな残酷なんだ",
+  "url": "https://www.youtube.com/watch?v=LLZqlyTofLs"
+  }
+  ]
+  },
+  {
+  "title": "ゴミ人間 日本中から笑われた夢がある",
+  "views": 0,
+  "isbn": "9784048968928",
+  "data": [
+  {
+  "title": "ゴミ人間｜西野亮廣の頭脳、ここに公開。",
+  "url": "https://www.youtube.com/watch?v=l4yyQi3Mfx8"
+  }
+  ]
+  },
+  {
+  "title": "BLUE GIANT（１） (ビッグコミックス)",
+  "views": 0,
+  "isbn": "B00GSMDY48",
+  "data": [
+  {
+  "title": "BLUE GIANT｜1位を取る人はいつも何を考えているのか？",
+  "url": "https://www.youtube.com/watch?v=grdm4xMWAkE"
+  }
+  ]
+  },
+  {
+  "title": "サラリーマンが小さな会社の買収に挑んだ8カ月間:個人M&A成功のポイント",
+  "views": 0,
+  "isbn": "9784502351617",
+  "data": [
+  {
+  "title": "サラリーマンが店を買う時代です",
+  "url": "https://www.youtube.com/watch?v=i-vZ1LAomP8"
+  }
+  ]
+  },
+  {
+  "title": "経営者になるためのノート ([テキスト])",
+  "views": 0,
+  "isbn": "9784569826950",
+  "data": [
+  {
+  "title": "汚した人から出世するノート",
+  "url": "https://www.youtube.com/watch?v=Ld-WdEMyORo"
+  }
+  ]
+  },
+  {
+  "title": "「雑草」という戦略 予測不能な時代をどう生き抜くか",
+  "views": 0,
+  "isbn": "9784534057921",
+  "data": [
+  {
+  "title": "雑草をなめるなよ",
+  "url": "https://www.youtube.com/watch?v=vUkuXL6yl80"
+  }
+  ]
+  },
+  {
+  "title": "リープ・マーケティング 中国ベンチャーに学ぶ新時代の「広め方」",
+  "views": 0,
+  "isbn": "9784781618890",
+  "data": [
+  {
+  "title": "商品を1億人に広める方法",
+  "url": "https://www.youtube.com/watch?v=7b6l5WEfbYE"
+  }
+  ]
+  },
+  {
+  "title": "不変のマーケティング",
+  "views": 0,
+  "isbn": "9784894516052",
+  "data": [
+  {
+  "title": "今こそメールが効く",
+  "url": "https://www.youtube.com/watch?v=LNhfKsxjtl0"
+  }
+  ]
+  },
+  {
+  "title": "コンタクトレス・アプローチ テレワーク時代の営業の強化書",
+  "views": 0,
+  "isbn": "9784046049247",
+  "data": [
+  {
+  "title": "会わずに決める営業",
+  "url": "https://www.youtube.com/watch?v=TcTFhsudiYA"
+  }
+  ]
+  },
+  {
+  "title": "神話の法則　夢を語る技術",
+  "views": 0,
+  "isbn": "9784990487508",
+  "data": [
+  {
+  "title": "神話の法則で主人公になる",
+  "url": "https://www.youtube.com/watch?v=LTjiu8EgKbM"
+  }
+  ]
+  },
+  {
+  "title": "「超」整理法―情報検索と発想の新システム (中公新書)",
+  "views": 0,
+  "isbn": "9784121011596",
+  "data": [
+  {
+  "title": "超整理法｜25年以上前から凄本です",
+  "url": "https://www.youtube.com/watch?v=aFYvUndu4Ko"
+  }
+  ]
+  },
+  {
+  "title": "感情はコントロールしなくていい 「ネガティブな気持ち」を味方にする方法",
+  "views": 0,
+  "isbn": "9784534057860",
+  "data": [
+  {
+  "title": "146：感情はコントロールしなくていい｜行動→感情→事件→価値観の数直線を意識しよう",
+  "url": "https://www.youtube.com/watch?v=bNgdzm5Z3Cg"
+  }
+  ]
+  },
+  {
+  "title": "ステイ・スモール 会社は「小さい」ほどうまくいく",
+  "views": 0,
+  "isbn": "9784591167588",
+  "data": [
+  {
+  "title": "145：ステイ・スモール　会社は「小さい」ほどうまくいく｜鍵は商品の値上げできるかどうか？",
+  "url": "https://www.youtube.com/watch?v=UFiFyl4jcpE"
+  }
+  ]
+  },
+  {
+  "title": "なかなか自分で決められない人のための「決める」技術",
+  "views": 0,
+  "isbn": "9784799324165",
+  "data": [
+  {
+  "title": "144：なかなか自分で決められない人のための「決める」技術｜前情報▶︎迷う▶︎決めるの3つのステップを攻略せよ",
+  "url": "https://www.youtube.com/watch?v=27IlSxM-MGQ"
+  }
+  ]
+  },
+  {
+  "title": "なぜ星付きシェフの僕がサイゼリヤでバイトするのか? 偏差値37のバカが見つけた必勝法",
+  "views": 0,
+  "isbn": "9784864107655",
+  "data": [
+  {
+  "title": "143：なぜ星付きシェフの僕がサイゼリヤでバイトするのか？｜気づき×完コピ×下っ端化＝最強",
+  "url": "https://www.youtube.com/watch?v=vv_HKfl214c"
+  }
+  ]
+  },
+  {
+  "title": "ファンをはぐくみ事業を成長させる 「コミュニティ」づくりの教科書",
+  "views": 0,
+  "isbn": "9784478110546",
+  "data": [
+  {
+  "title": "138：「コミュニティ」づくりの教科書｜最初のスタートが一番重要。最初からズッコケることのないように。",
+  "url": "https://www.youtube.com/watch?v=Wlya3JZ1CQQ"
+  }
+  ]
+  },
+  {
+  "title": "会社に行きたくない。さて、どうする?",
+  "views": 0,
+  "isbn": "9784295404187",
+  "data": [
+  {
+  "title": "会社に行きたくない。さてどうする？｜真面目な人ほど要注意。「俺は大丈夫！」が一番危険です。",
+  "url": "https://www.youtube.com/watch?v=5IAjcDz9Pjs"
+  }
+  ]
+  },
+  {
+  "title": "企画力～無から有を生む本～ (光文社文庫)",
+  "views": 0,
+  "isbn": "B00VW7ZLPE",
+  "data": [
+  {
+  "title": "136：企画力〜無から有を生む本｜50年前の本なのに2020年に読んでも全く古臭さを感じない。いや、むしろこれがネタ本なんじゃないか？w",
+  "url": "https://www.youtube.com/watch?v=1INLbiJhnUk"
+  }
+  ]
+  },
+  {
+  "title": "個人力 やりたいことにわがままになるニューノーマルの働き方",
+  "views": 0,
+  "isbn": "9784833440271",
+  "data": [
+  {
+  "title": "135：個人力｜マイクロソフトという組織人でありながら、個人としてもブレイクした男。",
+  "url": "https://www.youtube.com/watch?v=REsAeYMc_i0"
+  }
+  ]
+  },
+  {
+  "title": "仮想空間シフト",
+  "views": 0,
+  "isbn": "B08FC89M5D",
+  "data": [
+  {
+  "title": "134：仮想空間シフト｜問題提起ができる人が美味しい思いをする。そのロジックを捉えよう。",
+  "url": "https://www.youtube.com/watch?v=v1GpaitayCM"
+  }
+  ]
+  },
+  {
+  "title": "#こち亀 2 #副業‐1 (ジャンプコミックスDIGITAL)",
+  "views": 0,
+  "isbn": "B07W8NCQH7",
+  "data": [
+  {
+  "title": "133：#こち亀 2 #副業‐1｜なぜ両津勘吉の副業はいつも失敗で終わるのか？我々はどんな副業を選ぶべきなのか？",
+  "url": "https://www.youtube.com/watch?v=0mrMdXp30kE"
+  }
+  ]
+  },
+  {
+  "title": "自分の名前で仕事がひろがる 「普通」の人のためのSNSの教科書",
+  "views": 0,
+  "isbn": "9784023318816",
+  "data": [
+  {
+  "title": "132：普通の人のためのSNSの教科書｜徳力メソッド、面白い。",
+  "url": "https://www.youtube.com/watch?v=t1DCaBFgoVk"
+  }
+  ]
+  },
+  {
+  "title": "新訳 ハイパワー・マーケティング あなたのビジネスを加速させる「力」の見つけ方",
+  "views": 0,
+  "isbn": "9784041056752",
+  "data": [
+  {
+  "title": "【神本】ハイパワーマーケティング10｜消費者の変身願望を突け！",
+  "url": "https://www.youtube.com/watch?v=cnlTos8a7mo"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング⑨｜ぜひあなたの力を貸して欲しい！と言われるのはどんな人？",
+  "url": "https://www.youtube.com/watch?v=_IRP1hLHVvY"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング⑧｜LTVを計算できる人が、勝つ。",
+  "url": "https://www.youtube.com/watch?v=fsU-aw0sqdM"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング⑦｜バーター思考ができる人はビジネスセンスが高い人が多い。",
+  "url": "https://www.youtube.com/watch?v=L_rQCjbIHno"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング⑥｜見込み客の言葉の定義をしっかりと理解しよう。",
+  "url": "https://www.youtube.com/watch?v=O7K0LeO-5O4"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング⑤｜USPはあるよね？え？ないの！？",
+  "url": "https://www.youtube.com/watch?v=DnB5SGMtHIc"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング④｜呉服屋が旅行代理店をやって大儲けした秘密が。。。",
+  "url": "https://www.youtube.com/watch?v=jJB0gbzBp54"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング③｜実験屋こそ最強のマーケッター",
+  "url": "https://www.youtube.com/watch?v=4PtPqWz6qr8"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング②｜まずは全体像を捉えよう※ダウンロードできるようにしておきました。",
+  "url": "https://www.youtube.com/watch?v=iaOv17QrzsM"
+  },
+  {
+  "title": "【神本】ハイパワーマーケティング①｜卓越せよ！では卓越とは何か？",
+  "url": "https://www.youtube.com/watch?v=WGD4CCsoTRk"
+  }
+  ]
+  },
+  {
+  "title": "その仕事、全部やめてみよう――１％の本質をつかむ「シンプルな考え方」",
+  "views": 0,
+  "isbn": "B08CQRKHKR",
+  "data": [
+  {
+  "title": "130：その仕事、全部やめてみよう｜ドラクエ3で遊び人が賢者になれる理由を知ると人生が変わる。",
+  "url": "https://www.youtube.com/watch?v=pSXXPmUQlsY"
+  }
+  ]
+  },
+  {
+  "title": "書くのがしんどい",
+  "views": 0,
+  "isbn": "9784569847160",
+  "data": [
+  {
+  "title": "129：書くのがしんどい｜問題は自分だけの独占領域をどう作るか？そちらの方だ！",
+  "url": "https://www.youtube.com/watch?v=U80Gsi4Yt7U"
+  }
+  ]
+  },
+  {
+  "title": "思考は文字化すると現実化する",
+  "views": 0,
+  "isbn": "9784866212944",
+  "data": [
+  {
+  "title": "128：思考は文字化すると現実化する｜思考→文字化→結果→晒す→関係→現実の流れを意識していくのです",
+  "url": "https://www.youtube.com/watch?v=x-PG8BtOaPA"
+  }
+  ]
+  },
+  {
+  "title": "日本経済 予言の書 2020年代、不安な未来の読み解き方 (PHPビジネス新書)",
+  "views": 0,
+  "isbn": "B08B6565H2",
+  "data": [
+  {
+  "title": "127：日本経済 予言の書②｜2030年、トヨタがGAFAに負けるとき",
+  "url": "https://www.youtube.com/watch?v=pfuWOYf5eyc"
+  },
+  {
+  "title": "117：日本経済 予言の書①｜これがアマゾンエフェクトの正体...このままではセブインイレブンも危ない。",
+  "url": "https://www.youtube.com/watch?v=p2-TJPzWMBM"
+  }
+  ]
+  },
+  {
+  "title": "ＯＲＩＧＩＮＡＬＳ　誰もが「人と違うこと」ができる時代",
+  "views": 0,
+  "isbn": "B01GPGQPBA",
+  "data": [
+  {
+  "title": "125：ORIGINALS 誰もが人と違うことができる時代｜なぜモナリザは完成まで15年かけなければいけなかったのか？",
+  "url": "https://www.youtube.com/watch?v=arPWzRy7PvE"
+  }
+  ]
+  },
+  {
+  "title": "人に頼む技術コロンビア大学の嫌な顔されずに人を動かす科学",
+  "views": 0,
+  "isbn": "B07V27Y42J",
+  "data": [
+  {
+  "title": "124：人に頼む技術｜頼んでも嫌な気持ちにならずに...むしろ周りがガンガン助けてくれる状態を作ろう！",
+  "url": "https://www.youtube.com/watch?v=_3yYPPRViJE"
+  }
+  ]
+  },
+  {
+  "title": "レッドブルはなぜ世界で52億本も売れるのか",
+  "views": 0,
+  "isbn": "B00GH7KM80",
+  "data": [
+  {
+  "title": "123：レッドブルはなぜ世界で52億本も売れるのか｜リポDを真似して、タイでライセンス契約してレッドブル誕生！",
+  "url": "https://www.youtube.com/watch?v=q2A5xZSIwxw"
+  }
+  ]
+  },
+  {
+  "title": "PROFIT FIRST お金を増やす技術――借金が減り、キャッシュリッチな会社に変わる",
+  "views": 0,
+  "isbn": "9784478103593",
+  "data": [
+  {
+  "title": "122：PROFIT FIRST お金を増やす技術｜5つの銀行口座を作るとあなたのビジネスに革命が起こる（マジです）",
+  "url": "https://www.youtube.com/watch?v=SlYk-kDLmJA"
+  }
+  ]
+  },
+  {
+  "title": "室内生活──スローで過剰な読書論",
+  "views": 0,
+  "isbn": "9784794971579",
+  "data": [
+  {
+  "title": "120：室内生活ースローで過剰な読書論｜本読んで変われる人と変われない人は何が違うのか？6つの視点から解説します。",
+  "url": "https://www.youtube.com/watch?v=5xHDqPesI5A"
+  }
+  ]
+  },
+  {
+  "title": "コロナ後に生き残る会社　食える仕事　稼げる働き方",
+  "views": 0,
+  "isbn": "B08BL3Q1CJ",
+  "data": [
+  {
+  "title": "119：コロナ後に生き残る会社、食える仕事、稼げる働き方｜答えはここだ。",
+  "url": "https://www.youtube.com/watch?v=R4eSjrLdszM"
+  }
+  ]
+  },
+  {
+  "title": "在宅HACKS!: 自分史上最高のアウトプットを可能にする新しい働き方",
+  "views": 0,
+  "isbn": "9784492046708",
+  "data": [
+  {
+  "title": "118：在宅HACKS：在宅勤務がこんなに凄いことになるなんて...",
+  "url": "https://www.youtube.com/watch?v=X6OqZ6n77fQ"
+  }
+  ]
+  },
+  {
+  "title": "他人のことが気にならなくなる 「いい人」のやめ方(リベラル文庫)",
+  "views": 0,
+  "isbn": "9784434274794",
+  "data": [
+  {
+  "title": "116_「いい人」のやめ方｜相手の誘いを断るのにも理由がいる",
+  "url": "https://www.youtube.com/watch?v=BuLeLsVkOts"
+  }
+  ]
+  },
+  {
+  "title": "フューチャーワーク: 新時代で成果を2倍にする思考とスキル",
+  "views": 0,
+  "isbn": "9784309249605",
+  "data": [
+  {
+  "title": "【重要】フューチャーワーク｜成果を2倍にする5つのトレンドとは？",
+  "url": "https://www.youtube.com/watch?v=Vc-00XoDICU"
+  }
+  ]
+  },
+  {
+  "title": "ゼロからいくらでも生み出せる! 起業1年目のお金の教科書",
+  "views": 0,
+  "isbn": "9784761273002",
+  "data": [
+  {
+  "title": "【重要】起業一年目のお金の教科書｜お金に対する罪悪感がある人へ",
+  "url": "https://www.youtube.com/watch?v=EOn03flaH8o"
+  }
+  ]
+  },
+  {
+  "title": "2020年6月30日にまたここで会おう 瀧本哲史伝説の東大講義 (星海社新書)",
+  "views": 0,
+  "isbn": "9784065194287",
+  "data": [
+  {
+  "title": "【名著】2020年6月30日にまた会おう｜サルに成り下がるな",
+  "url": "https://www.youtube.com/watch?v=h6wSyA5aZdM"
+  }
+  ]
+  },
+  {
+  "title": "問いこそが答えだ! 正しく問う力が仕事と人生の視界を開く",
+  "views": 0,
+  "isbn": "9784334962395",
+  "data": [
+  {
+  "title": "問いこそが答えだ｜Googleは役に立たない。答えしかわからないから。",
+  "url": "https://www.youtube.com/watch?v=ONGB35eG6mg"
+  }
+  ]
+  },
+  {
+  "title": "営業はいらない (SB新書)",
+  "views": 0,
+  "isbn": "9784815604608",
+  "data": [
+  {
+  "title": "営業はいらない｜古臭いベテランおっさん営業マンは消え失せろ",
+  "url": "https://www.youtube.com/watch?v=ZAJVMUbn7Kk"
+  }
+  ]
+  },
+  {
+  "title": "数学的思考ができる人に世界はこう見えている ガチ文系のための「読む数学」 (単行本)",
+  "views": 0,
+  "isbn": "9784396617226",
+  "data": [
+  {
+  "title": "ガチ文系のための読む数学③座標｜XとYで人生が決まる。進撃の巨人でも重要概念である",
+  "url": "https://www.youtube.com/watch?v=nhAH4OIfLFg"
+  },
+  {
+  "title": "【8分で解説】ガチ文系のための読む数学②関数｜あなたのf関数を教えてよ！",
+  "url": "https://www.youtube.com/watch?v=Kcds85bqf74"
+  },
+  {
+  "title": "【10分で解説】ガチ文系のための読む数学｜『微分的に言えば...』と言って見たい人は要チェックです！",
+  "url": "https://www.youtube.com/watch?v=cO8oyWHMY3c"
+  }
+  ]
+  },
+  {
+  "title": "セルフトーク超入門 心の中のつぶやきを変えれば、人生が変わる",
+  "views": 0,
+  "isbn": "B088B7NW9B",
+  "data": [
+  {
+  "title": "セルフトーク入門｜つぶやき一つで人生変わるんだったら安いもんだ！",
+  "url": "https://www.youtube.com/watch?v=ksCGfSgZvuA"
+  }
+  ]
+  },
+  {
+  "title": "フルライフ 今日の仕事と10年先の目標と100年の人生をつなぐ時間戦略",
+  "views": 0,
+  "isbn": "9784910063065",
+  "data": [
+  {
+  "title": "フルライフ｜Well-DoingとWell-Beingの時間／人生の3つのフェーズとは？",
+  "url": "https://www.youtube.com/watch?v=mvsqg3L-0hE"
+  }
+  ]
+  },
+  {
+  "title": "Ikigai: The Japanese secret to a long and happy life",
+  "views": 0,
+  "isbn": "9781786330895",
+  "data": [
+  {
+  "title": "【超図解】ikigai（生き甲斐）｜世界から評価される日本の生き甲斐とは？",
+  "url": "https://www.youtube.com/watch?v=wQ8e9zTFrUA"
+  }
+  ]
+  },
+  {
+  "title": "起業1年目の教科書",
+  "views": 0,
+  "isbn": "B017U24YKW",
+  "data": [
+  {
+  "title": "起業1年目の教科書｜起業はふつうの人がやっていいんだよ...",
+  "url": "https://www.youtube.com/watch?v=iSugRvwfHkc"
+  }
+  ]
+  },
+  {
+  "title": "スペースキーで見た目を整えるのはやめなさい ~8割の社会人が見落とす資料作成のキホン",
+  "views": 0,
+  "isbn": "9784297112745",
+  "data": [
+  {
+  "title": "スペースキーで見た目を整えるのやめなさい｜A4@一枚15分で作れるか？",
+  "url": "https://www.youtube.com/watch?v=C4msCT-O2VE"
+  }
+  ]
+  },
+  {
+  "title": "人と人とのつながりを財産に変える　オンラインサロンのつくりかた",
+  "views": 0,
+  "isbn": "B07N3QRF2J",
+  "data": [
+  {
+  "title": "オンラインサロンのつくり方｜誰かにとっての素敵な居場所を作れるように",
+  "url": "https://www.youtube.com/watch?v=m9qIsBo5OOc"
+  }
+  ]
+  },
+  {
+  "title": "国外逃亡塾　普通の努力と少しばかりの勇気でチートモードな「自由」を手に入れる",
+  "views": 0,
+  "isbn": "B0876K4S5W",
+  "data": [
+  {
+  "title": "【お金がなくても海外OK】国外逃亡塾｜これは良い本だぁ。。。",
+  "url": "https://www.youtube.com/watch?v=uFLk69UGu6k"
+  }
+  ]
+  },
+  {
+  "title": "ノーガードフルチン戦略: ～心のパンツの正しい脱がし方～",
+  "views": 0,
+  "isbn": "B01DTA00B6",
+  "data": [
+  {
+  "title": "ノーガードフ●チン戦略〜心のパンツの正しい脱がし方｜あなたのコアはどこにある？",
+  "url": "https://www.youtube.com/watch?v=hWQpGmWVHQY"
+  }
+  ]
+  },
+  {
+  "title": "「教える」ということ　日本を救う、［尖った人］を増やすには (角川書店単行本)",
+  "views": 0,
+  "isbn": "B0875ZX13K",
+  "data": [
+  {
+  "title": "「教える」ということ｜タテ、ヨコ、算数のフレームワークを徹底しよう",
+  "url": "https://www.youtube.com/watch?v=d_Qd4kdxasw"
+  }
+  ]
+  },
+  {
+  "title": "法則",
+  "views": 0,
+  "isbn": "B01MPWWZLW",
+  "data": [
+  {
+  "title": "【7つの習慣よりも】法則／船井幸雄｜成功の3条件とは？",
+  "url": "https://www.youtube.com/watch?v=1Unr59KHYUM"
+  }
+  ]
+  },
+  {
+  "title": "新版　ランチェスター戦略　「弱者逆転」の法則　小さくても儲かる会社になる「勝ち方」",
+  "views": 0,
+  "isbn": "B07DFDKCNS",
+  "data": [
+  {
+  "title": "ランチェスター戦略 弱者逆転の法則｜無名な人間が有名人をぶっ倒す方法",
+  "url": "https://www.youtube.com/watch?v=vrvaVuqsDbo"
+  }
+  ]
+  },
+  {
+  "title": "前祝いの法則",
+  "views": 0,
+  "isbn": "9784894519824",
+  "data": [
+  {
+  "title": "【令和の引き寄せ】予祝のススメ 前祝いの法則｜理想の1日のワークをぜひやってみよう。",
+  "url": "https://www.youtube.com/watch?v=edyzISFrrm0"
+  }
+  ]
+  },
+  {
+  "title": "スタンフォード大学教授が教える 熟睡の習慣 (PHP新書)",
+  "views": 0,
+  "isbn": "B07NW634ZV",
+  "data": [
+  {
+  "title": "【不眠の解消】スタンフォード大学教授が教える 熟睡の習慣｜キーワードは30分。",
+  "url": "https://www.youtube.com/watch?v=3Wb3jhrEPkk"
+  }
+  ]
+  },
+  {
+  "title": "未来を創るプレゼン――最高の「表現力」と「伝え方」",
+  "views": 0,
+  "isbn": "B087RKJK69",
+  "data": [
+  {
+  "title": "【感動】未来を創るプレゼンー最高の表現力と伝え方｜2020年以降は表現する人が勝つ時代。",
+  "url": "https://www.youtube.com/watch?v=bii8AjtsouA"
+  }
+  ]
+  },
+  {
+  "title": "noteではじめる 新しいアウトプットの教室 楽しく続けるクリエイター生活 (できるビジネス)",
+  "views": 0,
+  "isbn": "9784295007104",
+  "data": [
+  {
+  "title": "【最強】noteではじめる新しいアウトプット教室｜月間4400万アクティブユーザーは伊達じゃない",
+  "url": "https://www.youtube.com/watch?v=hGk9DU45Yzs"
+  }
+  ]
+  },
+  {
+  "title": "能力を磨く AI時代に活躍する人材「3つの能力」",
+  "views": 0,
+  "isbn": "9784534056849",
+  "data": [
+  {
+  "title": "【これだっ】能力を磨く AI時代に活躍する人材「3つの能力」｜田坂広志、歴代最高傑作の本です。",
+  "url": "https://www.youtube.com/watch?v=jsTuerXUe08"
+  }
+  ]
+  },
+  {
+  "title": "テレワークで新型コロナショックを乗り切る！",
+  "views": 0,
+  "isbn": "B08616XGYW",
+  "data": [
+  {
+  "title": "【必読】テレワークで新型コロナショックを乗り切る｜これが本当の働き方改革",
+  "url": "https://www.youtube.com/watch?v=hikmp6z1oiI"
+  }
+  ]
+  },
+  {
+  "title": "ビジネスと人を動かす 驚異のストーリープレゼン",
+  "views": 0,
+  "isbn": "9784822251789",
+  "data": [
+  {
+  "title": "驚異のストーリープレゼン｜苦労話が一番美味しいって知ってた？",
+  "url": "https://www.youtube.com/watch?v=k0xd5HXq_Bk"
+  }
+  ]
+  },
+  {
+  "title": "アメリカの大学生が学んでいる「伝え方」の教科書",
+  "views": 0,
+  "isbn": "B01NACDS7G",
+  "data": [
+  {
+  "title": "これが本場アメリカの「伝え方」の教科書｜なぜあなたの話は伝わらないのか？",
+  "url": "https://www.youtube.com/watch?v=pGInvgDPsjQ"
+  }
+  ]
+  },
+  {
+  "title": "スティーブ・ジョブズ 驚異のプレゼン",
+  "views": 0,
+  "isbn": "B00EH93MO6",
+  "data": [
+  {
+  "title": "【伝説】スティーブ・ジョブズ 驚異のプレゼン④｜言いたい事を14文字でまとめろ！",
+  "url": "https://www.youtube.com/watch?v=xXHnAINMStU"
+  },
+  {
+  "title": "【伝説】スティーブ・ジョブズ 驚異のプレゼン③｜パワポを使うな！",
+  "url": "https://www.youtube.com/watch?v=5wsjXRdBlKg"
+  },
+  {
+  "title": "【伝説】スティーブ・ジョブズ 驚異のプレゼン②｜敵を叩け、徹底的に。",
+  "url": "https://www.youtube.com/watch?v=WBhW8dUp7tc"
+  },
+  {
+  "title": "【伝説】スティーブジョブズ 驚異のプレゼン①｜魔法使いではなくメタファー使いになれ",
+  "url": "https://www.youtube.com/watch?v=AFUAc3wJG_0"
+  }
+  ]
+  },
+  {
+  "title": "キングダム公式問題集 (ヤングジャンプコミックス)",
+  "views": 0,
+  "isbn": "9784088915241",
+  "data": [
+  {
+  "title": "【こう読め】キングダム②｜高度な読み合いにこそこの漫画の醍醐味がある",
+  "url": "https://www.youtube.com/watch?v=3okDMuVTF00"
+  }
+  ]
+  },
+  {
+  "title": "USJを劇的に変えた、たった1つの考え方 成功を引き寄せるマーケティング入門",
+  "views": 0,
+  "isbn": "9784041041413",
+  "data": [
+  {
+  "title": "【第二章】USJを劇的に変えた、たった一つの考え方｜マーケティング部の連中はふだん何やってるんだ？仕事してるのか？",
+  "url": "https://www.youtube.com/watch?v=3wXusXqh28k"
+  },
+  {
+  "title": "【第1章】USJを劇的に変えた、たった1つの考え方｜マーケッターとは消費者理解のプロであり、消費者の代弁者である。",
+  "url": "https://www.youtube.com/watch?v=tXCwFTvq9Ec"
+  }
+  ]
+  },
+  {
+  "title": "コンテンツの秘密 ぼくがジブリで考えたこと (NHK出版新書)",
+  "views": 0,
+  "isbn": "9784140884584",
+  "data": [
+  {
+  "title": "【重要】コンテンツの秘密 ぼくがジブリで考えたこと｜ニコニコ動画もジブリもやっぱり凄すぎる...",
+  "url": "https://www.youtube.com/watch?v=7rvy62fvklo"
+  }
+  ]
+  },
+  {
+  "title": "革命のファンファーレ 現代のお金と広告 (幻冬舎単行本)",
+  "views": 0,
+  "isbn": "B075CHHZDY",
+  "data": [
+  {
+  "title": "【全体像図解】革命のファンファーレ｜9つの壁を突破できているか？",
+  "url": "https://www.youtube.com/watch?v=MeiNkOG8sGM"
+  }
+  ]
+  },
+  {
+  "title": "NOを言える人になる 他人のルールに縛られず、自分のルールで生きる方法",
+  "views": 0,
+  "isbn": "9784776210504",
+  "data": [
+  {
+  "title": "【今こそ】NOを言える人になる｜誰も俺のラインをオーバーさせないぜ！",
+  "url": "https://www.youtube.com/watch?v=Ol0nbSD9j9w"
+  }
+  ]
+  },
+  {
+  "title": "プロティアン 70歳まで第一線で働き続ける最強のキャリア資本術",
+  "views": 0,
+  "isbn": "9784296103300",
+  "data": [
+  {
+  "title": "【診断シート】プロティアン｜そうだ、アシュラマンになろう！",
+  "url": "https://www.youtube.com/watch?v=IVqqxmnq_ZU"
+  }
+  ]
+  },
+  {
+  "title": "人がうごく コンテンツのつくり方",
+  "views": 0,
+  "isbn": "9784295402268",
+  "data": [
+  {
+  "title": "【9分で解説】人がうごくコンテンツのつくり方｜とりあえず伏線を張りまくれ！",
+  "url": "https://www.youtube.com/watch?v=6mwGJro0sBQ"
+  }
+  ]
+  },
+  {
+  "title": "99%の会社はいらない (ベスト新書)",
+  "views": 0,
+  "isbn": "9784584125250",
+  "data": [
+  {
+  "title": "【8分で解説】99%の会社はいらない｜無駄な会議、無駄な人間関係、無駄なルール、無駄な通勤時間...、その全てから解放されるとどうなるのか？",
+  "url": "https://www.youtube.com/watch?v=jitoGGMsq-c"
+  }
+  ]
+  },
+  {
+  "title": "なぜ堀江貴文の本はすべてがベストセラーになるのか？ (HIU編集学部)",
+  "views": 0,
+  "isbn": "B073Q2WYD9",
+  "data": [
+  {
+  "title": "【名作】なぜ堀江貴文の本はすべてがベストセラーになるのか？｜100万部は5つのキーワードから生まれる。",
+  "url": "https://www.youtube.com/watch?v=xaachx0jmYY"
+  }
+  ]
+  },
+  {
+  "title": "勝ち続ける意志力　世界一プロ・ゲーマーの「仕事術」　(小学館101新書)",
+  "views": 0,
+  "isbn": "B009YES5KA",
+  "data": [
+  {
+  "title": "【37秒の奇跡】勝ち続ける意志力｜世界一を獲る男の努力の基準値はこれほどまでに高いのか...",
+  "url": "https://www.youtube.com/watch?v=pojRRRKJCRk"
+  }
+  ]
+  },
+  {
+  "title": "「畳み人」という選択――「本当にやりたいこと」ができるようになる働き方の教科書",
+  "views": 0,
+  "isbn": "B0851D4KNX",
+  "data": [
+  {
+  "title": "【10分で解説】「畳み人」という選択｜見城徹・箕輪厚介の右腕。それが設楽悠介。",
+  "url": "https://www.youtube.com/watch?v=44EnZcjYB2M"
+  }
+  ]
+  },
+  {
+  "title": "UCLA医学部教授が教える科学的に証明された究極の「なし遂げる力」",
+  "views": 0,
+  "isbn": "9784492046425",
+  "data": [
+  {
+  "title": "【10分で解説】なし遂げる力｜ついに三日坊主を科学的に治す方法がわかった！",
+  "url": "https://www.youtube.com/watch?v=Xzhh9BDYoQM"
+  }
+  ]
+  },
+  {
+  "title": "ヤバい集中力 1日ブッ通しでアタマが冴えわたる神ライフハック45",
+  "views": 0,
+  "isbn": "9784797399967",
+  "data": [
+  {
+  "title": "【11分で解説】ヤバい集中力｜集中力がある人なんて存在しない。じゃあどうする？",
+  "url": "https://www.youtube.com/watch?v=k6YHQ7ZWbTw"
+  }
+  ]
+  },
+  {
+  "title": "組織にいながら、自由に働く。 仕事の不安が「夢中」に変わる「加減乗除(+-×÷)の法則」",
+  "views": 0,
+  "isbn": "9784820731504",
+  "data": [
+  {
+  "title": "【12分で解説】組織にいながら、自由に働く｜楽天の正社員で、自分の会社を持っていて、なおかつ横浜・Fマリノスとプロ契約ってどういうこと！？",
+  "url": "https://www.youtube.com/watch?v=_sxWMP4wtuE"
+  }
+  ]
+  },
+  {
+  "title": "たった５人集めれば契約が取れる！顧客獲得セミナー成功法",
+  "views": 0,
+  "isbn": "4478006725",
+  "data": [
+  {
+  "title": "【11分で解説】たった５人集めれば契約が取れる！顧客獲得セミナー成功法｜とりあえず営業マンは全員買うべし。ほんとだよ！",
+  "url": "https://www.youtube.com/watch?v=MhI0WZweeCY"
+  }
+  ]
+  },
+  {
+  "title": "すべての仕事は「問い」からはじまる たった1秒の「問題解決」思考",
+  "views": 0,
+  "isbn": "9784797382624",
+  "data": [
+  {
+  "title": "【15分】すべての仕事は問いからはじまる｜だから何？と言いたくなった時はジェントルマン風に言うことを心がけよう。じゃないと喧嘩になるよ",
+  "url": "https://www.youtube.com/watch?v=C2UMxgXrLSc"
+  }
+  ]
+  },
+  {
+  "title": "新規事業の実践論 (NewsPicksパブリッシング)",
+  "views": 0,
+  "isbn": "9784910063027",
+  "data": [
+  {
+  "title": "【9分で解説】新規事業の実践論｜ふつうの会社員が社内起業家になってっしまう覚醒の瞬間がある。それがマジックナンバー３００の秘密。",
+  "url": "https://www.youtube.com/watch?v=jSLWFDd-bpk"
+  }
+  ]
+  },
+  {
+  "title": "銀の匙 (小学館文庫)",
+  "views": 0,
+  "isbn": "9784094087741",
+  "data": [
+  {
+  "title": "【10分で解説】伝説の灘校教師が教える一生役立つ学ぶ力｜銀の匙を8STEPで読んでいこう＾＾",
+  "url": "https://www.youtube.com/watch?v=rXhhuXRRZAY"
+  }
+  ]
+  },
+  {
+  "title": "管理ゼロで成果はあがる ~「見直す・なくす・やめる」で組織を変えよう",
+  "views": 0,
+  "isbn": "9784297103583",
+  "data": [
+  {
+  "title": "【13分で解説】管理ゼロで成果はあがる｜リモートワーク入門はこれから！",
+  "url": "https://www.youtube.com/watch?v=FQ-fpyuStfk"
+  }
+  ]
+  },
+  {
+  "title": "好きなことしか本気になれない。 人生100年時代のサバイバル仕事術",
+  "views": 0,
+  "isbn": "9784799325414",
+  "data": [
+  {
+  "title": "【10分で解説】好きなことしか本気になれない｜2020年のわらしべ長者だなぁ。ココナラはぶっちゃけ稼げるしね。",
+  "url": "https://www.youtube.com/watch?v=cfeGAMMhI4o"
+  }
+  ]
+  },
+  {
+  "title": "仕事が麻雀で麻雀が仕事 (近代麻雀戦術シリーズ)",
+  "views": 0,
+  "isbn": "9784801915534",
+  "data": [
+  {
+  "title": "【8分で解説】仕事が麻雀で麻雀が仕事｜サイバーエージェント藤田社長、柔和な笑顔の裏でこんな悪魔的な思考をしていたとは...汗",
+  "url": "https://www.youtube.com/watch?v=tChqRWtKQHM"
+  }
+  ]
+  },
+  {
+  "title": "仕事はもっと楽しくできる 大企業若手 50社1200人 会社変革ドキュメンタリー",
+  "views": 0,
+  "isbn": "9784833451345",
+  "data": [
+  {
+  "title": "【10分で解説】仕事はもっと楽しくできるONE JAPAN｜スーパースターじゃない“ふつう”の会社員がやってる！",
+  "url": "https://www.youtube.com/watch?v=2LYyz68jqI4"
+  }
+  ]
+  },
+  {
+  "title": "常勝キャプテンの法則――スポーツに学ぶ最強のリーダー",
+  "views": 0,
+  "isbn": "9784152097514",
+  "data": [
+  {
+  "title": "【7分で解説】常勝キャプテンの法則｜ジーターも、ジョーダンも、ダメ！",
+  "url": "https://www.youtube.com/watch?v=reO4CwJr2LQ"
+  }
+  ]
+  },
+  {
+  "title": "異質なモノをかけ合わせ、新たなビジネスを生み出す 編集思考 (NewsPicksパブリッシング)",
+  "views": 0,
+  "isbn": "9784910063003",
+  "data": [
+  {
+  "title": "【15分で解説】編集思考｜newspics初代編集長のお言葉。ぐぅの音も出ませんわ。。。",
+  "url": "https://www.youtube.com/watch?v=SbggjmNsloA"
+  }
+  ]
+  },
+  {
+  "title": "強者の流儀",
+  "views": 0,
+  "isbn": "9784046046963",
+  "data": [
+  {
+  "title": "【13分で解説】強者の流儀｜朝倉未来。2020年、世間が最も注目している男の本。",
+  "url": "https://www.youtube.com/watch?v=RfIs3rs4qhk"
+  }
+  ]
+  },
+  {
+  "title": "キングダム 56 (ヤングジャンプコミックス)",
+  "views": 0,
+  "isbn": "9784088914022",
+  "data": [
+  {
+  "title": "【こう読め】キングダム①｜強さとは何か？影響元円グラフの作り方",
+  "url": "https://www.youtube.com/watch?v=aUwKz2Gcphc"
+  }
+  ]
+  },
+  {
+  "title": "「Ａ４」１枚アンケートで利益を５倍にする方法",
+  "views": 0,
+  "isbn": "B009E68LLQ",
+  "data": [
+  {
+  "title": "【9分】「A4」1枚アンケートで利益を5倍にする方法｜こんなに優れたビジネス本が他にあるだろうか。。。",
+  "url": "https://www.youtube.com/watch?v=eU7ZgbIxmJk"
+  }
+  ]
+  },
+  {
+  "title": "敗者復活力 (DO BOOKS)",
+  "views": 0,
+  "isbn": "9784495589714",
+  "data": [
+  {
+  "title": "【7分で解説】敗者復活力｜成功回避不可能な状態を作る8ステップ",
+  "url": "https://www.youtube.com/watch?v=9f69CEv_oYs"
+  }
+  ]
+  },
+  {
+  "title": "ザッソウ 結果を出すチームの習慣 ホウレンソウに代わる「雑談+相談」",
+  "views": 0,
+  "isbn": "9784820731825",
+  "data": [
+  {
+  "title": "【7分で解説】ザッソウ｜報告連絡相談はもう時代遅れ",
+  "url": "https://www.youtube.com/watch?v=bOWO0zGpULo"
+  }
+  ]
+  },
+  {
+  "title": "「中の人」から「外の人」へ 出世のススメ",
+  "views": 0,
+  "isbn": "9784534057129",
+  "data": [
+  {
+  "title": "【9分で解説】出世のススメ｜呉服屋にあのままいたら今どうなっていたか...想像するだけでも恐ろしい...",
+  "url": "https://www.youtube.com/watch?v=1VLm26DYpCU"
+  }
+  ]
+  },
+  {
+  "title": "たった1分で仕事も人生も変える 自己紹介2.0",
+  "views": 0,
+  "isbn": "9784046043085",
+  "data": [
+  {
+  "title": "【6分で解説】自己紹介2.0｜もう名刺なんて必要ない。これからは...",
+  "url": "https://www.youtube.com/watch?v=HpuJ5OoTeQI"
+  }
+  ]
+  },
+  {
+  "title": "ビジョナリー・カンパニー 2 - 飛躍の法則",
+  "views": 0,
+  "isbn": "9784822242633",
+  "data": [
+  {
+  "title": "【5分で解説】ビジョナリーカンパニー2｜針鼠の概念に注意せよ",
+  "url": "https://www.youtube.com/watch?v=V3QCZh6YKt0"
+  }
+  ]
+  },
+  {
+  "title": "推しの素晴らしさを語りたいのに「やばい！」しかでてこない 自分の言葉でつくるオタク文章術",
+  "views": 0,
+  "isbn": "B0C5CM7Y1R",
+  "data": [
+  {
+  "title": "『ドラゴン桜』『宇宙兄弟』漫画編集者の佐渡島さんに「推し本」を聞いてみた！",
+  "url": "https://www.youtube.com/watch?v=56re5Pp9ZIw"
+  },
+  {
+  "title": "小説紹介クリエイターけんごさんの「推し本」聞きました！！",
+  "url": "https://www.youtube.com/watch?v=01JK2U-WrSs"
+  },
+  {
+  "title": "小説紹介TikTokで大人気！けんごさんに、本を紹介するコツを聞いてみた",
+  "url": "https://www.youtube.com/watch?v=UOJKyZ6yMtE"
+  },
+  {
+  "title": "宮田愛萌ちゃんにおすすめ本を聞いたら、いつのまにか本好きあるある話になってました……",
+  "url": "https://www.youtube.com/watch?v=Y9eCOHHzaCo"
+  },
+  {
+  "title": "出版社の担当編集者さんたちと本が出るまでの裏話を語ってみた！【推しやば出版企画第一弾】",
+  "url": "https://www.youtube.com/watch?v=d1UaIjCdZyk"
+  },
+  {
+  "title": "新刊が出ました！近況について雑談しました！",
+  "url": "https://www.youtube.com/watch?v=BT2p_ZWcXig"
+  },
+  {
+  "title": "新刊が出ました！近況について雑談しました！",
+  "url": "https://www.youtube.com/watch?v=BT2p_ZWcXig"
+  }
+  ]
+  },
+  {
+  "title": "白夜行 (集英社文庫)",
+  "views": 0,
+  "isbn": "B0872MMWWF",
+  "data": [
+  {
+  "title": "小説紹介クリエイターけんごさんの「推し本」聞きました！！",
+  "url": "https://www.youtube.com/watch?v=01JK2U-WrSs"
+  }
+  ]
+  },
+  {
+  "title": "時生 新装版 (講談社文庫)",
+  "views": 0,
+  "isbn": "9784065263136",
+  "data": [
+  {
+  "title": "小説紹介クリエイターけんごさんの「推し本」聞きました！！",
+  "url": "https://www.youtube.com/watch?v=01JK2U-WrSs"
+  }
+  ]
+  },
+  {
+  "title": "恋に至る病 (メディアワークス文庫)",
+  "views": 0,
+  "isbn": "B085ZBNV69",
+  "data": [
+  {
+  "title": "小説紹介クリエイターけんごさんの「推し本」聞きました！！",
+  "url": "https://www.youtube.com/watch?v=01JK2U-WrSs"
+  }
+  ]
+  },
+  {
+  "title": "ワカレ花",
+  "views": 0,
+  "isbn": "9784575245134",
+  "data": [
+  {
+  "title": "小説紹介クリエイターけんごさんの「推し本」聞きました！！",
+  "url": "https://www.youtube.com/watch?v=01JK2U-WrSs"
+  },
+  {
+  "title": "小説紹介TikTokで大人気！けんごさんに、本を紹介するコツを聞いてみた",
+  "url": "https://www.youtube.com/watch?v=UOJKyZ6yMtE"
+  }
+  ]
+  },
+  {
+  "title": "きらきらし",
+  "views": 0,
+  "isbn": "9784103549413",
+  "data": [
+  {
+  "title": "宮田愛萌ちゃんにおすすめ本を聞いたら、いつのまにか本好きあるある話になってました……",
+  "url": "https://www.youtube.com/watch?v=Y9eCOHHzaCo"
+  }
+  ]
+  },
+  {
+  "title": "蒲公英草紙　常野物語 (集英社文庫)",
+  "views": 0,
+  "isbn": "B07227NM6W",
+  "data": [
+  {
+  "title": "宮田愛萌ちゃんにおすすめ本を聞いたら、いつのまにか本好きあるある話になってました……",
+  "url": "https://www.youtube.com/watch?v=Y9eCOHHzaCo"
+  }
+  ]
+  },
+  {
+  "title": "冷静と情熱のあいだ Rosso (角川文庫)",
+  "views": 0,
+  "isbn": "9784043480036",
+  "data": [
+  {
+  "title": "宮田愛萌ちゃんにおすすめ本を聞いたら、いつのまにか本好きあるある話になってました……",
+  "url": "https://www.youtube.com/watch?v=Y9eCOHHzaCo"
+  }
+  ]
+  },
+  {
+  "title": "冷静と情熱のあいだ Blu (角川文庫)",
+  "views": 0,
+  "isbn": "9784043599011",
+  "data": [
+  {
+  "title": "宮田愛萌ちゃんにおすすめ本を聞いたら、いつのまにか本好きあるある話になってました……",
+  "url": "https://www.youtube.com/watch?v=Y9eCOHHzaCo"
+  }
+  ]
+  },
+  {
+  "title": "名場面でわかる　刺さる小説の技術",
+  "views": 0,
+  "isbn": "B0C5WSGNVM",
+  "data": [
+  {
+  "title": "新刊が出ました！近況について雑談しました！",
+  "url": "https://www.youtube.com/watch?v=BT2p_ZWcXig"
+  }
+  ]
+  },
+  {
+  "title": "日本文化POP&ROCK",
+  "views": 0,
+  "isbn": "9784305709752",
+  "data": [
+  {
+  "title": "『日本文化POP＆ROCK』刊行記念！和樂web編集長セバスチャン高木さん×三宅香帆による古典文学・日本の伝統文化オタクトーク！【著者と喋ろうラジオ】",
+  "url": "https://www.youtube.com/watch?v=0sPlrzjaYBU"
+  }
+  ]
+  },
+  {
+  "title": "(萌えすぎて)絶対忘れない! 妄想古文 (14歳の世渡り術)",
+  "views": 0,
+  "isbn": "9784309617466",
+  "data": [
+  {
+  "title": "『日本文化POP＆ROCK』刊行記念！和樂web編集長セバスチャン高木さん×三宅香帆による古典文学・日本の伝統文化オタクトーク！【著者と喋ろうラジオ】",
+  "url": "https://www.youtube.com/watch?v=0sPlrzjaYBU"
+  },
+  {
+  "title": "源氏物語について語りながら京都観光in宇治【新刊発売記念】",
+  "url": "https://www.youtube.com/watch?v=dFO6L-goL4E"
+  }
+  ]
+  },
+  {
+  "title": "女の子の謎を解く",
+  "views": 0,
+  "isbn": "B09L4H6THP",
+  "data": [
+  {
+  "title": "三宅香帆、自分で自分の本全7冊について紹介します！執筆の裏話も！",
+  "url": "https://www.youtube.com/watch?v=zL1mrXY0ppY"
+  },
+  {
+  "title": "夏休みに読みたい！おすすめ本4選を書評家が選びました",
+  "url": "https://www.youtube.com/watch?v=EYtTKqbopBM"
+  },
+  {
+  "title": "「読書感想文をすぐ書ける」4ステップ！誰でも使えるテンプレートつき【実践編・後編】",
+  "url": "https://www.youtube.com/watch?v=2lvsocUjJKk"
+  },
+  {
+  "title": "5分でわかる【読書感想文】を誰でもめっちゃ簡単に書ける裏技！",
+  "url": "https://www.youtube.com/watch?v=352oKd92t8A"
+  },
+  {
+  "title": "【芥川賞直木賞候補作レビュー】書評家が2022年上半期の芥川賞・直木賞の受賞作を予想してみた【おすすめ小説紹介】",
+  "url": "https://www.youtube.com/watch?v=4WyjqlxcSXc"
+  },
+  {
+  "title": "【本棚紹介】文芸オタクは蔵書の管理ってどうしてる？　7つ本棚を持つ書評家の本棚ツアー【海外文学・日本の小説編】",
+  "url": "https://www.youtube.com/watch?v=5QZge7oT-sU"
+  },
+  {
+  "title": "【本好き女子会】BookTuberの梨ちゃんにYoutubeの秘訣を教えてもらいました！in新潮社【初コラボ】",
+  "url": "https://www.youtube.com/watch?v=QBnLRMycd9E"
+  }
+  ]
+  },
+  {
+  "title": "それを読むたび思い出す",
+  "views": 0,
+  "isbn": "9784791774425",
+  "data": [
+  {
+  "title": "三宅香帆、自分で自分の本全7冊について紹介します！執筆の裏話も！",
+  "url": "https://www.youtube.com/watch?v=zL1mrXY0ppY"
+  },
+  {
+  "title": "夏休みに読みたい！おすすめ本4選を書評家が選びました",
+  "url": "https://www.youtube.com/watch?v=EYtTKqbopBM"
+  },
+  {
+  "title": "「読書感想文をすぐ書ける」4ステップ！誰でも使えるテンプレートつき【実践編・後編】",
+  "url": "https://www.youtube.com/watch?v=2lvsocUjJKk"
+  }
+  ]
+  },
+  {
+  "title": "バッテリー (教育画劇の創作文学)",
+  "views": 0,
+  "isbn": "9784876925810",
+  "data": [
+  {
+  "title": "「読書感想文をすぐ書ける」4ステップ！誰でも使えるテンプレートつき【実践編・後編】",
+  "url": "https://www.youtube.com/watch?v=2lvsocUjJKk"
+  }
+  ]
   }
   ]
   }
 
-export default books
+
+export default books;
