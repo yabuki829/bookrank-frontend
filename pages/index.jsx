@@ -46,9 +46,10 @@ export default function Home() {
       </div>
       <p className='bg-blue-400 text-white p-2'>今後の機能追加予定</p>
         <ul>
+          <li className='line-through'>・ランキング順位の決め方の変更</li>
+          <li className='line-through'>・検索機能の追加</li>
           <li>・1週間の1ヶ月のランキングの追加</li>
-          <li>・検索機能の追加</li>
-          <li>・ランキング順位の決め方の変更</li>
+         
           <li>・カテゴリごとのランキング追加</li>
           <li></li>
         </ul>
