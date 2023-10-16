@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import books_data from '../books'
 import Header from '../components/layouts/Header'
-
+import Head from 'next/head';
 const Search = () => {
 
   const [searchTerm, setSearchTerm] = useState('')
