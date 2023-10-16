@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import books_data from '../books'
 import Header from '../components/layouts/Header'
 
-const search = () => {
+const Search = () => {
 
   const [searchTerm, setSearchTerm] = useState('')
   const [filteredBooks, setFilteredBooks] = useState([])
@@ -24,6 +24,11 @@ const search = () => {
   return (
     <div>
     <Header />
+    <Head>
+        <title>Book Rank:検索</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta property="description" content="Youtubeで紹介されてる本を集計しランキングを作成したサイトです" />
+      </Head>
     <div className='m-4 md:m-auto  md:w-2/3 md:pt-16'>
       <div className='w-full flex flex-col justify-center items-center mb-20'>
         <input
@@ -79,4 +84,4 @@ const search = () => {
   )
 }
 
-export default search
+export default Search

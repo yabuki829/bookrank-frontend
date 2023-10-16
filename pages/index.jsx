@@ -3,8 +3,7 @@ import { useQuery } from 'react-query';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import books_data from '../books';
 import Header from '../components/layouts/Header';
-
-
+import Head from 'next/head';
 
 const fetchBooks = async ({ queryKey }) => {
   // あんまり理解できてない
@@ -35,6 +34,10 @@ export default function Home() {
 
   return (
     <div className=''>
+      <Head>
+        <title>Book Rank</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <Header/>
       <div className='m-4 md:m-auto  md:w-2/3'>
 
