@@ -1,7 +1,5 @@
-import { defaults } from "autoprefixer"
-
-const  books = {
-  "total_books": 3597,
+const books = {
+  "total_books": 3628,
   "books": [
   {
   "title": "人は話し方が9割",
@@ -11645,6 +11643,10 @@ const  books = {
   {
   "title": "【バイブル】まだ読んでいない人がバチクソ羨ましい。『アルケミスト 夢を旅した少年』",
   "url": "https://www.youtube.com/watch?v=wPPe4q_AM4Q"
+  },
+  {
+  "title": "1年、1か月、1週間、1日、時間術の裏技使えば人生が激変するぞ！『目標や夢が達成できる　1 年・1 カ月・１週間・1 日の時間術』",
+  "url": "https://www.youtube.com/watch?v=JBjaKVtVk_4"
   }
   ]
   },
@@ -36765,6 +36767,10 @@ const  books = {
   {
   "title": "今から皆でどんでん返しのシーンを読みます【十戒】",
   "url": "https://www.youtube.com/watch?v=CUYP_H8KR5Q"
+  },
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人がめちゃくちゃ悩んで購入した4作品を紹介していく！【2023年9月後半編】",
+  "url": "https://www.youtube.com/watch?v=D14aXDagOgM"
   }
   ]
   },
@@ -37238,6 +37244,10 @@ const  books = {
   {
   "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
   "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
+  },
+  {
+  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン#2【11/15～11/17】",
+  "url": "https://www.youtube.com/watch?v=osQ9RdZ5FeQ"
   }
   ]
   },
@@ -43136,6 +43146,10 @@ const  books = {
   {
   "title": "宮田愛萌ちゃんにおすすめ本を聞いたら、いつのまにか本好きあるある話になってました……",
   "url": "https://www.youtube.com/watch?v=Y9eCOHHzaCo"
+  },
+  {
+  "title": "全問正解なるか！？宮田愛萌さんの文庫愛が大炸裂します！利き文庫対決PART3【スケザネ図書館】【#利き文庫】【宮田愛萌】",
+  "url": "https://www.youtube.com/watch?v=0XvpdLz3CA8"
   }
   ]
   },
@@ -43701,6 +43715,10 @@ const  books = {
   {
   "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン【10/9～10/11】",
   "url": "https://www.youtube.com/watch?v=KFY413DLpWU"
+  },
+  {
+  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
+  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
   }
   ]
   },
@@ -45183,6 +45201,10 @@ const  books = {
   {
   "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン【10/9～10/11】",
   "url": "https://www.youtube.com/watch?v=KFY413DLpWU"
+  },
+  {
+  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
+  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
   }
   ]
   },
@@ -45194,6 +45216,10 @@ const  books = {
   {
   "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン【10/9～10/11】",
   "url": "https://www.youtube.com/watch?v=KFY413DLpWU"
+  },
+  {
+  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
+  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
   }
   ]
   },
@@ -45205,6 +45231,10 @@ const  books = {
   {
   "title": "宮田愛萌無双！手触りだけで箱の中にある文庫本を当てます！利き文庫対決PART2【スケザネ図書館】【#利き文庫】【宮田愛萌】",
   "url": "https://www.youtube.com/watch?v=OA1EEb336j8"
+  },
+  {
+  "title": "全問正解なるか！？宮田愛萌さんの文庫愛が大炸裂します！利き文庫対決PART3【スケザネ図書館】【#利き文庫】【宮田愛萌】",
+  "url": "https://www.youtube.com/watch?v=0XvpdLz3CA8"
   }
   ]
   },
@@ -46269,9 +46299,346 @@ const  books = {
   "url": "https://www.youtube.com/watch?v=darxqE6rpKE"
   }
   ]
+  },
+  {
+  "title": "目標や夢が達成できる　1 年・1 カ月・１週間・1 日の時間術　目標を立てても、なかなか行動に移せない…そんな悩みを解決します！",
+  "views": 0,
+  "isbn": "9784761276942",
+  "data": [
+  {
+  "title": "1年、1か月、1週間、1日、時間術の裏技使えば人生が激変するぞ！『目標や夢が達成できる　1 年・1 カ月・１週間・1 日の時間術』",
+  "url": "https://www.youtube.com/watch?v=JBjaKVtVk_4"
+  }
+  ]
+  },
+  {
+  "title": "ビジネスパーソンの未来をつくるリスキリングの本 キャリアアップに向けた「社会人基礎力」のススメ",
+  "views": 0,
+  "isbn": "B0CJ289B61",
+  "data": [
+  {
+  "title": "【10分で解説】ビジネスパーソンの未来をつくるリスキリングの本　キャリアアップに向けた「社会人基礎力」のススメ",
+  "url": "https://www.youtube.com/watch?v=n58S7-xr_Ek"
+  }
+  ]
+  },
+  {
+  "title": "シャーロック+アカデミー Logic.1 犯罪王の孫、名探偵を論破する (MF文庫J)",
+  "views": 0,
+  "isbn": "9784046824462",
+  "data": [
+  {
+  "title": "【一週間読書】ラノベ初心者の僕がおすすめ作品を5つ教えてもらって一気読み企画やってみたら、「ミステリーラノベ」にドはまりしてしまった件について【キミラノ】",
+  "url": "https://www.youtube.com/watch?v=0cTXekHerFw"
+  }
+  ]
+  },
+  {
+  "title": "また殺されてしまったのですね、探偵様 (MF文庫J)",
+  "views": 0,
+  "isbn": "9784046806994",
+  "data": [
+  {
+  "title": "【一週間読書】ラノベ初心者の僕がおすすめ作品を5つ教えてもらって一気読み企画やってみたら、「ミステリーラノベ」にドはまりしてしまった件について【キミラノ】",
+  "url": "https://www.youtube.com/watch?v=0cTXekHerFw"
+  }
+  ]
+  },
+  {
+  "title": "魍魎探偵今宵も騙らず (MF文庫J)",
+  "views": 0,
+  "isbn": "9784046826596",
+  "data": [
+  {
+  "title": "【一週間読書】ラノベ初心者の僕がおすすめ作品を5つ教えてもらって一気読み企画やってみたら、「ミステリーラノベ」にドはまりしてしまった件について【キミラノ】",
+  "url": "https://www.youtube.com/watch?v=0cTXekHerFw"
+  }
+  ]
+  },
+  {
+  "title": "スパイ教室01 《花園》のリリィ (ファンタジア文庫)",
+  "views": 0,
+  "isbn": "9784040734804",
+  "data": [
+  {
+  "title": "【一週間読書】ラノベ初心者の僕がおすすめ作品を5つ教えてもらって一気読み企画やってみたら、「ミステリーラノベ」にドはまりしてしまった件について【キミラノ】",
+  "url": "https://www.youtube.com/watch?v=0cTXekHerFw"
+  }
+  ]
+  },
+  {
+  "title": "僕らは『読み』を間違える (角川スニーカー文庫)",
+  "views": 0,
+  "isbn": "9784041129883",
+  "data": [
+  {
+  "title": "【一週間読書】ラノベ初心者の僕がおすすめ作品を5つ教えてもらって一気読み企画やってみたら、「ミステリーラノベ」にドはまりしてしまった件について【キミラノ】",
+  "url": "https://www.youtube.com/watch?v=0cTXekHerFw"
+  }
+  ]
+  },
+  {
+  "title": "光を灯す男たち (新潮クレスト・ブックス)",
+  "views": 0,
+  "isbn": "9784105901837",
+  "data": [
+  {
+  "title": "【ミステリー小説を買いに行こう#3】東京・日本橋で本屋さん巡り！「タロー書房」と「丸善」に行ってきたよ！【vlog】",
+  "url": "https://www.youtube.com/watch?v=wrY4cgvp5Yc"
+  }
+  ]
+  },
+  {
+  "title": "飛べない雛 横浜ネイバーズ(2) (ハルキ文庫 い 27-2)",
+  "views": 0,
+  "isbn": "9784758445597",
+  "data": [
+  {
+  "title": "【ミステリー小説を買いに行こう#3】東京・日本橋で本屋さん巡り！「タロー書房」と「丸善」に行ってきたよ！【vlog】",
+  "url": "https://www.youtube.com/watch?v=wrY4cgvp5Yc"
+  }
+  ]
+  },
+  {
+  "title": "疵痕とラベンダー (潮文庫)",
+  "views": 0,
+  "isbn": "9784267024054",
+  "data": [
+  {
+  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン#2【11/15～11/17】",
+  "url": "https://www.youtube.com/watch?v=osQ9RdZ5FeQ"
+  },
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
+  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
+  }
+  ]
+  },
+  {
+  "title": "11文字の檻: 青崎有吾短編集成 (創元推理文庫)",
+  "views": 0,
+  "isbn": "9784488443153",
+  "data": [
+  {
+  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン#2【11/15～11/17】",
+  "url": "https://www.youtube.com/watch?v=osQ9RdZ5FeQ"
+  }
+  ]
+  },
+  {
+  "title": "哀惜 (ハヤカワ・ミステリ文庫 HMク 25-1)",
+  "views": 0,
+  "isbn": "9784151853012",
+  "data": [
+  {
+  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン#2【11/15～11/17】",
+  "url": "https://www.youtube.com/watch?v=osQ9RdZ5FeQ"
+  }
+  ]
+  },
+  {
+  "title": "戦国女刑事",
+  "views": 0,
+  "isbn": "9784093866927",
+  "data": [
+  {
+  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン#2【11/15～11/17】",
+  "url": "https://www.youtube.com/watch?v=osQ9RdZ5FeQ"
+  },
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
+  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
+  }
+  ]
+  },
+  {
+  "title": "エリザベス女王の事件簿 バッキンガム宮殿の三匹の犬 (角川文庫)",
+  "views": 0,
+  "isbn": "9784041110201",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
+  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
+  }
+  ]
+  },
+  {
+  "title": "新シャーロック・ホームズの冒険 顔のない男たち (角川文庫)",
+  "views": 0,
+  "isbn": "9784041136027",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
+  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
+  }
+  ]
+  },
+  {
+  "title": "ポー傑作選3 ブラックユーモア編 Xだらけの社説 (角川文庫)",
+  "views": 0,
+  "isbn": "9784041130780",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
+  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
+  },
+  {
+  "title": "【読書vlog】田舎暮らしのハロウィン読書。ブラックユーモア＆ゴシックホラーな海外作品を読んだ日の記録｜『Ｘだらけの社説』｜『メキシカン・ゴシック』【ミステリー小説好きの日常#26】",
+  "url": "https://www.youtube.com/watch?v=4DhRkODWAu8"
+  }
+  ]
+  },
+  {
+  "title": "闇の牢獄",
+  "views": 0,
+  "isbn": "9784041125885",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
+  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
+  }
+  ]
+  },
+  {
+  "title": "Q",
+  "views": 0,
+  "isbn": "9784093866996",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
+  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
+  }
+  ]
+  },
+  {
+  "title": "この限りある世界で",
+  "views": 0,
+  "isbn": "9784575246391",
+  "data": [
+  {
+  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
+  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
+  }
+  ]
+  },
+  {
+  "title": "神の呪われた子 池袋ウエストゲートパークXIX",
+  "views": 0,
+  "isbn": "9784163917450",
+  "data": [
+  {
+  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
+  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
+  }
+  ]
+  },
+  {
+  "title": "メキシカン・ゴシック",
+  "views": 0,
+  "isbn": "9784152100924",
+  "data": [
+  {
+  "title": "【読書vlog】田舎暮らしのハロウィン読書。ブラックユーモア＆ゴシックホラーな海外作品を読んだ日の記録｜『Ｘだらけの社説』｜『メキシカン・ゴシック』【ミステリー小説好きの日常#26】",
+  "url": "https://www.youtube.com/watch?v=4DhRkODWAu8"
+  }
+  ]
+  },
+  {
+  "title": "グレイラットの殺人 (ハヤカワ・ミステリ文庫 HMク 23-4)",
+  "views": 0,
+  "isbn": "9784151842542",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人がめちゃくちゃ悩んで購入した4作品を紹介していく！【2023年9月後半編】",
+  "url": "https://www.youtube.com/watch?v=D14aXDagOgM"
+  }
+  ]
+  },
+  {
+  "title": "薬屋の秘密 (ハーパーＢＯＯＫＳ)",
+  "views": 0,
+  "isbn": "9784596525260",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人がめちゃくちゃ悩んで購入した4作品を紹介していく！【2023年9月後半編】",
+  "url": "https://www.youtube.com/watch?v=D14aXDagOgM"
+  }
+  ]
+  },
+  {
+  "title": "君のために鐘は鳴る",
+  "views": 0,
+  "isbn": "9784163917474",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人がめちゃくちゃ悩んで購入した4作品を紹介していく！【2023年9月後半編】",
+  "url": "https://www.youtube.com/watch?v=D14aXDagOgM"
+  }
+  ]
+  },
+  {
+  "title": "短歌研究2023年5-6月号",
+  "views": 0,
+  "isbn": "B0C3C6W1D4",
+  "data": [
+  {
+  "title": "全問正解なるか！？宮田愛萌さんの文庫愛が大炸裂します！利き文庫対決PART3【スケザネ図書館】【#利き文庫】【宮田愛萌】",
+  "url": "https://www.youtube.com/watch?v=0XvpdLz3CA8"
+  }
+  ]
+  },
+  {
+  "title": "小説現代 2023年 07 月号 [雑誌]",
+  "views": 0,
+  "isbn": "B0C74WKG65",
+  "data": [
+  {
+  "title": "全問正解なるか！？宮田愛萌さんの文庫愛が大炸裂します！利き文庫対決PART3【スケザネ図書館】【#利き文庫】【宮田愛萌】",
+  "url": "https://www.youtube.com/watch?v=0XvpdLz3CA8"
+  }
+  ]
+  },
+  {
+  "title": "物語のカギ: 「読む」が10倍楽しくなる38のヒント",
+  "views": 0,
+  "isbn": "9784305709653",
+  "data": [
+  {
+  "title": "全問正解なるか！？宮田愛萌さんの文庫愛が大炸裂します！利き文庫対決PART3【スケザネ図書館】【#利き文庫】【宮田愛萌】",
+  "url": "https://www.youtube.com/watch?v=0XvpdLz3CA8"
+  }
+  ]
+  },
+  {
+  "title": "季刊 アンソロジスト 2022年 春 創刊号 (ポケットアンソロジー)",
+  "views": 0,
+  "isbn": "9784803803983",
+  "data": [
+  {
+  "title": "全問正解なるか！？宮田愛萌さんの文庫愛が大炸裂します！利き文庫対決PART3【スケザネ図書館】【#利き文庫】【宮田愛萌】",
+  "url": "https://www.youtube.com/watch?v=0XvpdLz3CA8"
+  }
+  ]
+  },
+  {
+  "title": "内臓脂肪の名医が教える 痩せるお酒の飲み方: お酒と肝臓の仕組みがわかれば 飲みながらでも痩せられる!",
+  "views": 0,
+  "isbn": "9784537221541",
+  "data": []
+  },
+  {
+  "title": "「やせる本」100冊のダイエットのコツを1冊にまとめてみた。 (一般書)",
+  "views": 0,
+  "isbn": "9784591175361",
+  "data": []
+  },
+  {
+  "title": "疲労回復の専門医が選ぶ健康本ベストセラー100冊「すごい回復」を1冊にまとめた本",
+  "views": 0,
+  "isbn": "9784847072895",
+  "data": []
   }
   ]
   }
 
-
-export default  books;
+export default books
