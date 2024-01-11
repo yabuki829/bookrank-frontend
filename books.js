@@ -1,5 +1,5 @@
 const books = {
-  "total_books": 3670,
+  "total_books": 3692,
   "books": [
   {
   "title": "人は話し方が9割",
@@ -1172,6 +1172,29 @@ const books = {
   ]
   },
   {
+  "title": "FIRE 最強の早期リタイア術――最速でお金から自由になれる究極メソッド",
+  "views": 32,
+  "isbn": "B0855P4T9N",
+  "data": [
+  {
+  "title": "【投資】『FIRE 最強の早期リタイア術 最速でお金から自由になれる究極メソッド』【本要約】",
+  "url": "https://www.youtube.com/watch?v=P06b0IeNgZs"
+  },
+  {
+  "title": "働かなくても生きていけるようになる本！　13分でわかる『FIRE最強の早期リタイヤ術』",
+  "url": "https://www.youtube.com/watch?v=HfGd-XL7das"
+  },
+  {
+  "title": "【10分で解説】旅行すればお金が貯まる　FIREに１億円は必要ない　　最強の早期リタイア術　最速でお金から自由になれる究極メソッド",
+  "url": "https://www.youtube.com/watch?v=rsPKpfbHbt0"
+  },
+  {
+  "title": "聞き流すだけでお金が貯まるノウハウが151％身に付きます！『総集編　節約・貯金』",
+  "url": "https://www.youtube.com/watch?v=08tMBUHSCI4"
+  }
+  ]
+  },
+  {
   "title": "ブレイン メンタル 強化大全",
   "views": 32,
   "isbn": "4801400809",
@@ -2008,25 +2031,6 @@ const books = {
   ]
   },
   {
-  "title": "FIRE 最強の早期リタイア術――最速でお金から自由になれる究極メソッド",
-  "views": 30,
-  "isbn": "B0855P4T9N",
-  "data": [
-  {
-  "title": "【投資】『FIRE 最強の早期リタイア術 最速でお金から自由になれる究極メソッド』【本要約】",
-  "url": "https://www.youtube.com/watch?v=P06b0IeNgZs"
-  },
-  {
-  "title": "働かなくても生きていけるようになる本！　13分でわかる『FIRE最強の早期リタイヤ術』",
-  "url": "https://www.youtube.com/watch?v=HfGd-XL7das"
-  },
-  {
-  "title": "【10分で解説】旅行すればお金が貯まる　FIREに１億円は必要ない　　最強の早期リタイア術　最速でお金から自由になれる究極メソッド",
-  "url": "https://www.youtube.com/watch?v=rsPKpfbHbt0"
-  }
-  ]
-  },
-  {
   "title": "読んだら忘れない読書術",
   "views": 30,
   "isbn": "4763134507",
@@ -2502,6 +2506,25 @@ const books = {
   ]
   },
   {
+  "title": "もしあと1年で人生が終わるとしたら?",
+  "views": 30,
+  "isbn": "None",
+  "data": [
+  {
+  "title": "『もしあと1年で人生が終わるとしたら？』全員が本気で考えるべき内容の本です！",
+  "url": "https://www.youtube.com/watch?v=udn77MyK05A"
+  },
+  {
+  "title": "【要約】もしあと1年で人生が終わるとしたら?【小澤竹俊】",
+  "url": "https://www.youtube.com/watch?v=tXLef3cSjk0"
+  },
+  {
+  "title": "【10分で解説】もしあと1年で人生が終わるとしたら",
+  "url": "https://www.youtube.com/watch?v=D9nAo11JAH0"
+  }
+  ]
+  },
+  {
   "title": "AI分析でわかった トップ5%社員の習慣",
   "views": 30,
   "isbn": "4799326082",
@@ -2967,6 +2990,37 @@ const books = {
   ]
   },
   {
+  "title": "方舟",
+  "views": 28,
+  "isbn": "B0BC8HZZZN",
+  "data": [
+  {
+  "title": "好きなタイトルデザイン【フォント好き集まれ】",
+  "url": "https://www.youtube.com/watch?v=A_0-5LJIXtE"
+  },
+  {
+  "title": "話題のミステリ『方舟』のオチを読む人を観察しました",
+  "url": "https://www.youtube.com/watch?v=AkHJY57GF6Q"
+  },
+  {
+  "title": "【LIVE】第４回ほんタメ文学賞（2022年下半期）【大賞発表】",
+  "url": "https://www.youtube.com/watch?v=0Z_6XAg2sgQ"
+  },
+  {
+  "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
+  "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
+  },
+  {
+  "title": "【全6冊】本屋で何を買うか悩んでいるあなたへ【2022年12月】",
+  "url": "https://www.youtube.com/watch?v=pMwKz8feksc"
+  },
+  {
+  "title": "探偵が不利すぎるミステリ3選",
+  "url": "https://www.youtube.com/watch?v=PHi9rM4x9aI"
+  }
+  ]
+  },
+  {
   "title": "新訳 ハイパワー・マーケティング あなたのビジネスを加速させる「力」の見つけ方",
   "views": 28,
   "isbn": "4041056756",
@@ -3354,33 +3408,6 @@ const books = {
   ]
   },
   {
-  "title": "方舟",
-  "views": 26,
-  "isbn": "B0BC8HZZZN",
-  "data": [
-  {
-  "title": "好きなタイトルデザイン【フォント好き集まれ】",
-  "url": "https://www.youtube.com/watch?v=A_0-5LJIXtE"
-  },
-  {
-  "title": "話題のミステリ『方舟』のオチを読む人を観察しました",
-  "url": "https://www.youtube.com/watch?v=AkHJY57GF6Q"
-  },
-  {
-  "title": "【LIVE】第４回ほんタメ文学賞（2022年下半期）【大賞発表】",
-  "url": "https://www.youtube.com/watch?v=0Z_6XAg2sgQ"
-  },
-  {
-  "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
-  "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
-  },
-  {
-  "title": "【全6冊】本屋で何を買うか悩んでいるあなたへ【2022年12月】",
-  "url": "https://www.youtube.com/watch?v=pMwKz8feksc"
-  }
-  ]
-  },
-  {
   "title": "殺人出産 (講談社文庫)",
   "views": 26,
   "isbn": "B01JYUTHX2",
@@ -3408,6 +3435,33 @@ const books = {
   ]
   },
   {
+  "title": "Dr.STONE 1 (ジャンプコミックスDIGITAL)",
+  "views": 26,
+  "isbn": "B071VV14SF",
+  "data": [
+  {
+  "title": "読み忘れてる王道漫画ないですか？？？",
+  "url": "https://www.youtube.com/watch?v=AtWsfet5XBU"
+  },
+  {
+  "title": "短時間で漫画の魅力を伝えられるのはどっち！？",
+  "url": "https://www.youtube.com/watch?v=9qZn1mtg7JY"
+  },
+  {
+  "title": "ガチ理系が『Dr.STONE』の魅力を解説します",
+  "url": "https://www.youtube.com/watch?v=uO0pgvTF0PI"
+  },
+  {
+  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  },
+  {
+  "title": "年末年始に一気読みしたい本【2024年もよろしくお願いします】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  }
+  ]
+  },
+  {
   "title": "汝、星のごとく",
   "views": 24,
   "isbn": "4065281490",
@@ -3427,6 +3481,29 @@ const books = {
   {
   "title": "最近読んだ本の話をします！【10冊】【2022年11月】",
   "url": "https://www.youtube.com/watch?v=CCthyt1g7lQ"
+  }
+  ]
+  },
+  {
+  "title": "かか (河出文庫)",
+  "views": 24,
+  "isbn": "B0CCF1STC2",
+  "data": [
+  {
+  "title": "愛憎まみれる母娘関係を描いた傑作「かか」を紹介します！【書評】",
+  "url": "https://www.youtube.com/watch?v=6DLj_D-vjbE"
+  },
+  {
+  "title": "『文藝賞』とは何かを解説します！【推し文学賞】",
+  "url": "https://www.youtube.com/watch?v=CIsbX_jn43M"
+  },
+  {
+  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
+  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
+  },
+  {
+  "title": "文体が独特すぎる本3選",
+  "url": "https://www.youtube.com/watch?v=I609LWFumVI"
   }
   ]
   },
@@ -3916,6 +3993,29 @@ const books = {
   ]
   },
   {
+  "title": "ミシン　missin’ (小学館文庫)",
+  "views": 24,
+  "isbn": "B00ETN5RQG",
+  "data": [
+  {
+  "title": "書き出しが最高な小説3冊 #shorts",
+  "url": "https://www.youtube.com/watch?v=UoNGeuPBEcM"
+  },
+  {
+  "title": "【小説紹介】つい止めたくなってしまう恋愛ってあるよね",
+  "url": "https://www.youtube.com/watch?v=BJ4rTwwqGw8"
+  },
+  {
+  "title": "最高すぎる小説の書き出し6選",
+  "url": "https://www.youtube.com/watch?v=CfdyYSNavMk"
+  },
+  {
+  "title": "一目惚れした人に声かけられた #小説 #本",
+  "url": "https://www.youtube.com/watch?v=PyoD3jKcXc0"
+  }
+  ]
+  },
+  {
   "title": "あわのまにまに【電子版特典付き】 (角川書店単行本)",
   "views": 24,
   "isbn": "B0BV5R182M",
@@ -4004,29 +4104,6 @@ const books = {
   {
   "title": "本好きが選んだ2022年上半期で一番面白かった小説を発表します",
   "url": "https://www.youtube.com/watch?v=gC8NBN3QI18"
-  }
-  ]
-  },
-  {
-  "title": "Dr.STONE 1 (ジャンプコミックスDIGITAL)",
-  "views": 24,
-  "isbn": "B071VV14SF",
-  "data": [
-  {
-  "title": "読み忘れてる王道漫画ないですか？？？",
-  "url": "https://www.youtube.com/watch?v=AtWsfet5XBU"
-  },
-  {
-  "title": "短時間で漫画の魅力を伝えられるのはどっち！？",
-  "url": "https://www.youtube.com/watch?v=9qZn1mtg7JY"
-  },
-  {
-  "title": "ガチ理系が『Dr.STONE』の魅力を解説します",
-  "url": "https://www.youtube.com/watch?v=uO0pgvTF0PI"
-  },
-  {
-  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
-  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
   }
   ]
   },
@@ -4510,6 +4587,25 @@ const books = {
   {
   "title": "【18分で解説】本質を押さえればリバウンドしない　満腹食べても太らない体　101の科学的根拠と92％の成功率からわかった",
   "url": "https://www.youtube.com/watch?v=7WF10cZez2Q"
+  }
+  ]
+  },
+  {
+  "title": "150人のお金持ちから聞いた 一生困らないお金の習慣",
+  "views": 22,
+  "isbn": "None",
+  "data": [
+  {
+  "title": "【11分で解説！】150人のお金持ちから聞いた 一生困らないお金の習慣【本要約】",
+  "url": "https://www.youtube.com/watch?v=MTquG7dQePo"
+  },
+  {
+  "title": "【神本】この本読んで、お金に困る人0人説　『150人のお金持ちから聞いた一生困らないお金の習慣』",
+  "url": "https://www.youtube.com/watch?v=bF-npqUHA70"
+  },
+  {
+  "title": "聞き流すだけでお金が貯まるノウハウが151％身に付きます！『総集編　節約・貯金』",
+  "url": "https://www.youtube.com/watch?v=08tMBUHSCI4"
   }
   ]
   },
@@ -5420,21 +5516,21 @@ const books = {
   ]
   },
   {
-  "title": "ミシン　missin’ (小学館文庫)",
+  "title": "ＮＯ推理、ＮＯ探偵？ (講談社ノベルス)",
   "views": 22,
-  "isbn": "B00ETN5RQG",
+  "isbn": "B0759JRC2P",
   "data": [
   {
-  "title": "書き出しが最高な小説3冊 #shorts",
-  "url": "https://www.youtube.com/watch?v=UoNGeuPBEcM"
+  "title": "変わった刺激がほしいあなたへ【メタミステリ3選】",
+  "url": "https://www.youtube.com/watch?v=XLMRgtSeNTY"
   },
   {
-  "title": "【小説紹介】つい止めたくなってしまう恋愛ってあるよね",
-  "url": "https://www.youtube.com/watch?v=BJ4rTwwqGw8"
+  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
+  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
   },
   {
-  "title": "最高すぎる小説の書き出し6選",
-  "url": "https://www.youtube.com/watch?v=CfdyYSNavMk"
+  "title": "探偵が不利すぎるミステリ3選",
+  "url": "https://www.youtube.com/watch?v=PHi9rM4x9aI"
   }
   ]
   },
@@ -5511,6 +5607,25 @@ const books = {
   {
   "title": "2022年下半期のBEST3本を発表します【ほんタメ文学賞】",
   "url": "https://www.youtube.com/watch?v=ACs3Ull38m4"
+  }
+  ]
+  },
+  {
+  "title": "文庫版　書楼弔堂　破曉 (集英社文庫)",
+  "views": 22,
+  "isbn": "B01NCJRFL5",
+  "data": [
+  {
+  "title": "【LIVE】㊗️ほんタメ２周年記念",
+  "url": "https://www.youtube.com/watch?v=HnkA4OtOYa8"
+  },
+  {
+  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  },
+  {
+  "title": "年末年始に一気読みしたい本【2024年もよろしくお願いします】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
   }
   ]
   },
@@ -6604,21 +6719,6 @@ const books = {
   ]
   },
   {
-  "title": "150人のお金持ちから聞いた 一生困らないお金の習慣",
-  "views": 20,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "【11分で解説！】150人のお金持ちから聞いた 一生困らないお金の習慣【本要約】",
-  "url": "https://www.youtube.com/watch?v=MTquG7dQePo"
-  },
-  {
-  "title": "【神本】この本読んで、お金に困る人0人説　『150人のお金持ちから聞いた一生困らないお金の習慣』",
-  "url": "https://www.youtube.com/watch?v=bF-npqUHA70"
-  }
-  ]
-  },
-  {
   "title": "１分で話せ２【超実践編】　世界のトップが絶賛した即座に考えが“まとまる”“伝わる”すごい技術",
   "views": 20,
   "isbn": "None",
@@ -7665,21 +7765,6 @@ const books = {
   {
   "title": "【16分で解説】貯金0円生活!  目指すはハッピーセミリタイア!  お金を賢く手放す5つの習慣",
   "url": "https://www.youtube.com/watch?v=oOzBF56CozE"
-  }
-  ]
-  },
-  {
-  "title": "もしあと1年で人生が終わるとしたら?",
-  "views": 20,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "『もしあと1年で人生が終わるとしたら？』全員が本気で考えるべき内容の本です！",
-  "url": "https://www.youtube.com/watch?v=udn77MyK05A"
-  },
-  {
-  "title": "【要約】もしあと1年で人生が終わるとしたら?【小澤竹俊】",
-  "url": "https://www.youtube.com/watch?v=tXLef3cSjk0"
   }
   ]
   },
@@ -9216,21 +9301,6 @@ const books = {
   ]
   },
   {
-  "title": "文庫版　書楼弔堂　破曉 (集英社文庫)",
-  "views": 20,
-  "isbn": "B01NCJRFL5",
-  "data": [
-  {
-  "title": "【LIVE】㊗️ほんタメ２周年記念",
-  "url": "https://www.youtube.com/watch?v=HnkA4OtOYa8"
-  },
-  {
-  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
-  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
-  }
-  ]
-  },
-  {
   "title": "逃亡者",
   "views": 20,
   "isbn": "9784344035935",
@@ -9437,6 +9507,21 @@ const books = {
   {
   "title": "広すぎる本屋で大爆走！【はじめての(?)おつかい】",
   "url": "https://www.youtube.com/watch?v=kr0qz_DCYuM"
+  }
+  ]
+  },
+  {
+  "title": "イキルキス (講談社文庫)",
+  "views": 20,
+  "isbn": "B01DLYGWWG",
+  "data": [
+  {
+  "title": "忘れられない書影10選",
+  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
+  },
+  {
+  "title": "文体が独特すぎる本3選",
+  "url": "https://www.youtube.com/watch?v=I609LWFumVI"
   }
   ]
   },
@@ -9767,6 +9852,21 @@ const books = {
   {
   "title": "【12分で解説】20代だから許されること、しておきたいこと 「ブレない」「流されない」「迷わない」自分になる6つのヒント",
   "url": "https://www.youtube.com/watch?v=IlWoWad0eLY"
+  }
+  ]
+  },
+  {
+  "title": "残酷すぎる幸せとお金の経済学",
+  "views": 20,
+  "isbn": "B0CN8WQL8H",
+  "data": [
+  {
+  "title": "【11分で解説】残酷すぎる幸せとお金の経済学",
+  "url": "https://www.youtube.com/watch?v=3-2usTM0pwE"
+  },
+  {
+  "title": "【要約】残酷すぎる幸せとお金の経済学【佐藤一磨】",
+  "url": "https://www.youtube.com/watch?v=HAyyhty1o9A"
   }
   ]
   },
@@ -10462,6 +10562,52 @@ const books = {
   ]
   },
   {
+  "title": "フェルマーの最終定理（新潮文庫）",
+  "views": 16,
+  "isbn": "B01N6JBYJX",
+  "data": [
+  {
+  "title": "ノンフィクションなのに伏線回収？【フェルマーの最終定理】",
+  "url": "https://www.youtube.com/watch?v=pNtmUQhONxc"
+  },
+  {
+  "title": "ベストセラー『フェルマーの最終定理』がなぜ面白いのか解説します",
+  "url": "https://www.youtube.com/watch?v=rsmL3xr1iuk"
+  },
+  {
+  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  },
+  {
+  "title": "年末年始に一気読みしたい本【2024年もよろしくお願いします】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  }
+  ]
+  },
+  {
+  "title": "そして五人がいなくなる　名探偵夢水清志郎事件ノート",
+  "views": 16,
+  "isbn": "B00I397BAC",
+  "data": [
+  {
+  "title": "山本祥彰の人生を変えた本3選【QK×ほんタメ】",
+  "url": "https://www.youtube.com/watch?v=kQmL-vJZv2Y"
+  },
+  {
+  "title": "今の我々を作った作品たちを紹介します",
+  "url": "https://www.youtube.com/watch?v=VYZNtkV4o1Y"
+  },
+  {
+  "title": "子供の頃に影響を受けた本",
+  "url": "https://www.youtube.com/watch?v=LfZs-dsrWFc"
+  },
+  {
+  "title": "探偵が不利すぎるミステリ3選",
+  "url": "https://www.youtube.com/watch?v=PHi9rM4x9aI"
+  }
+  ]
+  },
+  {
   "title": "スティーブ・ジョブズ 驚異のプレゼン",
   "views": 16,
   "isbn": "B00EH93MO6",
@@ -10504,6 +10650,29 @@ const books = {
   {
   "title": "【才能の見つけ方①】才能は好き・得意や遺伝子では決まらない！才能を決めるルールとは？",
   "url": "https://www.youtube.com/watch?v=pZknwzZVy0E"
+  }
+  ]
+  },
+  {
+  "title": "登録者50万人超のYouTuberが明かす “顔出しナシ”でYoutubeで稼ぐ本",
+  "views": 16,
+  "isbn": "9784804718910",
+  "data": [
+  {
+  "title": "聞き流すだけでお金が貯まるノウハウが151％身に付きます！『総集編　節約・貯金』",
+  "url": "https://www.youtube.com/watch?v=08tMBUHSCI4"
+  },
+  {
+  "title": "すげぇな。。。自分の親に読んでほしい1冊でした。『子どもとの関係が変わる　自分の親に読んでほしかった本』",
+  "url": "https://www.youtube.com/watch?v=yjEcRIP5EEs"
+  },
+  {
+  "title": "月収300万円！？嘘でしょ！？実はこれを実現させる裏技があるんです！『スモールビジネスの教科書』",
+  "url": "https://www.youtube.com/watch?v=Mv0ugFoVuR8"
+  },
+  {
+  "title": "お金が無いと全国民が不幸になるデータがあったんです。『残酷すぎる幸せとお金の経済学』",
+  "url": "https://www.youtube.com/watch?v=n48f2iO9rsk"
   }
   ]
   },
@@ -10561,25 +10730,6 @@ const books = {
   {
   "title": "心温まる鎌倉ファンタジー！ツバキ文具店/キラキラ共和国【書評】",
   "url": "https://www.youtube.com/watch?v=Du2JvTL7LVI"
-  }
-  ]
-  },
-  {
-  "title": "かか (河出文庫)",
-  "views": 14,
-  "isbn": "B0CCF1STC2",
-  "data": [
-  {
-  "title": "愛憎まみれる母娘関係を描いた傑作「かか」を紹介します！【書評】",
-  "url": "https://www.youtube.com/watch?v=6DLj_D-vjbE"
-  },
-  {
-  "title": "『文藝賞』とは何かを解説します！【推し文学賞】",
-  "url": "https://www.youtube.com/watch?v=CIsbX_jn43M"
-  },
-  {
-  "title": "読書モンスターの遍歴をお話します【あかりん読書相関図】",
-  "url": "https://www.youtube.com/watch?v=94CwqTS9lf4"
   }
   ]
   },
@@ -11819,25 +11969,6 @@ const books = {
   ]
   },
   {
-  "title": "フェルマーの最終定理（新潮文庫）",
-  "views": 14,
-  "isbn": "B01N6JBYJX",
-  "data": [
-  {
-  "title": "ノンフィクションなのに伏線回収？【フェルマーの最終定理】",
-  "url": "https://www.youtube.com/watch?v=pNtmUQhONxc"
-  },
-  {
-  "title": "ベストセラー『フェルマーの最終定理』がなぜ面白いのか解説します",
-  "url": "https://www.youtube.com/watch?v=rsmL3xr1iuk"
-  },
-  {
-  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
-  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
-  }
-  ]
-  },
-  {
   "title": "シブヤで目覚めて",
   "views": 14,
   "isbn": "9784309208268",
@@ -11933,21 +12064,21 @@ const books = {
   ]
   },
   {
-  "title": "そして五人がいなくなる　名探偵夢水清志郎事件ノート",
+  "title": "和菓子のアン (光文社文庫)",
   "views": 14,
-  "isbn": "B00I397BAC",
+  "isbn": "B00AO36RYG",
   "data": [
   {
-  "title": "山本祥彰の人生を変えた本3選【QK×ほんタメ】",
-  "url": "https://www.youtube.com/watch?v=kQmL-vJZv2Y"
+  "title": "あなたの周りも謎だらけ？【日常の謎ミステリ3選】",
+  "url": "https://www.youtube.com/watch?v=bfQW8RfqtY4"
   },
   {
-  "title": "今の我々を作った作品たちを紹介します",
-  "url": "https://www.youtube.com/watch?v=VYZNtkV4o1Y"
+  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
   },
   {
-  "title": "子供の頃に影響を受けた本",
-  "url": "https://www.youtube.com/watch?v=LfZs-dsrWFc"
+  "title": "年末年始に一気読みしたい本【2024年もよろしくお願いします】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
   }
   ]
   },
@@ -13525,6 +13656,36 @@ const books = {
   ]
   },
   {
+  "title": "公認会計士が教えるお金の増やし方大全",
+  "views": 12,
+  "isbn": "None",
+  "data": [
+  {
+  "title": "【お金のプロが教える】今すぐできる簡単なお金の増やし方が１００個学べます！！！　『公認会計が教えるお金の増やし方大全』",
+  "url": "https://www.youtube.com/watch?v=CbtME9Mn-Z4"
+  },
+  {
+  "title": "聞き流すだけでお金が貯まるノウハウが151％身に付きます！『総集編　節約・貯金』",
+  "url": "https://www.youtube.com/watch?v=08tMBUHSCI4"
+  }
+  ]
+  },
+  {
+  "title": "家族3人月10万円暮らし。年間450万円貯蓄する経理マンの幸せにお金を貯める100のリスト",
+  "views": 12,
+  "isbn": "None",
+  "data": [
+  {
+  "title": "誰よりも幸せになりつつ、お金持ちにもなれる！！！そんな欲張りな最高の1冊！『家族3人月10万円暮らし。年間450万円貯蓄する経理マンの幸せにお金を貯める100のリスト』",
+  "url": "https://www.youtube.com/watch?v=Ty4tSPxBTKc"
+  },
+  {
+  "title": "聞き流すだけでお金が貯まるノウハウが151％身に付きます！『総集編　節約・貯金』",
+  "url": "https://www.youtube.com/watch?v=08tMBUHSCI4"
+  }
+  ]
+  },
+  {
   "title": "リスクゼロでかしこく得する 地味なお金の増やし方",
   "views": 12,
   "isbn": "None",
@@ -13581,6 +13742,21 @@ const books = {
   {
   "title": "【聞き流し用】これ1本見ればOK！20代で人生9割決まります！【総集編】",
   "url": "https://www.youtube.com/watch?v=BAxudCL7eJM"
+  }
+  ]
+  },
+  {
+  "title": "これだけやれば大丈夫！　お金の不安がなくなる資産形成1年生",
+  "views": 12,
+  "isbn": "None",
+  "data": [
+  {
+  "title": "【話題作】お金増やしたい人は絶対読んでおいた方が良い本！　『お金の不安がなくなる資産形成1年生』",
+  "url": "https://www.youtube.com/watch?v=AGbEC94Qdhw"
+  },
+  {
+  "title": "聞き流すだけでお金が貯まるノウハウが151％身に付きます！『総集編　節約・貯金』",
+  "url": "https://www.youtube.com/watch?v=08tMBUHSCI4"
   }
   ]
   },
@@ -17095,21 +17271,6 @@ const books = {
   ]
   },
   {
-  "title": "ＮＯ推理、ＮＯ探偵？ (講談社ノベルス)",
-  "views": 12,
-  "isbn": "B0759JRC2P",
-  "data": [
-  {
-  "title": "変わった刺激がほしいあなたへ【メタミステリ3選】",
-  "url": "https://www.youtube.com/watch?v=XLMRgtSeNTY"
-  },
-  {
-  "title": "個性豊かなメフィスト賞を解説します【面白ければ何でもあり】",
-  "url": "https://www.youtube.com/watch?v=hK7jq7gEJV4"
-  }
-  ]
-  },
-  {
   "title": "4TEEN（新潮文庫）",
   "views": 12,
   "isbn": "B015VXQAWM",
@@ -17755,21 +17916,6 @@ const books = {
   ]
   },
   {
-  "title": "和菓子のアン (光文社文庫)",
-  "views": 12,
-  "isbn": "B00AO36RYG",
-  "data": [
-  {
-  "title": "あなたの周りも謎だらけ？【日常の謎ミステリ3選】",
-  "url": "https://www.youtube.com/watch?v=bfQW8RfqtY4"
-  },
-  {
-  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
-  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
-  }
-  ]
-  },
-  {
   "title": "レペゼン母",
   "views": 12,
   "isbn": "B0B87F52FF",
@@ -18340,6 +18486,21 @@ const books = {
   ]
   },
   {
+  "title": "メメンとモリ (角川書店単行本)",
+  "views": 12,
+  "isbn": "B0C5H85RHN",
+  "data": [
+  {
+  "title": "広すぎる本屋で1万円分の本を買ってみた",
+  "url": "https://www.youtube.com/watch?v=JPj25S6tXDQ"
+  },
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
   "title": "光を灯す男たち (新潮クレスト・ブックス)",
   "views": 12,
   "isbn": "9784105901837",
@@ -18426,6 +18587,51 @@ const books = {
   {
   "title": "クリスマスシーズンもマイペースに読書していくミステリー小説好きの2日間ルーティーン#3【12/21,22】",
   "url": "https://www.youtube.com/watch?v=5v-ELYtWIcc"
+  }
+  ]
+  },
+  {
+  "title": "カブキブ！　１ (角川文庫)",
+  "views": 12,
+  "isbn": "B00EPZCKHM",
+  "data": [
+  {
+  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  },
+  {
+  "title": "年末年始に一気読みしたい本【2024年もよろしくお願いします】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  }
+  ]
+  },
+  {
+  "title": "三体",
+  "views": 12,
+  "isbn": "B07TS9XTSD",
+  "data": [
+  {
+  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  },
+  {
+  "title": "年末年始に一気読みしたい本【2024年もよろしくお願いします】",
+  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
+  }
+  ]
+  },
+  {
+  "title": "真珠湾の冬 (ハヤカワ・ミステリ)",
+  "views": 12,
+  "isbn": "9784150019860",
+  "data": [
+  {
+  "title": "クリスマスシーズンもマイペースに読書していくミステリー小説好きの2日間ルーティーン#3【12/21,22】",
+  "url": "https://www.youtube.com/watch?v=5v-ELYtWIcc"
+  },
+  {
+  "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
+  "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
   }
   ]
   },
@@ -29298,17 +29504,6 @@ const books = {
   ]
   },
   {
-  "title": "公認会計士が教えるお金の増やし方大全",
-  "views": 10,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "【お金のプロが教える】今すぐできる簡単なお金の増やし方が１００個学べます！！！　『公認会計が教えるお金の増やし方大全』",
-  "url": "https://www.youtube.com/watch?v=CbtME9Mn-Z4"
-  }
-  ]
-  },
-  {
   "title": "無神経なアイツに余裕で言い返す！大人の会話術",
   "views": 10,
   "isbn": "None",
@@ -29338,17 +29533,6 @@ const books = {
   {
   "title": "【裏技】あなたの印象は１００％初対面で決まる！だからこそ、必ずこの裏技をしよう！！！『人の心は一瞬でつかめる』",
   "url": "https://www.youtube.com/watch?v=8M1yX6PAt_s"
-  }
-  ]
-  },
-  {
-  "title": "家族3人月10万円暮らし。年間450万円貯蓄する経理マンの幸せにお金を貯める100のリスト",
-  "views": 10,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "誰よりも幸せになりつつ、お金持ちにもなれる！！！そんな欲張りな最高の1冊！『家族3人月10万円暮らし。年間450万円貯蓄する経理マンの幸せにお金を貯める100のリスト』",
-  "url": "https://www.youtube.com/watch?v=Ty4tSPxBTKc"
   }
   ]
   },
@@ -29701,17 +29885,6 @@ const books = {
   {
   "title": "【真実】あなたがどうしてもあの人を許せないのは、理由があるからなんです！！！   『人は、なぜ他人を許せないのか？』",
   "url": "https://www.youtube.com/watch?v=TJ9mm0YcW9U"
-  }
-  ]
-  },
-  {
-  "title": "これだけやれば大丈夫！　お金の不安がなくなる資産形成1年生",
-  "views": 10,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "【話題作】お金増やしたい人は絶対読んでおいた方が良い本！　『お金の不安がなくなる資産形成1年生』",
-  "url": "https://www.youtube.com/watch?v=AGbEC94Qdhw"
   }
   ]
   },
@@ -41464,17 +41637,6 @@ const books = {
   ]
   },
   {
-  "title": "イキルキス (講談社文庫)",
-  "views": 10,
-  "isbn": "B01DLYGWWG",
-  "data": [
-  {
-  "title": "忘れられない書影10選",
-  "url": "https://www.youtube.com/watch?v=sn0WcmJcr5g"
-  }
-  ]
-  },
-  {
   "title": "秘密のレプタイルズ（１） (裏少年サンデーコミックス)",
   "views": 10,
   "isbn": "B01LEMKKSE",
@@ -46315,17 +46477,6 @@ const books = {
   ]
   },
   {
-  "title": "メメンとモリ (角川書店単行本)",
-  "views": 10,
-  "isbn": "B0C5H85RHN",
-  "data": [
-  {
-  "title": "広すぎる本屋で1万円分の本を買ってみた",
-  "url": "https://www.youtube.com/watch?v=JPj25S6tXDQ"
-  }
-  ]
-  },
-  {
   "title": "情景の殺人者　Ｓｃｅｎｅ　Ｋｉｌｌｅｒ (講談社ノベルス)",
   "views": 10,
   "isbn": "B0CJR9B361",
@@ -46865,17 +47016,6 @@ const books = {
   ]
   },
   {
-  "title": "残酷すぎる幸せとお金の経済学",
-  "views": 10,
-  "isbn": "B0CN8WQL8H",
-  "data": [
-  {
-  "title": "【11分で解説】残酷すぎる幸せとお金の経済学",
-  "url": "https://www.youtube.com/watch?v=3-2usTM0pwE"
-  }
-  ]
-  },
-  {
   "title": "人は、なぜさみしさに苦しむのか？",
   "views": 10,
   "isbn": "B0CGWF8SMF",
@@ -46927,28 +47067,6 @@ const books = {
   {
   "title": "【要約】射精責任【ガブリエル・ブレア】",
   "url": "https://www.youtube.com/watch?v=snxEnPYEcJM"
-  }
-  ]
-  },
-  {
-  "title": "カブキブ！　１ (角川文庫)",
-  "views": 10,
-  "isbn": "B00EPZCKHM",
-  "data": [
-  {
-  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
-  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
-  }
-  ]
-  },
-  {
-  "title": "三体",
-  "views": 10,
-  "isbn": "B07TS9XTSD",
-  "data": [
-  {
-  "title": "年末年始に一気読みしたい本【2023年もありがとうございました】",
-  "url": "https://www.youtube.com/watch?v=m7WzQKaV_EQ"
   }
   ]
   },
@@ -47107,17 +47225,6 @@ const books = {
   ]
   },
   {
-  "title": "真珠湾の冬 (ハヤカワ・ミステリ)",
-  "views": 10,
-  "isbn": "9784150019860",
-  "data": [
-  {
-  "title": "クリスマスシーズンもマイペースに読書していくミステリー小説好きの2日間ルーティーン#3【12/21,22】",
-  "url": "https://www.youtube.com/watch?v=5v-ELYtWIcc"
-  }
-  ]
-  },
-  {
   "title": "ファラデー家の殺人 (論創海外ミステリ 301)",
   "views": 10,
   "isbn": "9784846022679",
@@ -47151,6 +47258,237 @@ const books = {
   ]
   },
   {
+  "title": "子どもとの関係が変わる　自分の親に読んでほしかった本",
+  "views": 10,
+  "isbn": "9784296117673",
+  "data": [
+  {
+  "title": "すげぇな。。。自分の親に読んでほしい1冊でした。『子どもとの関係が変わる　自分の親に読んでほしかった本』",
+  "url": "https://www.youtube.com/watch?v=yjEcRIP5EEs"
+  }
+  ]
+  },
+  {
+  "title": "スモールビジネスの教科書",
+  "views": 10,
+  "isbn": "B09VSJWF8D",
+  "data": [
+  {
+  "title": "月収300万円！？嘘でしょ！？実はこれを実現させる裏技があるんです！『スモールビジネスの教科書』",
+  "url": "https://www.youtube.com/watch?v=Mv0ugFoVuR8"
+  }
+  ]
+  },
+  {
+  "title": "残酷すぎる 幸せとお金の経済学",
+  "views": 10,
+  "isbn": "9784833425186",
+  "data": [
+  {
+  "title": "お金が無いと全国民が不幸になるデータがあったんです。『残酷すぎる幸せとお金の経済学』",
+  "url": "https://www.youtube.com/watch?v=n48f2iO9rsk"
+  }
+  ]
+  },
+  {
+  "title": "「今どきの若者」のリアル (PHP新書)",
+  "views": 10,
+  "isbn": "9784569856070",
+  "data": [
+  {
+  "title": "【12分で解説】「今どきの若者」のリアル 　Z世代の行動原理",
+  "url": "https://www.youtube.com/watch?v=gZMVYdUv-xY"
+  }
+  ]
+  },
+  {
+  "title": "手帳で夢をかなえる全技術",
+  "views": 10,
+  "isbn": "B08MPWNLV1",
+  "data": [
+  {
+  "title": "【12分で解説】手帳で夢をかなえる全技術",
+  "url": "https://www.youtube.com/watch?v=A6FYdEgMofQ"
+  }
+  ]
+  },
+  {
+  "title": "一冊の手帳で夢は必ずかなう - なりたい自分になるシンプルな方法",
+  "views": 10,
+  "isbn": "B00FE9I73Y",
+  "data": [
+  {
+  "title": "【13分で解説】一冊の手帳で夢は必ずかなう　 なりたい自分になるシンプルな方法",
+  "url": "https://www.youtube.com/watch?v=uswANsoftjU"
+  }
+  ]
+  },
+  {
+  "title": "今日、誰のために生きる？----アフリカの小さな村が教えてくれた幸せがずっと続く30の物語",
+  "views": 10,
+  "isbn": "9784331523995",
+  "data": [
+  {
+  "title": "【要約】今日、誰のために生きる？----アフリカの小さな村が教えてくれた幸せがずっと続く30の物語【ひすいこたろう 、 SHOGEN】",
+  "url": "https://www.youtube.com/watch?v=9bYFuYKl8fQ"
+  }
+  ]
+  },
+  {
+  "title": "死んでいる私と、私みたいな人たちの声",
+  "views": 10,
+  "isbn": "B0B775Y8K4",
+  "data": [
+  {
+  "title": "文体が独特すぎる本3選",
+  "url": "https://www.youtube.com/watch?v=I609LWFumVI"
+  }
+  ]
+  },
+  {
+  "title": "新装版　翼ある闇　メルカトル鮎最後の事件 (講談社ノベルス)",
+  "views": 10,
+  "isbn": "B00GXRULA8",
+  "data": [
+  {
+  "title": "探偵が不利すぎるミステリ3選",
+  "url": "https://www.youtube.com/watch?v=PHi9rM4x9aI"
+  }
+  ]
+  },
+  {
+  "title": "最愛の (集英社文芸単行本)",
+  "views": 10,
+  "isbn": "B0CH38SNG8",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "ピュア",
+  "views": 10,
+  "isbn": "B086YSQMTL",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "肉を脱ぐ (単行本 )",
+  "views": 10,
+  "isbn": "9784480805140",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "可能性にアクセスするパフォーマンス医学 (星海社 e-SHINSHO)",
+  "views": 10,
+  "isbn": "B0CKL8LCYT",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "本の背骨が最後に残る",
+  "views": 10,
+  "isbn": "B0CH84BGW7",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "恋できみが死なない理由",
+  "views": 10,
+  "isbn": "9784309031552",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "星を編む",
+  "views": 10,
+  "isbn": "B0CM3BY945",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "コンビニエンス・ラブ",
+  "views": 10,
+  "isbn": "B0CHFMPSSH",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "人間やめたマヌルさんが、あなたの人生占います (ポプラ文庫)",
+  "views": 10,
+  "isbn": "B0CMQF3ZNK",
+  "data": [
+  {
+  "title": "最近読んだ本を10冊紹介します【2024年1月】",
+  "url": "https://www.youtube.com/watch?v=Gx08REGGUtk"
+  }
+  ]
+  },
+  {
+  "title": "黒き荒野の果て (ハーパーBOOKS)",
+  "views": 10,
+  "isbn": "9784596319234",
+  "data": [
+  {
+  "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
+  "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
+  }
+  ]
+  },
+  {
+  "title": "頬に哀しみを刻め (ハーパーＢＯＯＫＳ)",
+  "views": 10,
+  "isbn": "9784596766557",
+  "data": [
+  {
+  "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
+  "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
+  }
+  ]
+  },
+  {
+  "title": "木曜殺人クラブ (ハヤカワ・ミステリ(1971))",
+  "views": 10,
+  "isbn": "9784150019716",
+  "data": [
+  {
+  "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
+  "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
+  }
+  ]
+  },
+  {
   "title": "内臓脂肪の名医が教える 痩せるお酒の飲み方: お酒と肝臓の仕組みがわかれば 飲みながらでも痩せられる!",
   "views": 0,
   "isbn": "9784537221541",
@@ -47171,4 +47509,5 @@ const books = {
   ]
   }
 
-export default books;
+
+export default books
