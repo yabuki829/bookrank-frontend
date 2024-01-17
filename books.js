@@ -1,5 +1,5 @@
 const books = {
-  "total_books": 3692,
+  "total_books": 3709,
   "books": [
   {
   "title": "人は話し方が9割",
@@ -7124,6 +7124,21 @@ const books = {
   ]
   },
   {
+  "title": "失敗の科学",
+  "views": 20,
+  "isbn": "None",
+  "data": [
+  {
+  "title": "【世界的ベストセラー】失敗の科学｜本当は教えたくない「失敗をゼロにする方法」",
+  "url": "https://www.youtube.com/watch?v=aOKPLOAp9lc"
+  },
+  {
+  "title": "【要約】失敗の科学【マシュー・サイド】",
+  "url": "https://www.youtube.com/watch?v=hhIovH33Vgw"
+  }
+  ]
+  },
+  {
   "title": "「すぐやる人」と「やれない人」の習慣 (アスカビジネス)",
   "views": 20,
   "isbn": "None",
@@ -9646,6 +9661,37 @@ const books = {
   ]
   },
   {
+  "title": "人生を変える 哲学者の言葉366",
+  "views": 20,
+  "isbn": "9784866631875",
+  "data": [
+  {
+  "title": "【名著】オイディプス王｜ソポクレス　しんどい、今を乗り越えたい、あなたへ。～ギリシャ悲劇の最高傑作～",
+  "url": "https://www.youtube.com/watch?v=CwgX_eNJvd4"
+  },
+  {
+  "title": "【名著】影をなくした男｜シャミッソー　もっとシンプルに、楽に生きていく。　～全てを失った男に学ぶ、最高の人生の見つけ方～",
+  "url": "https://www.youtube.com/watch?v=dmKXhX_Tl4A"
+  },
+  {
+  "title": "【名著】葉隠｜山本常朝　頭の良さも、才能もいらない。「抜群の信頼と成功を掴む人」のたった１つの特徴",
+  "url": "https://www.youtube.com/watch?v=ASj_JznGD4Q"
+  },
+  {
+  "title": "【名著】三教指帰｜空海　全ての悩みは、10段階で消滅する。 ～現代人の心を救う、天才僧侶の秘密の教え～",
+  "url": "https://www.youtube.com/watch?v=u9thajcl2oc"
+  },
+  {
+  "title": "【名著】実存主義とは何か｜サルトル 人生がうまくいく人の、超単純な共通点について　～20世紀最大の哲学者が語る、希望の哲学～",
+  "url": "https://www.youtube.com/watch?v=BZlmKUyBWMA"
+  },
+  {
+  "title": "【名著】怠惰への讃歌｜ラッセル  幸福と成功を呼ぶ、「怠け癖」のすすめ　～20世紀最大の知性ラッセルに学ぶ、怠惰の思想～",
+  "url": "https://www.youtube.com/watch?v=g6aWqt4SkqE"
+  }
+  ]
+  },
+  {
   "title": "かすり傷も痛かった (幻冬舎単行本)",
   "views": 20,
   "isbn": "B0CGT335HP",
@@ -9811,6 +9857,21 @@ const books = {
   ]
   },
   {
+  "title": "楽園の犬",
+  "views": 20,
+  "isbn": "9784758414470",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説好きが購入した本＆ご献本作品！合計4冊紹介！【2023年9月前半編】",
+  "url": "https://www.youtube.com/watch?v=U5u-ZGHwIcA"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
   "title": "ミナヅキトウカの思考実験",
   "views": 20,
   "isbn": "9784863113794",
@@ -9822,6 +9883,36 @@ const books = {
   {
   "title": "【読んだ本】ミステリー小説ばかり読む人の読了本5作品紹介します！【2023年9月】",
   "url": "https://www.youtube.com/watch?v=aPwMAwILp5I"
+  }
+  ]
+  },
+  {
+  "title": "被疑者アンデルセンの逃亡 (下) (竹書房文庫 か 19-2)",
+  "views": 20,
+  "isbn": "9784801932173",
+  "data": [
+  {
+  "title": "【読んだ本】ミステリー小説が大好きな人の読了本を5作品紹介します！【2023年8月】",
+  "url": "https://www.youtube.com/watch?v=vBqD-2iJmlQ"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "黄色い家 (単行本)",
+  "views": 20,
+  "isbn": "9784120056284",
+  "data": [
+  {
+  "title": "【全7冊】本を１万円分購入したので紹介します！",
+  "url": "https://www.youtube.com/watch?v=JoRfRq7roF0"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
   }
   ]
   },
@@ -9867,6 +9958,37 @@ const books = {
   {
   "title": "【要約】残酷すぎる幸せとお金の経済学【佐藤一磨】",
   "url": "https://www.youtube.com/watch?v=HAyyhty1o9A"
+  }
+  ]
+  },
+  {
+  "title": "登録者50万人超のYouTuberが明かす “顔出しナシ”でYoutubeで稼ぐ本",
+  "views": 20,
+  "isbn": "9784804718910",
+  "data": [
+  {
+  "title": "聞き流すだけでお金が貯まるノウハウが151％身に付きます！『総集編　節約・貯金』",
+  "url": "https://www.youtube.com/watch?v=08tMBUHSCI4"
+  },
+  {
+  "title": "すげぇな。。。自分の親に読んでほしい1冊でした。『子どもとの関係が変わる　自分の親に読んでほしかった本』",
+  "url": "https://www.youtube.com/watch?v=yjEcRIP5EEs"
+  },
+  {
+  "title": "月収300万円！？嘘でしょ！？実はこれを実現させる裏技があるんです！『スモールビジネスの教科書』",
+  "url": "https://www.youtube.com/watch?v=Mv0ugFoVuR8"
+  },
+  {
+  "title": "お金が無いと全国民が不幸になるデータがあったんです。『残酷すぎる幸せとお金の経済学』",
+  "url": "https://www.youtube.com/watch?v=n48f2iO9rsk"
+  },
+  {
+  "title": "新NISAまだ間に合う！やっていない人は1秒でも早く始めないと損します！『大改正でどう変わる？新NISA徹底活用術』",
+  "url": "https://www.youtube.com/watch?v=k2zqje37U9k"
+  },
+  {
+  "title": "ガチでやれば月収10万増やすのは可能です！『成功確率が格段に上がる起業の準備』",
+  "url": "https://www.youtube.com/watch?v=qMti3Bbcoog"
   }
   ]
   },
@@ -10002,33 +10124,6 @@ const books = {
   {
   "title": "【東南アジア①】東南アジア現代史とASEAN",
   "url": "https://www.youtube.com/watch?v=sSBcgLJ9bEI"
-  }
-  ]
-  },
-  {
-  "title": "人生を変える 哲学者の言葉366",
-  "views": 18,
-  "isbn": "9784866631875",
-  "data": [
-  {
-  "title": "【名著】オイディプス王｜ソポクレス　しんどい、今を乗り越えたい、あなたへ。～ギリシャ悲劇の最高傑作～",
-  "url": "https://www.youtube.com/watch?v=CwgX_eNJvd4"
-  },
-  {
-  "title": "【名著】影をなくした男｜シャミッソー　もっとシンプルに、楽に生きていく。　～全てを失った男に学ぶ、最高の人生の見つけ方～",
-  "url": "https://www.youtube.com/watch?v=dmKXhX_Tl4A"
-  },
-  {
-  "title": "【名著】葉隠｜山本常朝　頭の良さも、才能もいらない。「抜群の信頼と成功を掴む人」のたった１つの特徴",
-  "url": "https://www.youtube.com/watch?v=ASj_JznGD4Q"
-  },
-  {
-  "title": "【名著】三教指帰｜空海　全ての悩みは、10段階で消滅する。 ～現代人の心を救う、天才僧侶の秘密の教え～",
-  "url": "https://www.youtube.com/watch?v=u9thajcl2oc"
-  },
-  {
-  "title": "【名著】実存主義とは何か｜サルトル 人生がうまくいく人の、超単純な共通点について　～20世紀最大の哲学者が語る、希望の哲学～",
-  "url": "https://www.youtube.com/watch?v=BZlmKUyBWMA"
   }
   ]
   },
@@ -10654,25 +10749,25 @@ const books = {
   ]
   },
   {
-  "title": "登録者50万人超のYouTuberが明かす “顔出しナシ”でYoutubeで稼ぐ本",
+  "title": "卒業生には向かない真実 (創元推理文庫)",
   "views": 16,
-  "isbn": "9784804718910",
+  "isbn": "9784488135072",
   "data": [
   {
-  "title": "聞き流すだけでお金が貯まるノウハウが151％身に付きます！『総集編　節約・貯金』",
-  "url": "https://www.youtube.com/watch?v=08tMBUHSCI4"
+  "title": "【読書vlog】田舎暮らしの夏読書。ずっと楽しみにしてた海外ミステリー完結作を読み始めた日｜ホリー・ジャクソン著『卒業生には向かない真実』【ミステリー小説好きの日常#25】",
+  "url": "https://www.youtube.com/watch?v=JYRWNXX5NLs"
   },
   {
-  "title": "すげぇな。。。自分の親に読んでほしい1冊でした。『子どもとの関係が変わる　自分の親に読んでほしかった本』",
-  "url": "https://www.youtube.com/watch?v=yjEcRIP5EEs"
+  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン【10/9～10/11】",
+  "url": "https://www.youtube.com/watch?v=KFY413DLpWU"
   },
   {
-  "title": "月収300万円！？嘘でしょ！？実はこれを実現させる裏技があるんです！『スモールビジネスの教科書』",
-  "url": "https://www.youtube.com/watch?v=Mv0ugFoVuR8"
+  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
+  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
   },
   {
-  "title": "お金が無いと全国民が不幸になるデータがあったんです。『残酷すぎる幸せとお金の経済学』",
-  "url": "https://www.youtube.com/watch?v=n48f2iO9rsk"
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
   }
   ]
   },
@@ -12197,21 +12292,40 @@ const books = {
   ]
   },
   {
-  "title": "卒業生には向かない真実 (創元推理文庫)",
+  "title": "チョプラ警部の思いがけない相続 (ハーパーＢＯＯＫＳ)",
   "views": 14,
-  "isbn": "9784488135072",
+  "isbn": "9784596772176",
   "data": [
   {
-  "title": "【読書vlog】田舎暮らしの夏読書。ずっと楽しみにしてた海外ミステリー完結作を読み始めた日｜ホリー・ジャクソン著『卒業生には向かない真実』【ミステリー小説好きの日常#25】",
-  "url": "https://www.youtube.com/watch?v=JYRWNXX5NLs"
+  "title": "【購入本紹介】ミステリー小説好きが購入した本＆ご献本作品！合計6冊紹介！【2023年8月編】",
+  "url": "https://www.youtube.com/watch?v=beJ9BramLdY"
   },
   {
-  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン【10/9～10/11】",
-  "url": "https://www.youtube.com/watch?v=KFY413DLpWU"
+  "title": "クリスマスシーズンもマイペースに読書していくミステリー小説好きの2日間ルーティーン#3【12/21,22】",
+  "url": "https://www.youtube.com/watch?v=5v-ELYtWIcc"
   },
   {
-  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
-  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "真珠湾の冬 (ハヤカワ・ミステリ)",
+  "views": 14,
+  "isbn": "9784150019860",
+  "data": [
+  {
+  "title": "クリスマスシーズンもマイペースに読書していくミステリー小説好きの2日間ルーティーン#3【12/21,22】",
+  "url": "https://www.youtube.com/watch?v=5v-ELYtWIcc"
+  },
+  {
+  "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
+  "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
   }
   ]
   },
@@ -16986,6 +17100,21 @@ const books = {
   ]
   },
   {
+  "title": "自分を変える方法──いやでも体が動いてしまうとてつもなく強力な行動科学",
+  "views": 12,
+  "isbn": "9784478112991",
+  "data": [
+  {
+  "title": "【要約】自分を変える方法――いやでも体が動いてしまうとてつもなく強力な行動科学【ケイティ・ミルクマン】",
+  "url": "https://www.youtube.com/watch?v=zxAGXW577e8"
+  },
+  {
+  "title": "【要約】自分を変える方法――いやでも体が動いてしまうとてつもなく強力な行動科学【ケイティ・ミルクマン】",
+  "url": "https://www.youtube.com/watch?v=9jWU7faAV5M"
+  }
+  ]
+  },
+  {
   "title": "(文庫)「ついていきたい」と思われるリーダーになる51の考え方 (サンマーク文庫 い 8-1)",
   "views": 12,
   "isbn": "9784763161246",
@@ -18276,17 +18405,17 @@ const books = {
   ]
   },
   {
-  "title": "チョプラ警部の思いがけない相続 (ハーパーＢＯＯＫＳ)",
+  "title": "被疑者アンデルセンの逃亡 (上) (竹書房文庫 か 19-1)",
   "views": 12,
-  "isbn": "9784596772176",
+  "isbn": "9784801932166",
   "data": [
   {
-  "title": "【購入本紹介】ミステリー小説好きが購入した本＆ご献本作品！合計6冊紹介！【2023年8月編】",
-  "url": "https://www.youtube.com/watch?v=beJ9BramLdY"
+  "title": "【読んだ本】ミステリー小説が大好きな人の読了本を5作品紹介します！【2023年8月】",
+  "url": "https://www.youtube.com/watch?v=vBqD-2iJmlQ"
   },
   {
-  "title": "クリスマスシーズンもマイペースに読書していくミステリー小説好きの2日間ルーティーン#3【12/21,22】",
-  "url": "https://www.youtube.com/watch?v=5v-ELYtWIcc"
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
   }
   ]
   },
@@ -18486,6 +18615,21 @@ const books = {
   ]
   },
   {
+  "title": "この闇と光 (角川文庫)",
+  "views": 12,
+  "isbn": "B00PRPWID0",
+  "data": [
+  {
+  "title": "広すぎる本屋で1万円分の本を買ってみた",
+  "url": "https://www.youtube.com/watch?v=JPj25S6tXDQ"
+  },
+  {
+  "title": "イヤミスマニアがおすすめするイヤミス3選",
+  "url": "https://www.youtube.com/watch?v=A9oso_tcNbs"
+  }
+  ]
+  },
+  {
   "title": "メメンとモリ (角川書店単行本)",
   "views": 12,
   "isbn": "B0C5H85RHN",
@@ -18546,6 +18690,21 @@ const books = {
   ]
   },
   {
+  "title": "哀惜 (ハヤカワ・ミステリ文庫 HMク 25-1)",
+  "views": 12,
+  "isbn": "9784151853012",
+  "data": [
+  {
+  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン#2【11/15～11/17】",
+  "url": "https://www.youtube.com/watch?v=osQ9RdZ5FeQ"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
   "title": "戦国女刑事",
   "views": 12,
   "isbn": "9784093866927",
@@ -18572,6 +18731,36 @@ const books = {
   {
   "title": "【読書vlog】田舎暮らしのハロウィン読書。ブラックユーモア＆ゴシックホラーな海外作品を読んだ日の記録｜『Ｘだらけの社説』｜『メキシカン・ゴシック』【ミステリー小説好きの日常#26】",
   "url": "https://www.youtube.com/watch?v=4DhRkODWAu8"
+  }
+  ]
+  },
+  {
+  "title": "Q",
+  "views": 12,
+  "isbn": "9784093866996",
+  "data": [
+  {
+  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
+  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "この限りある世界で",
+  "views": 12,
+  "isbn": "9784575246391",
+  "data": [
+  {
+  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
+  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
   }
   ]
   },
@@ -18621,17 +18810,47 @@ const books = {
   ]
   },
   {
-  "title": "真珠湾の冬 (ハヤカワ・ミステリ)",
+  "title": "焔と雪　京都探偵物語",
   "views": 12,
-  "isbn": "9784150019860",
+  "isbn": "9784152102645",
   "data": [
   {
   "title": "クリスマスシーズンもマイペースに読書していくミステリー小説好きの2日間ルーティーン#3【12/21,22】",
   "url": "https://www.youtube.com/watch?v=5v-ELYtWIcc"
   },
   {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "頬に哀しみを刻め (ハーパーＢＯＯＫＳ)",
+  "views": 12,
+  "isbn": "9784596766557",
+  "data": [
+  {
   "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
   "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "木曜殺人クラブ (ハヤカワ・ミステリ(1971))",
+  "views": 12,
+  "isbn": "9784150019716",
+  "data": [
+  {
+  "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
+  "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
+  },
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
   }
   ]
   },
@@ -27997,17 +28216,6 @@ const books = {
   ]
   },
   {
-  "title": "失敗の科学",
-  "views": 10,
-  "isbn": "None",
-  "data": [
-  {
-  "title": "【世界的ベストセラー】失敗の科学｜本当は教えたくない「失敗をゼロにする方法」",
-  "url": "https://www.youtube.com/watch?v=aOKPLOAp9lc"
-  }
-  ]
-  },
-  {
   "title": "教養（インテリ）悪口本",
   "views": 10,
   "isbn": "None",
@@ -34384,17 +34592,6 @@ const books = {
   {
   "title": "【要約】99％の人生を決める １％の運の開き方【崔燎平】",
   "url": "https://www.youtube.com/watch?v=0jDthsbUGzo"
-  }
-  ]
-  },
-  {
-  "title": "自分を変える方法──いやでも体が動いてしまうとてつもなく強力な行動科学",
-  "views": 10,
-  "isbn": "9784478112991",
-  "data": [
-  {
-  "title": "【要約】自分を変える方法――いやでも体が動いてしまうとてつもなく強力な行動科学【ケイティ・ミルクマン】",
-  "url": "https://www.youtube.com/watch?v=zxAGXW577e8"
   }
   ]
   },
@@ -44046,17 +44243,6 @@ const books = {
   ]
   },
   {
-  "title": "楽園の犬",
-  "views": 10,
-  "isbn": "9784758414470",
-  "data": [
-  {
-  "title": "【購入本紹介】ミステリー小説好きが購入した本＆ご献本作品！合計4冊紹介！【2023年9月前半編】",
-  "url": "https://www.youtube.com/watch?v=U5u-ZGHwIcA"
-  }
-  ]
-  },
-  {
   "title": "ちぎれた鎖と光の切れ端",
   "views": 10,
   "isbn": "9784065328460",
@@ -44068,17 +44254,6 @@ const books = {
   ]
   },
   {
-  "title": "被疑者アンデルセンの逃亡 (上) (竹書房文庫 か 19-1)",
-  "views": 10,
-  "isbn": "9784801932166",
-  "data": [
-  {
-  "title": "【読んだ本】ミステリー小説が大好きな人の読了本を5作品紹介します！【2023年8月】",
-  "url": "https://www.youtube.com/watch?v=vBqD-2iJmlQ"
-  }
-  ]
-  },
-  {
   "title": "やめる時間術",
   "views": 10,
   "isbn": "B08RB5KW2L",
@@ -44086,17 +44261,6 @@ const books = {
   {
   "title": "【9分】 やめる時間術 (本の要約)",
   "url": "https://www.youtube.com/watch?v=hmiy2JJMh8w"
-  }
-  ]
-  },
-  {
-  "title": "被疑者アンデルセンの逃亡 (下) (竹書房文庫 か 19-2)",
-  "views": 10,
-  "isbn": "9784801932173",
-  "data": [
-  {
-  "title": "【読んだ本】ミステリー小説が大好きな人の読了本を5作品紹介します！【2023年8月】",
-  "url": "https://www.youtube.com/watch?v=vBqD-2iJmlQ"
   }
   ]
   },
@@ -44280,17 +44444,6 @@ const books = {
   "title": "ハンチバック",
   "views": 10,
   "isbn": "9784163917122",
-  "data": [
-  {
-  "title": "【全7冊】本を１万円分購入したので紹介します！",
-  "url": "https://www.youtube.com/watch?v=JoRfRq7roF0"
-  }
-  ]
-  },
-  {
-  "title": "黄色い家 (単行本)",
-  "views": 10,
-  "isbn": "9784120056284",
   "data": [
   {
   "title": "【全7冊】本を１万円分購入したので紹介します！",
@@ -46444,17 +46597,6 @@ const books = {
   ]
   },
   {
-  "title": "この闇と光 (角川文庫)",
-  "views": 10,
-  "isbn": "B00PRPWID0",
-  "data": [
-  {
-  "title": "広すぎる本屋で1万円分の本を買ってみた",
-  "url": "https://www.youtube.com/watch?v=JPj25S6tXDQ"
-  }
-  ]
-  },
-  {
   "title": "チーズの科学　ミルクの力、発酵・熟成の神秘 (ブルーバックス)",
   "views": 10,
   "isbn": "B01MYPTGFN",
@@ -46675,17 +46817,6 @@ const books = {
   ]
   },
   {
-  "title": "哀惜 (ハヤカワ・ミステリ文庫 HMク 25-1)",
-  "views": 10,
-  "isbn": "9784151853012",
-  "data": [
-  {
-  "title": "マイペースに読書していくミステリー小説好きの3日間ルーティーン#2【11/15～11/17】",
-  "url": "https://www.youtube.com/watch?v=osQ9RdZ5FeQ"
-  }
-  ]
-  },
-  {
   "title": "エリザベス女王の事件簿 バッキンガム宮殿の三匹の犬 (角川文庫)",
   "views": 10,
   "isbn": "9784041110201",
@@ -46715,28 +46846,6 @@ const books = {
   {
   "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
   "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
-  }
-  ]
-  },
-  {
-  "title": "Q",
-  "views": 10,
-  "isbn": "9784093866996",
-  "data": [
-  {
-  "title": "【購入本紹介】ミステリー小説ばかり買う人が今年買い逃してきた作品を一気買い！？ご献本も！！全7作品紹介していく！【2023年10月編】",
-  "url": "https://www.youtube.com/watch?v=lt09Liz5Tpg"
-  }
-  ]
-  },
-  {
-  "title": "この限りある世界で",
-  "views": 10,
-  "isbn": "9784575246391",
-  "data": [
-  {
-  "title": "【読んだ本】ミステリー小説ばかり読む人の読了本から推し作品を5冊紹介してみた！【2023年10月】",
-  "url": "https://www.youtube.com/watch?v=1dQz7fqbQZg"
   }
   ]
   },
@@ -47214,17 +47323,6 @@ const books = {
   ]
   },
   {
-  "title": "焔と雪　京都探偵物語",
-  "views": 10,
-  "isbn": "9784152102645",
-  "data": [
-  {
-  "title": "クリスマスシーズンもマイペースに読書していくミステリー小説好きの2日間ルーティーン#3【12/21,22】",
-  "url": "https://www.youtube.com/watch?v=5v-ELYtWIcc"
-  }
-  ]
-  },
-  {
   "title": "ファラデー家の殺人 (論創海外ミステリ 301)",
   "views": 10,
   "isbn": "9784846022679",
@@ -47467,24 +47565,189 @@ const books = {
   ]
   },
   {
-  "title": "頬に哀しみを刻め (ハーパーＢＯＯＫＳ)",
+  "title": "怠惰への讃歌 (平凡社ライブラリー)",
   "views": 10,
-  "isbn": "9784596766557",
+  "isbn": "9784582766769",
   "data": [
   {
-  "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
-  "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
+  "title": "【名著】怠惰への讃歌｜ラッセル  幸福と成功を呼ぶ、「怠け癖」のすすめ　～20世紀最大の知性ラッセルに学ぶ、怠惰の思想～",
+  "url": "https://www.youtube.com/watch?v=g6aWqt4SkqE"
   }
   ]
   },
   {
-  "title": "木曜殺人クラブ (ハヤカワ・ミステリ(1971))",
+  "title": "大改正でどう変わる？　新NISA　徹底活用術",
   "views": 10,
-  "isbn": "9784150019716",
+  "isbn": "9784296117611",
   "data": [
   {
-  "title": "【2024年】年末年始に読んだミステリー小説を5作品まとめて紹介！",
-  "url": "https://www.youtube.com/watch?v=S_aKqr4EFog"
+  "title": "新NISAまだ間に合う！やっていない人は1秒でも早く始めないと損します！『大改正でどう変わる？新NISA徹底活用術』",
+  "url": "https://www.youtube.com/watch?v=k2zqje37U9k"
+  }
+  ]
+  },
+  {
+  "title": "成功確率が格段に上がる起業の準備　起業は準備で９割決まる！",
+  "views": 10,
+  "isbn": "9784761276980",
+  "data": [
+  {
+  "title": "ガチでやれば月収10万増やすのは可能です！『成功確率が格段に上がる起業の準備』",
+  "url": "https://www.youtube.com/watch?v=qMti3Bbcoog"
+  }
+  ]
+  },
+  {
+  "title": "コンテンツのつくり方",
+  "views": 10,
+  "isbn": "B07GB5JLSB",
+  "data": [
+  {
+  "title": "【10分で解説】コンテンツのつくり方　商品・サービスの本質とは？",
+  "url": "https://www.youtube.com/watch?v=wjEtxWlyLGU"
+  }
+  ]
+  },
+  {
+  "title": "アソビジネス大全──遊び＋ビジネスで人生が変わる",
+  "views": 10,
+  "isbn": "9784426129088",
+  "data": [
+  {
+  "title": "【11分で解説】アソビジネス大全　遊び＋ビジネスで人生が変わる",
+  "url": "https://www.youtube.com/watch?v=Xvll_RyaBoQ"
+  }
+  ]
+  },
+  {
+  "title": "はじめての目標達成ノート",
+  "views": 10,
+  "isbn": "B0CKT54K1F",
+  "data": [
+  {
+  "title": "【10分で解説】はじめての目標達成ノート",
+  "url": "https://www.youtube.com/watch?v=5XNicF32riM"
+  }
+  ]
+  },
+  {
+  "title": "Ｎ (集英社文芸単行本)",
+  "views": 10,
+  "isbn": "B09HJVKLL4",
+  "data": [
+  {
+  "title": "夜道で声かけられた #小説 #本",
+  "url": "https://www.youtube.com/watch?v=FDEW-ri0sO4"
+  }
+  ]
+  },
+  {
+  "title": "友罪 (集英社文庫)",
+  "views": 10,
+  "isbn": "B01C8H1X30",
+  "data": [
+  {
+  "title": "イヤミスマニアがおすすめするイヤミス3選",
+  "url": "https://www.youtube.com/watch?v=A9oso_tcNbs"
+  }
+  ]
+  },
+  {
+  "title": "みんな蛍を殺したかった",
+  "views": 10,
+  "isbn": "B09G3B62FZ",
+  "data": [
+  {
+  "title": "イヤミスマニアがおすすめするイヤミス3選",
+  "url": "https://www.youtube.com/watch?v=A9oso_tcNbs"
+  }
+  ]
+  },
+  {
+  "title": "ヴィンテージガール 仕立屋探偵 桐ヶ谷京介 (講談社文庫)",
+  "views": 10,
+  "isbn": "9784065311714",
+  "data": [
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "戦火のオートクチュール(祥伝社文庫さ24-1) (祥伝社文庫 さ 24-1)",
+  "views": 10,
+  "isbn": "9784396348748",
+  "data": [
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "ノウイットオール あなただけが知っている",
+  "views": 10,
+  "isbn": "9784163917207",
+  "data": [
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "サクラサク、サクラチル",
+  "views": 10,
+  "isbn": "9784575246513",
+  "data": [
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "アンデッドガール・マーダーファルス 1 (講談社タイガ)",
+  "views": 10,
+  "isbn": "9784062940092",
+  "data": [
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "辮髪のシャーロック・ホームズ 神探福邇の事件簿",
+  "views": 10,
+  "isbn": "9784163915296",
+  "data": [
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "恐るべき太陽 (集英社文庫)",
+  "views": 10,
+  "isbn": "9784087607840",
+  "data": [
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
+  }
+  ]
+  },
+  {
+  "title": "帝国の亡霊、そして殺人 (ハヤカワ・ミステリ)",
+  "views": 10,
+  "isbn": "9784150019884",
+  "data": [
+  {
+  "title": "【2023年】年間ベスト決定！全力で推したいミステリー小説ベスト20発表します！【ミステリー文学の本棚大賞】",
+  "url": "https://www.youtube.com/watch?v=qS-0Pqizoms"
   }
   ]
   },
@@ -47509,5 +47772,4 @@ const books = {
   ]
   }
 
-
-export default books
+export default books;
